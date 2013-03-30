@@ -1,0 +1,312 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>PHP4 hay PHP5 ? - NARGA</title>
+  <meta name="author" content="Nguyễn Đình Quân">
+
+  
+  <meta name="description" content="Đọc bài viết này của pcdinh trên Goldenkey Forum: Việc chuyển từ PHP4 sang PHP5 không hề đơn giản. Những sai lầm trong PHP4 đã khiến cho con đường đi &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://Narga.github.com/narga-octopress/2005/05/php4-hay-php5/">
+  <link href="/narga-octopress/favicon.png" rel="icon">
+  <link href="/narga-octopress/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <script src="/narga-octopress/javascripts/modernizr-2.0.js"></script>
+  <script src="/narga-octopress/javascripts/ender.js"></script>
+  <script src="/narga-octopress/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="NARGA" type="application/atom+xml">
+  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
+<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+
+  
+
+</head>
+
+<body   >
+  <header role="banner"><hgroup>
+  <div id="logo">
+  	<div id="logoLeft">{</div>
+  	<div id="logoText">mob</div>
+  	<div id="logoRight">}</div>
+  	<div class="clear"></div>
+  </div>
+  <h1><a href="/narga-octopress/">NARGA</a></h1>
+  
+    <h2>Ý tưởng và quan điểm!</h2>
+  
+  <div class="clear"></div>
+</hgroup>
+
+</header>
+  <nav role="navigation"><ul class="subscription" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+  
+</ul>
+  
+<form action="http://google.com/search" method="get">
+  <fieldset role="search">
+    <input type="hidden" name="q" value="site:Narga.github.com/narga-octopress" />
+    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+  </fieldset>
+</form>
+  
+<ul class="main-navigation">
+  <li><a href="/narga-octopress/">Blog</a></li>
+  <li><a href="/narga-octopress/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+  <div id="main">
+    <div id="content">
+      <div>
+<article class="hentry" role="article">
+  
+  <header>
+    
+      
+        <h1 class="entry-title">PHP4 Hay PHP5 ?</h1>
+      
+    
+    
+      <p class="meta">
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-05-26T19:12:00+07:00" pubdate data-updated="true">May 26<span>th</span>, 2005</time>
+        
+         | <a href="#disqus_thread">Comments</a>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><p>Đọc bài viết này của pcdinh trên Goldenkey Forum:</p>
+
+<blockquote><p>Việc chuyển từ PHP4 sang PHP5 không hề đơn giản. Những sai lầm trong PHP4 đã khiến cho con đường đi đến thành trì của PHP5 chứa đầy sỏi đá và chẳng bằng phẳng.</p></blockquote>
+
+<!-- more -->
+
+
+<blockquote><ol>
+<li><p>Thứ nhất, có quá nhiều ứng dụng PHP viết theo kiểu cấu trúc khiến cho tính OO trong PHP5 không hề hấp dẫn. Viết lại chúng ư? Một công việc khổng lồ. Ai sẽ trả tiền?</p></li>
+<li><p>Thứ hai, có nhiều ứng dụng xen lẫn cả thủ tục và đối tượng, nhưng là một thứ đối tượng dở người của PHP4. Việc chuyển sang chạy trên PHP5 sẽ tạo ra các điểm break mà phát hiện ra chúng không hề dễ dàng.</p></li>
+<li><p>Thứ ba, dân lập trình PHP đa phần là dân tài tử. PHP đã tạo nên một hàng rào rất thấp khiến cho ai cũng có thể trở thành một lập trình viên. Không có coding convention thống nhất, API thì phi chuẩn, code mã thì thủ tục, không có tiền lệ sử dụng các design pattern, không có sự khuyến khích dùng lại mã, không khuyến khích các best practice trong lập trình, không khuyến khích test driven&#8230; Trở nên chuyên nghiệp hơn với OOP ư? Ai sẽ trả tiền?</p></li>
+<li><p>Thứ tư, đa số các ứng dụng PHP là viết vì lý do cá nhân hoặc là mã nguồn mở viết vì vui thích hay một nhu cầu trước mắt. Điều này khác với Java, một công nghệ hướng vào thị trường doanh nghiệp, nơi mà người ta khuyến khích dùng lại mã vì&#8230; ông chủ không vui khi trả tiền 2 lần để có cùng một đoạn mã và này, các lập trình viên trẻ, hãy viết ra sao để khi các cậu đếch làm cho tôi nữa thì sẽ có người khác gánh vác công việc của cậu vì khách hàng đó còn làm việc với chúng ta dài đấy.</p></li>
+<li><p>Thứ năm, hướng đối tượng ư? Doanh nghiệp ư? Tại sao không phải là Java mà lại là PHP5? Tôi tưởng PHP chỉ dùng để code forum, mấy trang tin nhỏ nho hay đại loại cái gì đó be bé thôi chứ? Cộng đồng PHP ư? Ôi cộng đồng là một lũ nhăng nhố, nay ở mai đi, ai dám khẳng định họ sẽ cam kết cho sự phát triển kinh doanh của tôi? Mã nguồn mở? Chúa ơi, tôi là một bậc thầy về kinh doanh mà Thượng Đế của tôi lại là lợi nhuận. Xin lỗi nhé ông ta không biết đọc mã nguồn. Hãy chỉ cho tôi ai là người có khả năng đọc nó. Chúng tôi cần tiết kiệm tiền nhưng chúng tôi cũng cần nhanh chóng và rủi ro thấp nữa. Mã nguồn mở không có nghĩa là phi rủi ro.</p></li>
+</ol>
+</blockquote>
+
+<ol>
+<li>Thứ sáu, chúa ơi, Andi và Gutman có biết đến câu Tồi hơn là tốt hơn không vậy? Xin đứng bắt tôi học thêm. Tại sao tôi phải học nấu cơm trong khi tôi đã có sẵn mì ăn liền. Lập trình PHP4 dễ như đi câu cá. Xin đừng làm cho tính lãng mạng của tôi bị ảnh hưởng với sự trừu tượng của OOP. Đẳng cấp doanh nghiệp ư? Xin đừng làm tôi mê muội bằng những ngôn ngữ mang tính dịch thuật và marketing của nhóm PHPVietnam. Tôi ngán chúng nó đến tận cổ rồi. Dù có thêm PHP5 hay PHP6 thì tôi vẫn chỉ code PHP cho cá nhân tôi và cái phần mềm của tôi vẫn be bé như thế. 10.000 hay 20.000 request 1 giây ư? Lạy chúa, băng thông của con chỉ có 3GB 1 tháng. Xin chúa rủ lòng thương.</li>
+</ol>
+
+
+<p>Tóm lại, việc chuyển từ PHP4 sang PHP5 đang bị chi phối rất nhiều vào tầm cỡ cộng đồng (dân PHP không có nhiều người thông minh đâu), tính tương thích của các ứng dụng đang dùng, số ứng dụng mới có khả năng thay thế chạy được trên PHP5, tâm lý chống đối và ngại chuyển đổi, sự đón nhận PHP từ phía doanh nghiệp. Đây là những điều mà tôi đã rút ra sau khi đã lập ra PHPVietnam.</p>
+
+<p>Thời gian sẽ trả lời và việc quyết định là tùy ở bạn</p>
+
+<p>và thêm nữa của lineage</p>
+
+<blockquote><p>em có đọc một bài của một tiền bối với 30 năm kinh nghiệm làm về software engineering ở Carnegie Mellon University (một trong những trường dạy về Khoa học máy tính danh tiếng nhất nhì thế giới) , ông ấy nói rằng giới trẻ đừng bao giờ nên học .NET trước tiên mặc dù .NET rất là mạnh. Hãy học về Java, Perl hay Python trước để nắm được cái nền tảng về lập trình hướng đối tượng rồi sau đó học .NET sẽ nhanh hơn, hiểu rõ hơn. Ông ấy nói với cách học này ông tin chắc rằng người học sẽ tiến xa hơn rất nhiều, giỏi hơn nhiều so với những anh lười nhác chỉ biết dựa vào những công cụ có sẵn trong .NET.
+Ông ấy nói Java và .NET không có khác gì nhau xét về nguyên lý vì .NET là một bản sao của Java về mặt ý tưởng + phong cách và những toan tính của Microsoft mà thôi. Microsoft bao giờ cũng là công ty có khả năng tạo ra các công cụ dễ làm việc nhất. Nhưng trong khi tạo điều kiện về mọi thứ thì user lại hòan toàn bị lệ thuộc. Họ chỉ biết kéo và thả hoặc chỉ biết ấn nút chứ đâu có biết cái gì nằm bên dưới. Rồi dần dần, cái ấn nút và kéo thả làm cho họ lười đi, họ quen với cái đó, họ không thể dứt ra được. Họ bị chi phối hòan toàn bởi M$.
+Chuyển sang một ngôn ngữ mới ư ? Nhiều người chuyên về .NET (không phải tất cả) sẽ hỏi: nó có kéo thả không, nó có tiện ích như Visual Studio không&#8230;. Nghĩa là tài năng của họ đang thui chột, tính cơ động và khả năng ứng biến của họ đang giảm sút rõ rệt. Những người như thế khi công nghệ thay đổi họ dễ bị đứt quá vì khả năng học của họ giảm đi quá nhiều. Giống như con gà tre (sống bờ bụi) với con gà công nghiệp ấy mà. Dân .NET nhiều người tự biến họ thành con gà công nghiệp.
+Các bác không tin ư? Cứ hỏi mấy bác chuyển từ VB 6 sang Java mà xem: luôn miệng hỏi: công cụ nào hỗ trợ kéo và thả để tạo giao diện. Ở Java không có tiền lệ đó mặc dù NetBeans có hỗ trợ kéo và thả. Chính vì thế, giới lập trình luôn coi trọng trình độ của dân Java hơn dân .NET. Do phải suy nghĩ nhiều hơn, làm việc nhiều hơn nên giới công nghệ ở Mĩ gọi dân Java là dân smart (thông minh).</p>
+
+<p>Điều không may là ở giới PHP có nhiều người thiếu chuyên nghiệp, họ viết mã nhưng lại không hiểu gì về software engineering vì họ chẳng quan tâm đến điều đó. Trên các diễn đàn quốc tế, em gặp khối đứa có 12-13 tuổi code PHP ầm ầm. Hi vọng PHP5 sẽ trấn chỉnh lại hàng rào gia nhập đội ngũ PHP coder, yêu cầu họ nghĩ nhiều hơn trước khi viết, buộc họ đánh giá lại PHP và không coi PHP là ngôn ngữ mì ăn liền nữa.</p></blockquote>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Nguyễn Đình Quân</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-05-26T19:12:00+07:00" pubdate data-updated="true">May 26<span>th</span>, 2005</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/narga-octopress/blog/categories/lap-trinh/'>Lập trình</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  
+  
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  
+</div>
+
+    
+    <p class="meta">
+      
+        <a class="basic-alignment left articlenav" href="/narga-octopress/2005/05/quan-tu-tieu-nhan-nguy-quan-tu/" title="Previous Post: Quân tử - Tiểu nhân - Ngụy quân tử">&laquo; Quân tử - Tiểu nhân - Ngụy quân tử</a>
+      
+      
+        <a class="basic-alignment right articlenav" href="/narga-octopress/2005/06/yen-vi-se-bi-xu-ly-ve-hanh-vi-ban-dam-pha-gia/" title="Next Post: Yến Vy sẽ bị xử lý về hành vi bán dâm phá giá">Yến Vy sẽ bị xử lý về hành vi bán dâm phá giá &raquo;</a>
+      
+    </p>
+  </footer>
+</article>
+
+  <section>
+    <h1>Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+  </section>
+
+</div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>Recent Posts</h1>
+  <ul id="recent_posts">
+    
+      <li class="post">
+        <a href="/narga-octopress/2012/11/goi-cai-dat-cac-font-cu-tcvn3-va-vni-cho-arch-linux/">Gói cài đặt các font cũ TCVN3 và VNI cho Arch Linux</a>
+      </li>
+    
+      <li class="post">
+        <a href="/narga-octopress/2006/03/truyen-thu-vi-doi-thuong/">Những truyện thú vị đời thuờng</a>
+      </li>
+    
+      <li class="post">
+        <a href="/narga-octopress/2006/02/nhung-dieu-thu-vi-ve-loai-meo-some-interested-things-about-the-cat/">Những điều thú vị về loài mèo</a>
+      </li>
+    
+      <li class="post">
+        <a href="/narga-octopress/2006/02/2-trong-1-chan-nhat-theo-loi-mon/">2 trong 1 - Chán, nhạt, theo lối mòn</a>
+      </li>
+    
+      <li class="post">
+        <a href="/narga-octopress/2006/01/intel-application-accelerator-v23/">Tăng tốc CPU với Intel® Application Accelerator</a>
+      </li>
+    
+  </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/narga">@narga</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'narga',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/narga-octopress/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
+
+
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo"><p>
+  Copyright &copy; 2013 - Nguyễn Đình Quân -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'archviet';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://Narga.github.com/narga-octopress/2005/05/php4-hay-php5/';
+        var disqus_url = 'http://Narga.github.com/narga-octopress/2005/05/php4-hay-php5/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

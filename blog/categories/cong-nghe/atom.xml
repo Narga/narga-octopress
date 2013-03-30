@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Công nghệ | NARGA]]></title>
+  <link href="http://Narga.github.com/narga-octopress/blog/categories/cong-nghe/atom.xml" rel="self"/>
+  <link href="http://Narga.github.com/narga-octopress/"/>
+  <updated>2013-03-30T11:48:00+07:00</updated>
+  <id>http://Narga.github.com/narga-octopress/</id>
+  <author>
+    <name><![CDATA[Nguyễn Đình Quân]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tăng tốc CPU với Intel® Application Accelerator]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/01/intel-application-accelerator-v23/"/>
+    <updated>2006-01-13T20:56:09+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/01/intel-application-accelerator-v23</id>
+    <content type="html"><![CDATA[<p>Hãng sản xuất chip lớn nhất thế giới vừa mới ra mắt phiên bản Intel Application Accelerator 2.3 - một gói phần mềm tăng tốc độ hoạt động cho các máy tính desktop mà không hề làm ảnh hưởng tới phần cứng.
+Đây chắc chắn là một tin vui cho những ai đang xài CPU của tập đoàn Intel. Để tăng tốc CPU vốn đang rất ì ạch, trước hết, bạn có thể download phần mềm Intel Application Accelerator 2.3 tại đây.</p>
+
+<p><strong>Phần mềm tương thích với các hệ điều hành sau</strong></p>
+
+<p>Windows NT 4.0, Windows 2000, Windows 98, Windows 98 SE, Windows Me, Windows XP SP1-SP2 với CPU Intel Pentium 4, Intel Pentium III, Intel Pentium II, Intel Celeron, Intel Xeon, Intel Pentium III Xeon, hay Intel Pentium II Xeon. Đặc biệt, Mainboard có bộ chipset được hỗ trợ từ Intel 810 tới Intel 860.</p>
+
+<!-- more -->
+
+
+<p><strong>Phần mềm của Intel có những khả năng ưu việt sau</strong>:
+  * Boot máy nhanh hơn thông qua thời gian load hệ điều hành được gia tốc.</p>
+
+<ul>
+<li><p>Tăng tốc Disk I/O cho các game, các ứng dụng đồ họa, các công cụ tiện ích đĩa, các ứng dụng quản lý media.</p></li>
+<li><p>Tìm lấy trước dữ liệu (Data Prefetcher) để tăng cường tốc độ làm việc cho các hệ thống Intel Pentium 4.</p></li>
+<li><p>Hỗ trợ các ổ đĩa cứng có dung lượng tới hơn 137 GB.</p></li>
+</ul>
+
+
+<p>Hãy cài và cảm nhận sự thay đổi trong chiếc máy cà khổ của mình. Chắc chắn bạn sẽ thấy hệ thống chạy nhanh và mướt hơn rất nhiều.</p>
+
+<blockquote><p><strong>Chú ý</strong>:</p>
+
+<p>Trong một số trường hợp, khi chạy phần mềm tăng tốc này trong Windows Me, khi khởi động máy sẽ báo mất file WININIT.EXE. Trong trường hợp này bạn cứ nhấn một phím bất kỳ nào đó để tiếp tục vào Windows Me, sau đó, bạn mở thư mục WINDOWS/SYSTEM/SRP/BACKUP và copy file WININIT.EXE trong đó vào thư mực WINDOWS.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Những trò lừa đảo của spyware trong năm 2005]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/12/nhung-tro-lua-dao-cua-spyware-trong-nam-2005/"/>
+    <updated>2005-12-19T01:42:39+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/12/nhung-tro-lua-dao-cua-spyware-trong-nam-2005</id>
+    <content type="html"><![CDATA[<p>Chín cách này cũng là những phương pháp gắn liền với những sự kiện khá nổi đình nổi đám trong năm nay liên quan tới những anh chàng "gián điệp" ảo này.</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Spyware lan tỏa dựa vào lỗ hổng tìm thấy được của các chương trình được nhiều người sử dụng ví dụ như Windows Media Players (xảy ra vào tháng 1 năm 2005, đã được Microsoft vá).</p></li>
+<li><p>Spyware che giấu việc nó được cài đặt bằng cách sử dụng Rootkit (là một công cụ do hacker viết ra nhằm mục đích thoát khỏi các công cụ kiểm định được cài đặt trên máy), đương nhiên, nếu bạn đã “vũ trang tận răng” và cẩn thận trong thao tác trên màn hình thì cũng không có gì đáng lo với nó. Có thể ví dụ là 2 chương trình Enternet Media's Elitetoolbar và ContextPlus' Apropos và PeopleonPage.</p></li>
+<li><p>Một đoạn mã viết bằng Java có thể nhiễm vào IE nếu một máy xài cả hai hệ điều hành đồng thời là FireFox và IE. Lỗi này cũng đã được vá.</p></li>
+<li><p>Những chương trình Spam, Adware, Keyloggers, nối đến những website quảng cáo, những website có nội dung đồi trụy “hạng nặng”. Nếu bạn lỡ bị nhiễm chúng cũng rất phiền phức. Có thể lấy ví dụ như 180solutions, Direct Revenue, SurfSidekick, BullsEye Network và ShopAtHomeSelect.</p></li>
+<li><p>Các chương trình spyware lây nhiễm qua các chương trình “chat”. Bạn có thể tham khảo danh sách tại các trang web của SunbeltBLOG và Spyware Warrior. Đặc điểm của các chương trình này là phát tán quảng cáo liên tục, thông qua IRC.</p></li>
+<li><p>Các chương trình chống spyware được cài đặt bởi Trojan và Spyware khác có thể lấy ví dụ như PSGuard, Razespyware, SpySheriff, Spy Trooper, WorldAntiSpy và gần đây nhất là SpyAxe mà chúng tôi đã có đề cập với bạn. Đây là các chương trình chống spyware thuộc loại lừa đảo.</p></li>
+<li><p>Những “lợi tức” từ những quảng cáo bạn bị nhiễm khi sử dụng Bit Torrent và Aurora. Đây là những dịch vụ có sức thu hút rất lớn trên mạng, kèm theo là những spyware như là những “lợi tức” mà bạn phải ôm vào.</p></li>
+<li><p>Các sâu AIM mang theo những công cụ giúp cho việc đột nhập của các cuộc tấn công có nguồn gốc phần lớn từ Trung Đông.</p></li>
+<li><p>Và chuyện nổi đình đám nhất có lẽ là việc Sony phải thu hồi hơn 2.1 triệu đĩa nhạc của mình do đĩa nhạc có cài các DRM theo dõi khách hàng một cách không được phép. Cách lây nhiễm này có thể nói là tinh nhuệ và chính quy.</p></li>
+</ol>
+
+
+<p>Nói cho cùng, spyware không phải dễ bị nhiễm. Nếu bạn là một người thận trọng trong sử dụng máy tính, cẩn thận cài đặt các chương trình bảo vệ, trước khi bất kỳ spyware nào cài đặt đều có các dấu hiệu báo trước và bạn đều có thể phòng tránh được.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Opera Tips]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/10/opera-tips/"/>
+    <updated>2005-10-10T08:08:45+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/10/opera-tips</id>
+    <content type="html"><![CDATA[<p>Here's some tips to speed up <a href="http://www.opera.com">Opera</a>:</p>
+
+<blockquote><ol>
+<li><p>Defrag HD. This will make Opera open up faster, and download pages to your computer all the faster.</p></li>
+<li><p>Set Disk and RAM cache to 10 megs each. If you know how to edit opera6.ini, you can set Disk and RAM cache to 12 megs. Do this if you have 128MB of RAM or more. If you have under 128MB, set it to automatic. When set to automatic, it uses 10% of the RAM, so if you have 64MB RAM, it uses 6.4MB.</p></li>
+<li><p>Go to Network under preferences, and go to Server name completion and uncheck Look for local network machine, and uncheck try name completion. This fixes a problem in Opera where the address bar becomes unresponsive, and speeds up things a bit.</p></li>
+<li><p>To speed up internet browsing in Opera, go to Network under preferences, and set Max connections to server to 16, and Max Total Connections to 20. This is recommended for Broadband users, such as cable or DSL. If you don't have broadband, set it to something smaller, like 8/16, or 16/32</p></li>
+<li><p>Uncheck Synchronous DNS under Preferences : Network Warning: Don't uncheck this if you have Win95 if you have Winsock 2 upgrade installed.</p></li>
+<li><p>Remove the progress bar, and other buttons and menus you dont use. Removing menubars requires some knowledge of standard_menu.ini This doesn't speed things up much, ut it helps you navigate a little quicker. If you don't know how to do this, then leaving it alone won't hurt anything.</p></li>
+<li><p>Go to History and Cache, and go to Check Images, and change it to never. Images rarely change on websites, so changing it to never will speed up page loading, since it won't have to spend time caching the images to the HD.</p></li>
+<li><p>Disable Java, and Javascript on pages that don't require it. This will greatly speed up Opera. This is one of the biggest slowdowns for webpage loading, since Java, and Javascript can be very complex, and take a long time to load.</p></li>
+<li><p>Use standard windows skin, and disable special effects. Even though this doesn't speed things up much if you have a fairly fast computer, every little thing counts.</p></li>
+</ol>
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Một vài thuật ngữ thường gặp!]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/09/thuat-ngu/"/>
+    <updated>2005-09-29T07:02:14+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/09/thuat-ngu</id>
+    <content type="html"><![CDATA[<p>Thỉnh thoảng tôi có gặp một số từ chuyên môn khi đọc một tài liệu hay bài báo nào đó mà không rõ lắm về ý biểu đạt của nó, mất công tìm hiểu khá lâu mà không có rồi vô tình bất chợt hiểu ra. Tự nghĩ rằng cũng có người giống như mình nên viết bài này, hy vọng nó hữu ích. Nội dung sẽ cập nhật dần vì không phải ngồi một lúc là viết ra được , những từ được đánh dấu màu hy vọng một ai đó giải thích dùm</p>
+
+<ul>
+<li><p><strong>nightly builds</strong>: người ta check in and out files từ chung một server, rồi compile mỗi đêm (nightly builds) sáng hôm sau hè nhau sửa lỗi rồi code tiếp  hiểu vậy cũng được nhưng không có nghĩa là đêm nào cũng build. Nó có nghĩa là phiên bản re-build cuối cùng để giúp cho ai có lòng tốt đem về chạy thử vào thông báo lỗi nếu có!</p></li>
+<li><p><strong>trackback và ping</strong>: được sử dụng trong <a href="http://www.wordpress.org">WordPress</a> cũng như trong thế giới blog có nghĩa là các bài viết sẽ được chỉ mục tại các website khác cũng sử dụng WordPress.</p></li>
+<li><p><strong>aka</strong>: aka = as know as = aka = as know as = cũng có tên khác là</p></li>
+<li>k.s (kill stealing): giết tranh quái vật, từ này thường dùng trong các game online, khi nói k.s nghĩa là bạn đang giết tranh một hay nhiều quái vật khi chơi</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Taking care of CDs]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds/"/>
+    <updated>2005-09-23T03:37:43+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds</id>
+    <content type="html"><![CDATA[<h3>Do:</h3>
+
+<ol>
+<li><p>Handle discs by the outer edge or the center hole.</p></li>
+<li><p>Use a non-solvent-based felt-tip permanent marker to mark the label side of the disc.</p></li>
+<li><p>Keep dirt or other foreign matter from the disc.</p></li>
+<li><p>Store discs upright (book style) in plastic cases specified for CDs and DVDs.</p></li>
+<li><p>Return discs to storage cases immediately after use.</p></li>
+<li><p>Leave discs in their packaging (or cases) to minimize the effects of environmental changes.</p></li>
+<li><p>Open a recordable disc package only when you are ready to record data on that disc.</p></li>
+<li><p>Store discs in a cool, dry, dark environment in which the air is clean.</p></li>
+<li><p>Remove dirt, foreign material, fingerprints, smudges, and liquids by wiping with a clean cotton fabric in a straight line from the center of the disc toward the outer edge.</p></li>
+<li><p>Use CD/DVD-cleaning detergent, isopropyl alcohol, or methanol to remove stubborn dirt or material.</p></li>
+<li><p>Check the disc surface before recording.</p></li>
+</ol>
+
+
+<!-- more -->
+
+
+<h3>Do not:</h3>
+
+<ol>
+<li><p>Touch the surface of the disc.</p></li>
+<li><p>Bend the disc.</p></li>
+<li><p>Use adhesive labels.</p></li>
+<li><p>Store discs horizontally for a long time (years).</p></li>
+<li><p>Open a recordable optical disc package if you are not ready to record.</p></li>
+<li><p>Expose discs to extreme heat or high humidity.</p></li>
+<li><p>Expose discs to extremely rapid temperature or humidity changes.</p></li>
+<li><p>Expose recordable discs to prolonged sunlight or other sources of ultraviolet light.</p></li>
+<li><p>Write or mark in the data area of the disc (the area the laser "reads" ).</p></li>
+<li><p>Clean by wiping in a direction going around the disc.</p></li>
+</ol>
+
+
+<h3>For CDs especially do not:</h3>
+
+<ol>
+<li><p>Scratch the label side of the disc.</p></li>
+<li><p>Use a pen, pencil, or fine-tip marker to write on the disc.</p></li>
+<li><p>Write on the disc with markers that contain solvents.</p></li>
+<li><p>Try to peel off or reposition a label.</p></li>
+</ol>
+
+
+<p>... there is consensus that, under recommended storage conditions, CD-R, DVD-R, and DVD+R discs should have a life expectancy of 100 to 200 years or more; CD-RW, DVD-RW, DVD+RW, and DVD-RAM discs should have a life expectancy of 25 years or more. Little information is available for CD-ROM and DVD-ROM discs (including audio and video), resulting in an increased level of uncertainty for their life expectancy. Expectations vary from 20 to 100 years for these discs.
+... CD-R and DVD-R discs have a shelf life of 5 to 10 years before recording.
+... the life expectancy for RW and RAM discs will be less than that of R discs.
+...The data on the phase-changing metal alloy film layer can be erased and rewritten to a limited number of times (about 1,000 times for RW discs and about 100,000 times for RAM discs). &lt; !--></p>
+]]></content>
+  </entry>
+  
+</feed>

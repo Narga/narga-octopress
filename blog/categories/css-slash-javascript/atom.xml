@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: CSS/Javascript | NARGA]]></title>
+  <link href="http://Narga.github.com/narga-octopress/blog/categories/css-slash-javascript/atom.xml" rel="self"/>
+  <link href="http://Narga.github.com/narga-octopress/"/>
+  <updated>2013-03-30T11:48:00+07:00</updated>
+  <id>http://Narga.github.com/narga-octopress/</id>
+  <author>
+    <name><![CDATA[Nguyễn Đình Quân]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Firefox hiển thị lỗi của CSS trong Javascript Console]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/01/firefox-hien-thi-loi-cua-css-trong-javascript-console/"/>
+    <updated>2006-01-02T14:02:32+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/01/firefox-hien-thi-loi-cua-css-trong-javascript-console</id>
+    <content type="html"><![CDATA[<p>Trình duyệt Firefox có rất nhiều tính năng mạnh mẽ làm thay đổi hoàn toàn quan điểm về thiết kế, duyệt web... Phiên bản 1.5 cải tiến mạnh mẽ bao gồm nhiều tính năng mới không hẳn được công bố một cách chính thức.
+Vô tình trong lúc thiết kế giao diện của Website mình phát hiện tính năng ẩn của trình duyệt Firefox: Javascript Console có thể hiển thị các lỗi CSS cơ bản - tất nhiên là cơ bản thôi vì chức năng chính của nó là debug JS cơ mà, <em>thông tin về nó không nhiều nhưng cũng giúp ích khá nhiều</em>, đặc biệt là các lỗi do typing như là thiếu ";", thiếu "}" hay sai từ khóa...sau một lúc thử đi thử lại cho thấy lỗi tìm được khá trực quan, chương trình có những giải thích về lỗi rất dễ tìm như kiểu lỗi, dòng thứ....</p>
+
+<!-- more -->
+
+
+<p><img class="left" src="/images/2006/01/Javascript-Console.png" width="384" height="147" title="Firefox JavaScript Console" alt="Firefox JavaScript Console">
+Để sử dụng tính năng này, rất đơn giản bạn chọn <strong>Tools > JavaScript Console</strong> sau đó đặt chế độ hiển thị lỗi là <strong>All</strong> hoặc <strong>Errors</strong> khi trình duyệt gặp một trang có chứa các đoạn mã css bị lỗi (có thể chứa trong các file style.css) nó sẽ hiển thị thông tin về lỗi đã xảy ra.
+Những thông tin này rất có ích cho người thiết kế tuy nhiên theo mình biết thì chỉ có <strong>W3C CSS Validator</strong> là có khả năng phát hiện được, tính năng này rất hữu ích, bạn có muốn thử không? Tải về phiên bản Firefox mới nhất tại đây</p>
+]]></content>
+  </entry>
+  
+</feed>

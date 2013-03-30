@@ -1,16 +1,959 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T11:40:27+07:00</updated>
+  <updated>2013-03-30T11:48:00+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nguyễn Đình Quân]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Gói cài đặt các font cũ TCVN3 và VNI cho Arch Linux]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2012/11/goi-cai-dat-cac-font-cu-tcvn3-va-vni-cho-arch-linux/"/>
+    <updated>2012-11-02T05:30:49+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2012/11/goi-cai-dat-cac-font-cu-tcvn3-va-vni-cho-arch-linux</id>
+    <content type="html"><![CDATA[<p>Mặc dù chúng ta đã sử dụng Unicode là bộ font mặc định cho văn phòng, web&#8230; và có cả quy định cũng như pháp lệnh về việc thống nhất sử dụng font Unicode trong các văn bản hành chính cũng như thông thường, tuy nhiên các loại font cũ như TCVN3, VNI, &#8230; vẫn còn hiện hữu thậm chí vẫn còn đang sử dụng do sự lạc hậu về thông tin cũng như sự quan liêu của một số đơn vị, ngành &#8230; ngại chuyển đổi và tiếp thu cái mới.</p>
+
+<p><img class="center" src="http://Narga.github.com/narga-octopress/images/2012/11/1213_FONT_ABC.jpg" width="575" height="416" title="'Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux'" ></p>
+
+<p>Trên Arch Linux, bạn có thể cài đặt font mới bất kỳ bằng cách copy chúng vào thư mục <code>/usr/share/fonts/ĐỊNH_DẠNG_FONT</code> hoặc thư mục <code>~/.fonts</code> sau đó yêu cầu hệ thống cập nhật lại chỉ mục font. Tuy thế cách này vẫn khá lích kích và không tiện lợi bằng cách cài đặt.</p>
+
+<!-- more -->
+
+
+<p>Tôi có tạo 2 gói font thông dụng nhất theo bảng mã TCVN3 và VNI với tên gói tương ứng trên <strong>AUR</strong> là <strong>ttf-vietnamese-tcvn3</strong> và <strong>ttf-vietnamese-vni</strong> để bạn có thể cài đặt nó một cách dễ dàng hơn thay vì phải làm thủ công. Chúng bao gồm các font thông dụng nhất ngày trước đảm bảo có thể đọc được các văn bản, tài liệu cũ.</p>
+
+<p><strong>Cài đặt</strong>:</p>
+
+<p><code>yaourt -S ttf-vietnamese-tcvn3 ttf-vietnamese-vni</code>
+Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các bảng mã khác. Mọi người có thể phản hồi ở đây hoặc trên <a href="http://forum.narga.org/Thread-goi-cai-dat-cac-font-cu-tcvn3-va-vni-cho-arch-linux--17">diễn đàn</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Những truyện thú vị đời thuờng]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/03/truyen-thu-vi-doi-thuong/"/>
+    <updated>2006-03-08T09:57:58+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/03/truyen-thu-vi-doi-thuong</id>
+    <content type="html"><![CDATA[<p>Dưới đây là một số truyện thú vị mình đọc trong những tình huống nhất định có chút ấn tượng (tại thời điểm đó) nên lưu lại tại bài viết này đề nếu ai cần thì có thể đọc được.</p>
+
+<blockquote><h3>Mái già với mái tơ</h3>
+
+<p>Có một lão giáo sãi tiến sư vợ chết sớm con cái trưởng thành mới sinh ra đốn đời lấy một con vợ trẻ mắt xanh mỏ đỏ chân dài đến nách nhìn nói chung là rất ư gợi tình hấp dẫn. Chuyện đến đó kể cũng chưa có gì đáng nói, chuyện đáng nói là bản thân lão cũng chẳng khoẻ khoắn gì tuần cố lắm thì được cái, con vợ trẻ mới sinh mèo mỡ lăng nhăng, mọi người xì xào lão vẫn điếc vẫn cứ kệ mẹ.</p>
+
+<p>Một hôm một lão cũng tiến sư giáo sãi cậy bạn bè lâu năm mới bảo:</p>
+
+<p>&#8211; Bác này, kể ra em thấy bác lấy con vợ trẻ cũng ko hay lắm, tuổi bác với em tuần được cái, không muốn dùng dịch vụ thì cũng lấy béng con vợ tầm trung trung, chứ con vợ trẻ bồi dưỡng tẩm bổ nó thắm da thắm thịt chỉ tổ béo mấy thằng tre trẻ chứ được cái tích sự gì?</p>
+
+<p>Lão mới thủng thẳng cười đáp:</p>
+
+<p>&#8211; Ai không hiểu em chứ chẳng nhẽ bác không hiểu? Đầu bạc cả rồi chẳng nhẽ không nghiệm được đâu là chân giá trị của cuộc sống. Em hỏi thật bác: <strong>Bác thích ăn chung với vài thằng khác con gà mái tơ hay thích một mình ngồi gặm con mái già?</strong> Bác hỏi rõ lạ.</p></blockquote>
+
+<!-- more -->
+
+
+<blockquote><h4>Nhầm hàng!</h4>
+
+<p>Một cô gái trẻ đứng trên cầu và chuẩn bị nhảy xuống sông. Một chàng trai đi qua nhìn thấy liền hỏi:</p>
+
+<p>&#8211; Cô định tự tử ư?</p>
+
+<p>&#8211; Đúng vậy - cô gái trả lời và quay lại nhìn chàng trai.</p>
+
+<p>Thấy cô gái quá xinh đẹp, chàng trai liền cầu xin cô một nụ hôn trước khi cô tự tử. Và thật tuyệt vời, cô gái đồng ý. Một nụ hôn ngọt ngào. Sau đó, chàng trai quyết định phải thuyết phục cô gái:</p>
+
+<p>&#8211; Cô xinh đẹp và đáng yêu như vậy, sao lại muốn tự tử?</p>
+
+<p>&#8211; Bố tôi mắng tôi chỉ vì tôi thích ăn mặc như… con gái!!!</p>
+
+<h3>Sự khác biệt ở những cô gái tuổi 8, 18, 28, 38, 48, 58, 78, 78 và 88 là gì?</h3>
+
+<ul>
+<li><p>8 tuổi - Bạn đưa nàng lên giường và kể cho nàng một câu chuyện.</p></li>
+<li><p>18 tuổi - Bạn kể cho nàng một câu chuyện và đưa nàng lên giường.</p></li>
+<li><p>28 tuổi - Bạn không cần kể câu chuyện nào và đưa nàng lên giường.</p></li>
+<li><p>38 tuổi - Nàng kể cho bạn một câu chuyện và đưa bạn lên giường.</p></li>
+<li><p>48 tuổi - Bạn kể cho nàng một câu chuyện để tránh phải lên giường.</p></li>
+<li><p>58 tuổi - Bạn ở lỳ trên giường cả ngày để tránh phải nghe câu chuyện của nàng.</p></li>
+<li><p>68 tuổi - Nếu bạn dắt được lên giường, đó là 1 câu chuyện</p></li>
+<li><p>78 tuổi - Ngồi một mình trên giường và nhớ lại tất cả những câu chuyện trên</p></li>
+<li><p>88 tuổi nàng nằm một mình trên giường và bạn phải kể cho nàng nghe một câu chuyện</p></li>
+</ul>
+
+
+<h3>Toàn cầu hóa</h3>
+
+<p>Chiếc đồng hồ báo thức (MADE IN JAPAN) reo lên vào lúc 6h sáng. Sau khi đặt ấm nước (MADE IN CHINA) để pha cà phê (MADE IN BRAZIL), anh ta cạo râu với con dao mới mua (MADE IN HONGKONG). Anh ta mặc áo sơ-mi (MADE IN SRILANKA), quần bò (MADE IN SINGAPORE) và đi giầy (MADE IN KOREA), đeo đồng hồ (MADE IN TAIWAN). Anh ta ngồi vào xe ôtô (MADE IN GERMANY), bật radio (MADE IN INDIA) và tiếp tục chặng đường gian nan tìm kiếm một việc làm tốt ở AMERICA! Sau một ngày vất vả và không kết quả, anh ta quyết định thư giãn một chút. Anh ta cởi giầy ra, thay vào một đôi sandal (MADE IN BRAZIL), rót cho mình một cốc rượu (MADE IN FRANCE), bật TV (MADE IN INDONESIA), và vẫn còn băn khoăn tại sao anh không thể tìm được việc làm ở AMERICA</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Những điều thú vị về loài mèo]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/02/nhung-dieu-thu-vi-ve-loai-meo-some-interested-things-about-the-cat/"/>
+    <updated>2006-02-26T21:47:58+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/02/nhung-dieu-thu-vi-ve-loai-meo-some-interested-things-about-the-cat</id>
+    <content type="html"><![CDATA[<p>Ban đêm khi mèo chạy đuổi chuột quanh phòng, người ta không nghe thấy tiếng bước chân của nó, cũng không nghe thấy tiếng động khi mèo nhảy từ trên cao xuống. Vì sao vậy?</p>
+
+<p>Đó là vì móng của mèo được bảo vệ bởi lớp da dày và mềm. Các móng sắc nhọn của mèo có thể duỗi ra hay co vào. Khi mèo bắt chuột thì các móng duỗi ra, còn khi đi thì nó thu gọn lại. Điều đó giúp cho bước chân của mèo không gây tiếng động và móng của nó cũng không bị mòn đi.</p>
+
+<p><strong>Vì sao ria mèo lại dài?</strong></p>
+
+<p>Nếu mèo không có ria thì nó không thể chui vào hang bắt chuột được. Độ dài của ria mèo đúng bằng chiều ngang thân nó. Khi mèo đuổi chuột trong bóng tối, nó thường chạy dưới gầm bàn, tủ, đôi khi còn phải trườn vào hang, hốc.</p>
+
+<p>Nếu ria của nó chạm vào cạnh của lối đi hoặc vách hang hốc, thì nó hiểu rằng lối đó quá hẹp không thể chui vào được. Như thế bộ ria giống như cái thước của mèo vậy.</p>
+
+<!-- more -->
+
+
+<p><strong>Vì sao đồng tử mắt mèo lại thay đổi kích thước</strong></p>
+
+<p>Đồng tử của mắt mèo thay đổi ba lần trong ngày để thích nghi với sự thay đổi của ánh sáng. Vào buổi trưa khi ánh sáng mạnh nhất thì đồng tử của mắt mèo chỉ là một đường kẻ mỏng, vào buổi sáng, khi ánh sáng còn dịu thì đồng tử mở lớn hơn một chút.</p>
+
+<p>Trong đêm tối hoàn toàn, đồng tử mở rộng và tròn để có thể nhìn thấy mọi thứ. Vì vậy, mèo có thể bắt chuột trong đêm tối.</p>
+
+<p><strong>Vì sao mèo hay liếm lông</strong></p>
+
+<p>Sau khi phơi nắng, mèo hay nằm dưới đất liếm lông. Nhờ vậy lông của nó trở nên sạch sẽ và mượt mà hơn. Nhiều người nghĩ rằng mèo liếm lông là để tự tắm, điều đó không đúng. Chúng không cần tắm mà là đang ăn chất dinh dưỡng.</p>
+
+<p>Một số chất ẩn trong lông mèo trở thành vitamin D sau khi hấp thụ ánh sáng mặt trời. Khi liếm lông, thực tế là mèo đang ăn vitamin D. Nếu thiếu vitamin D, mèo trở nên ủ rũ cả ngày.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2 trong 1 - Chán, nhạt, theo lối mòn]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/02/2-trong-1-chan-nhat-theo-loi-mon/"/>
+    <updated>2006-02-13T23:58:12+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/02/2-trong-1-chan-nhat-theo-loi-mon</id>
+    <content type="html"><![CDATA[<p>Trưa nay hai đứa lượn một vòng đi sưởi nắng  ăn xong rẽ vô rạp Bạch Mai xem thử film này vì nghe mọi người đồn hay lắm, lại thấy cái poster khá là bắt mắt của Thành Lộc. Lời giới thiệu trên MoviesBoom đọc từ tuần trước:</p>
+
+<!-- more -->
+
+
+<blockquote><p><img class="right" src="http://Narga.github.com/narga-octopress/images/2006/02/V-Movies-2-trong-1.jpg" width="300" height="429" title="'2 trong 1 - Chán, nhạt, theo lối mòn'" >
+<strong>Diễn viên chính</strong>: <em>Thành Lộc,  Ngô Thanh Vân,  Võ Thành Tâm</em></p>
+
+<p><strong>Đạo diễn</strong>: <em>Duy Phúc</em></p>
+
+<p><strong>Phát hành</strong>: <em>Hãng phim Thiên Ngân</em></p>
+
+<p>“2 TRONG 1” là một bộ phim tâm lý tình cảm – hài lấy cảm hứng từ bộ phim Mỹ “Some Like It Hot” – 1 bộ phim nổi tiếng đã từng đọat giải Oscar với nữ diễn viên chính Marilyn Monroe.</p>
+
+<p>Với những tình tiết bất ngờ và thú vị xoay quanh mối quan hệ phức tạp của ba nhân vật chính: cô ca sĩ xinh đẹp và hai anh bạn thân, một anh nam 100% giả nữ vũ công và một anh tài xế không mấy hài lòng với cuộc sống hiện tại. Tên bộ phim đã nói lên nhiều điều: một mà là hai, tuy hai lại là một. Hai nhân vật nam sẽ hóa thân vào những con người khác để đi tìm mục đích sống cho chính mình. Những tình tiết éo le, những xung đột đối lập của 2 tính cách trong cùng 1 con người, và những tình cảm mâu thuẫn của 2 người bạn với 1 cô ca sĩ tạo nên những gút thắt bất ngờ sẽ khiến độc giả hồi hộp đến phút chót.</p></blockquote>
+
+<p>Nghe có vẻ hay như film Hồng Kông nhưng thực sự xem phim mới thấy nội dung tẻ nhạt, có lẽ đây là tình trạng chung của film việt hiện nay nhưng có nét khá mới và mạnh tay trong những cảnh trước kia gọi là &#8220;gợi cảm&#8221; , được cái Ngô Thanh Vân diễn xuất khá tự nhiên so với các film đã từng xem, kết thúc đoán trước được sau khi xem 10 phút  (film Việt Nam mà)</p>
+
+<p>Đặc sắc nhất có lẽ là nhạc film, quả thực có nhiều đoạn rất hay, rất hợp lý mà chỉ âm nhạc diễn tả được.</p>
+
+<p>P/S: Đoạn cuối không hiểu sao lại ghi là làm từ kịch bản gốc &#8220;The Best Man&#8221; của 1 tác giả nước ngoài, lạ thật!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tăng tốc CPU với Intel® Application Accelerator]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/01/intel-application-accelerator-v23/"/>
+    <updated>2006-01-13T20:56:09+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/01/intel-application-accelerator-v23</id>
+    <content type="html"><![CDATA[<p>Hãng sản xuất chip lớn nhất thế giới vừa mới ra mắt phiên bản Intel Application Accelerator 2.3 - một gói phần mềm tăng tốc độ hoạt động cho các máy tính desktop mà không hề làm ảnh hưởng tới phần cứng.
+Đây chắc chắn là một tin vui cho những ai đang xài CPU của tập đoàn Intel. Để tăng tốc CPU vốn đang rất ì ạch, trước hết, bạn có thể download phần mềm Intel Application Accelerator 2.3 tại đây.</p>
+
+<p><strong>Phần mềm tương thích với các hệ điều hành sau</strong></p>
+
+<p>Windows NT 4.0, Windows 2000, Windows 98, Windows 98 SE, Windows Me, Windows XP SP1-SP2 với CPU Intel Pentium 4, Intel Pentium III, Intel Pentium II, Intel Celeron, Intel Xeon, Intel Pentium III Xeon, hay Intel Pentium II Xeon. Đặc biệt, Mainboard có bộ chipset được hỗ trợ từ Intel 810 tới Intel 860.</p>
+
+<!-- more -->
+
+
+<p><strong>Phần mềm của Intel có những khả năng ưu việt sau</strong>:
+  * Boot máy nhanh hơn thông qua thời gian load hệ điều hành được gia tốc.</p>
+
+<ul>
+<li><p>Tăng tốc Disk I/O cho các game, các ứng dụng đồ họa, các công cụ tiện ích đĩa, các ứng dụng quản lý media.</p></li>
+<li><p>Tìm lấy trước dữ liệu (Data Prefetcher) để tăng cường tốc độ làm việc cho các hệ thống Intel Pentium 4.</p></li>
+<li><p>Hỗ trợ các ổ đĩa cứng có dung lượng tới hơn 137 GB.</p></li>
+</ul>
+
+
+<p>Hãy cài và cảm nhận sự thay đổi trong chiếc máy cà khổ của mình. Chắc chắn bạn sẽ thấy hệ thống chạy nhanh và mướt hơn rất nhiều.</p>
+
+<blockquote><p><strong>Chú ý</strong>:</p>
+
+<p>Trong một số trường hợp, khi chạy phần mềm tăng tốc này trong Windows Me, khi khởi động máy sẽ báo mất file WININIT.EXE. Trong trường hợp này bạn cứ nhấn một phím bất kỳ nào đó để tiếp tục vào Windows Me, sau đó, bạn mở thư mục WINDOWS/SYSTEM/SRP/BACKUP và copy file WININIT.EXE trong đó vào thư mực WINDOWS.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Firefox hiển thị lỗi của CSS trong Javascript Console]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/01/firefox-hien-thi-loi-cua-css-trong-javascript-console/"/>
+    <updated>2006-01-02T14:02:32+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/01/firefox-hien-thi-loi-cua-css-trong-javascript-console</id>
+    <content type="html"><![CDATA[<p>Trình duyệt Firefox có rất nhiều tính năng mạnh mẽ làm thay đổi hoàn toàn quan điểm về thiết kế, duyệt web&#8230; Phiên bản 1.5 cải tiến mạnh mẽ bao gồm nhiều tính năng mới không hẳn được công bố một cách chính thức.
+Vô tình trong lúc thiết kế giao diện của Website mình phát hiện tính năng ẩn của trình duyệt Firefox: Javascript Console có thể hiển thị các lỗi CSS cơ bản - tất nhiên là cơ bản thôi vì chức năng chính của nó là debug JS cơ mà, <em>thông tin về nó không nhiều nhưng cũng giúp ích khá nhiều</em>, đặc biệt là các lỗi do typing như là thiếu &#8220;;&#8221;, thiếu &#8220;}&#8221; hay sai từ khóa&#8230;sau một lúc thử đi thử lại cho thấy lỗi tìm được khá trực quan, chương trình có những giải thích về lỗi rất dễ tìm như kiểu lỗi, dòng thứ&#8230;.</p>
+
+<!-- more -->
+
+
+<p><img class="left" src="http://Narga.github.com/narga-octopress/images/2006/01/Javascript-Console.png" width="384" height="147" title="Firefox JavaScript Console" alt="Firefox JavaScript Console">
+Để sử dụng tính năng này, rất đơn giản bạn chọn <strong>Tools > JavaScript Console</strong> sau đó đặt chế độ hiển thị lỗi là <strong>All</strong> hoặc <strong>Errors</strong> khi trình duyệt gặp một trang có chứa các đoạn mã css bị lỗi (có thể chứa trong các file style.css) nó sẽ hiển thị thông tin về lỗi đã xảy ra.
+Những thông tin này rất có ích cho người thiết kế tuy nhiên theo mình biết thì chỉ có <strong>W3C CSS Validator</strong> là có khả năng phát hiện được, tính năng này rất hữu ích, bạn có muốn thử không? Tải về phiên bản Firefox mới nhất tại đây</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Những trò lừa đảo của spyware trong năm 2005]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/12/nhung-tro-lua-dao-cua-spyware-trong-nam-2005/"/>
+    <updated>2005-12-19T01:42:39+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/12/nhung-tro-lua-dao-cua-spyware-trong-nam-2005</id>
+    <content type="html"><![CDATA[<p>Chín cách này cũng là những phương pháp gắn liền với những sự kiện khá nổi đình nổi đám trong năm nay liên quan tới những anh chàng &#8220;gián điệp&#8221; ảo này.</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>Spyware lan tỏa dựa vào lỗ hổng tìm thấy được của các chương trình được nhiều người sử dụng ví dụ như Windows Media Players (xảy ra vào tháng 1 năm 2005, đã được Microsoft vá).</p></li>
+<li><p>Spyware che giấu việc nó được cài đặt bằng cách sử dụng Rootkit (là một công cụ do hacker viết ra nhằm mục đích thoát khỏi các công cụ kiểm định được cài đặt trên máy), đương nhiên, nếu bạn đã “vũ trang tận răng” và cẩn thận trong thao tác trên màn hình thì cũng không có gì đáng lo với nó. Có thể ví dụ là 2 chương trình Enternet Media&#8217;s Elitetoolbar và ContextPlus&#8217; Apropos và PeopleonPage.</p></li>
+<li><p>Một đoạn mã viết bằng Java có thể nhiễm vào IE nếu một máy xài cả hai hệ điều hành đồng thời là FireFox và IE. Lỗi này cũng đã được vá.</p></li>
+<li><p>Những chương trình Spam, Adware, Keyloggers, nối đến những website quảng cáo, những website có nội dung đồi trụy “hạng nặng”. Nếu bạn lỡ bị nhiễm chúng cũng rất phiền phức. Có thể lấy ví dụ như 180solutions, Direct Revenue, SurfSidekick, BullsEye Network và ShopAtHomeSelect.</p></li>
+<li><p>Các chương trình spyware lây nhiễm qua các chương trình “chat”. Bạn có thể tham khảo danh sách tại các trang web của SunbeltBLOG và Spyware Warrior. Đặc điểm của các chương trình này là phát tán quảng cáo liên tục, thông qua IRC.</p></li>
+<li><p>Các chương trình chống spyware được cài đặt bởi Trojan và Spyware khác có thể lấy ví dụ như PSGuard, Razespyware, SpySheriff, Spy Trooper, WorldAntiSpy và gần đây nhất là SpyAxe mà chúng tôi đã có đề cập với bạn. Đây là các chương trình chống spyware thuộc loại lừa đảo.</p></li>
+<li><p>Những “lợi tức” từ những quảng cáo bạn bị nhiễm khi sử dụng Bit Torrent và Aurora. Đây là những dịch vụ có sức thu hút rất lớn trên mạng, kèm theo là những spyware như là những “lợi tức” mà bạn phải ôm vào.</p></li>
+<li><p>Các sâu AIM mang theo những công cụ giúp cho việc đột nhập của các cuộc tấn công có nguồn gốc phần lớn từ Trung Đông.</p></li>
+<li><p>Và chuyện nổi đình đám nhất có lẽ là việc Sony phải thu hồi hơn 2.1 triệu đĩa nhạc của mình do đĩa nhạc có cài các DRM theo dõi khách hàng một cách không được phép. Cách lây nhiễm này có thể nói là tinh nhuệ và chính quy.</p></li>
+</ol>
+
+
+<p>Nói cho cùng, spyware không phải dễ bị nhiễm. Nếu bạn là một người thận trọng trong sử dụng máy tính, cẩn thận cài đặt các chương trình bảo vệ, trước khi bất kỳ spyware nào cài đặt đều có các dấu hiệu báo trước và bạn đều có thể phòng tránh được.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Opera Tips]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/10/opera-tips/"/>
+    <updated>2005-10-10T08:08:45+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/10/opera-tips</id>
+    <content type="html"><![CDATA[<p>Here&#8217;s some tips to speed up <a href="http://www.opera.com">Opera</a>:</p>
+
+<blockquote><ol>
+<li><p>Defrag HD. This will make Opera open up faster, and download pages to your computer all the faster.</p></li>
+<li><p>Set Disk and RAM cache to 10 megs each. If you know how to edit opera6.ini, you can set Disk and RAM cache to 12 megs. Do this if you have 128MB of RAM or more. If you have under 128MB, set it to automatic. When set to automatic, it uses 10% of the RAM, so if you have 64MB RAM, it uses 6.4MB.</p></li>
+<li><p>Go to Network under preferences, and go to Server name completion and uncheck Look for local network machine, and uncheck try name completion. This fixes a problem in Opera where the address bar becomes unresponsive, and speeds up things a bit.</p></li>
+<li><p>To speed up internet browsing in Opera, go to Network under preferences, and set Max connections to server to 16, and Max Total Connections to 20. This is recommended for Broadband users, such as cable or DSL. If you don&#8217;t have broadband, set it to something smaller, like 8/16, or 16/32</p></li>
+<li><p>Uncheck Synchronous DNS under Preferences : Network Warning: Don&#8217;t uncheck this if you have Win95 if you have Winsock 2 upgrade installed.</p></li>
+<li><p>Remove the progress bar, and other buttons and menus you dont use. Removing menubars requires some knowledge of standard_menu.ini This doesn&#8217;t speed things up much, ut it helps you navigate a little quicker. If you don&#8217;t know how to do this, then leaving it alone won&#8217;t hurt anything.</p></li>
+<li><p>Go to History and Cache, and go to Check Images, and change it to never. Images rarely change on websites, so changing it to never will speed up page loading, since it won&#8217;t have to spend time caching the images to the HD.</p></li>
+<li><p>Disable Java, and Javascript on pages that don&#8217;t require it. This will greatly speed up Opera. This is one of the biggest slowdowns for webpage loading, since Java, and Javascript can be very complex, and take a long time to load.</p></li>
+<li><p>Use standard windows skin, and disable special effects. Even though this doesn&#8217;t speed things up much if you have a fairly fast computer, every little thing counts.</p></li>
+</ol>
+</blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Một vài thuật ngữ thường gặp!]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/09/thuat-ngu/"/>
+    <updated>2005-09-29T07:02:14+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/09/thuat-ngu</id>
+    <content type="html"><![CDATA[<p>Thỉnh thoảng tôi có gặp một số từ chuyên môn khi đọc một tài liệu hay bài báo nào đó mà không rõ lắm về ý biểu đạt của nó, mất công tìm hiểu khá lâu mà không có rồi vô tình bất chợt hiểu ra. Tự nghĩ rằng cũng có người giống như mình nên viết bài này, hy vọng nó hữu ích. Nội dung sẽ cập nhật dần vì không phải ngồi một lúc là viết ra được , những từ được đánh dấu màu hy vọng một ai đó giải thích dùm</p>
+
+<ul>
+<li><p><strong>nightly builds</strong>: người ta check in and out files từ chung một server, rồi compile mỗi đêm (nightly builds) sáng hôm sau hè nhau sửa lỗi rồi code tiếp  hiểu vậy cũng được nhưng không có nghĩa là đêm nào cũng build. Nó có nghĩa là phiên bản re-build cuối cùng để giúp cho ai có lòng tốt đem về chạy thử vào thông báo lỗi nếu có!</p></li>
+<li><p><strong>trackback và ping</strong>: được sử dụng trong <a href="http://www.wordpress.org">WordPress</a> cũng như trong thế giới blog có nghĩa là các bài viết sẽ được chỉ mục tại các website khác cũng sử dụng WordPress.</p></li>
+<li><p><strong>aka</strong>: aka = as know as = aka = as know as = cũng có tên khác là</p></li>
+<li>k.s (kill stealing): giết tranh quái vật, từ này thường dùng trong các game online, khi nói k.s nghĩa là bạn đang giết tranh một hay nhiều quái vật khi chơi</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Taking care of CDs]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds/"/>
+    <updated>2005-09-23T03:37:43+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds</id>
+    <content type="html"><![CDATA[<h3>Do:</h3>
+
+<ol>
+<li><p>Handle discs by the outer edge or the center hole.</p></li>
+<li><p>Use a non-solvent-based felt-tip permanent marker to mark the label side of the disc.</p></li>
+<li><p>Keep dirt or other foreign matter from the disc.</p></li>
+<li><p>Store discs upright (book style) in plastic cases specified for CDs and DVDs.</p></li>
+<li><p>Return discs to storage cases immediately after use.</p></li>
+<li><p>Leave discs in their packaging (or cases) to minimize the effects of environmental changes.</p></li>
+<li><p>Open a recordable disc package only when you are ready to record data on that disc.</p></li>
+<li><p>Store discs in a cool, dry, dark environment in which the air is clean.</p></li>
+<li><p>Remove dirt, foreign material, fingerprints, smudges, and liquids by wiping with a clean cotton fabric in a straight line from the center of the disc toward the outer edge.</p></li>
+<li><p>Use CD/DVD-cleaning detergent, isopropyl alcohol, or methanol to remove stubborn dirt or material.</p></li>
+<li><p>Check the disc surface before recording.</p></li>
+</ol>
+
+
+<!-- more -->
+
+
+<h3>Do not:</h3>
+
+<ol>
+<li><p>Touch the surface of the disc.</p></li>
+<li><p>Bend the disc.</p></li>
+<li><p>Use adhesive labels.</p></li>
+<li><p>Store discs horizontally for a long time (years).</p></li>
+<li><p>Open a recordable optical disc package if you are not ready to record.</p></li>
+<li><p>Expose discs to extreme heat or high humidity.</p></li>
+<li><p>Expose discs to extremely rapid temperature or humidity changes.</p></li>
+<li><p>Expose recordable discs to prolonged sunlight or other sources of ultraviolet light.</p></li>
+<li><p>Write or mark in the data area of the disc (the area the laser &#8220;reads&#8221; ).</p></li>
+<li><p>Clean by wiping in a direction going around the disc.</p></li>
+</ol>
+
+
+<h3>For CDs especially do not:</h3>
+
+<ol>
+<li><p>Scratch the label side of the disc.</p></li>
+<li><p>Use a pen, pencil, or fine-tip marker to write on the disc.</p></li>
+<li><p>Write on the disc with markers that contain solvents.</p></li>
+<li><p>Try to peel off or reposition a label.</p></li>
+</ol>
+
+
+<p>&#8230; there is consensus that, under recommended storage conditions, CD-R, DVD-R, and DVD+R discs should have a life expectancy of 100 to 200 years or more; CD-RW, DVD-RW, DVD+RW, and DVD-RAM discs should have a life expectancy of 25 years or more. Little information is available for CD-ROM and DVD-ROM discs (including audio and video), resulting in an increased level of uncertainty for their life expectancy. Expectations vary from 20 to 100 years for these discs.
+&#8230; CD-R and DVD-R discs have a shelf life of 5 to 10 years before recording.
+&#8230; the life expectancy for RW and RAM discs will be less than that of R discs.
+&#8230;The data on the phase-changing metal alloy film layer can be erased and rewritten to a limited number of times (about 1,000 times for RW discs and about 100,000 times for RAM discs). &lt; !&#8211;></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Opera 10-year online anniversary party]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/08/opera-10-year-online-anniversary-party/"/>
+    <updated>2005-08-31T17:16:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/08/opera-10-year-online-anniversary-party</id>
+    <content type="html"><![CDATA[<p><strong> SURPRISE! Free registration codes </strong></p>
+
+<blockquote><p>Party favors: Get a free Opera registration code by clicking the &#8216;go free&#8217; button below. We&#8217;re giving away registration codes for as long as the party lasts!</p></blockquote>
+
+<p><a href="http://my.opera.com/community/party/reg.dml">Go free now!</a> <!-- more --></p>
+
+<p>To register the Opera browser and remove the ad bar, follow these steps</p>
+
+<ol>
+<li><p>Copy the appropriate registration code given below</p></li>
+<li><p>Go to Help > Register Opera</p></li>
+<li><p>Enter your name and organization</p></li>
+<li><p>Paste the registration code and press OK</p></li>
+</ol>
+
+
+<p><strong> REMOVED! Opera free now!</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[15 Common Mistakes by Google Adsense Publishers that Violate Terms of Service]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/08/15-common-mistakes-by-google-adsense-publishers-that-violate-terms-of-service/"/>
+    <updated>2005-08-17T18:40:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/08/15-common-mistakes-by-google-adsense-publishers-that-violate-terms-of-service</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/adsense">Google Adsense</a> is a popular web advertising program which provides a good income source for many websites. There are well defined terms of service to strictly adhere to when participating in the program.</p>
+
+<p>On my visit through sites and forums, I daily notice several instances of misuse of Adsense ads. Believe me, if I can see it in a 5 seconds gaze! - so can the Adsense guys. And if they do, you are on your way off the program. So here a few helpful reminders, probably many you already know, and few you might gain by knowing now. These are all picked from the <a href="https://www.google.com/adsense/policies">Program Policies</a>, <a href="https://www.google.com/adsense/localized-terms">Terms and Conditions</a> and <a href="https://www.google.com/support/adsense">FAQ</a> itself and presented in a simplified manner.</p>
+
+<ol>
+<li>Never click your own ads or get them clicked for whatever reason. You know this one very well. This is a surefire way to close you Adsense account. Never tell your office associates or friends to click on them. Keep a check if your family or children are busy increasing your income by clicking your ads and indirectly trying to stop your income. Dont even think of offering incentives for clicks, using automated clicking tools, or other deceptive software. Adsense is very smart to detect fraudulent clicks. Check the ads which appear on your pages by the <a href="https://www.google.com/support/adsense/bin/answer.py?answer=10004&amp;topic=160">Google Preview tool </a>if required.</li>
+</ol>
+
+
+<!-- more -->
+
+
+<ol>
+<li><p>Never change the Adsense code. There are enough customizations available to change the colour, background or border to suit your needs. Do whatever you want to do outside the code, never fiddle within the ad or the search code. They know it when you do. The search code has more limitations to colour and placement, but you should adhere to the rules. The code may stop working and violates the TOS.</p></li>
+<li><p>Do not place more than 3 ad unit and 1 ad links or 2 search boxes on any web page. Anyway, ads will not appear in those units even if you place more ad units. But this is the limit they set, so it is better to stick to it.</p></li>
+<li><p>Do not run competitive contextual text ad or search services on the same site which offer Google Adsense competition in their field. Never try to create link structures resembling the adsense ads. Never use other competitive search tools on the same pages which have Adsense powered Google search. They do allow affiliate or limited-text links.</p></li>
+<li><p>Do not disclose confidential information about your account like the CTR, CPM and income derived via individual ad units or any other confidential information they may reveal to you. However, you may reveal the total money you make as per recent updates to the TOS.</p></li>
+<li><p>Label headings as &#8220;sponsored links&#8221; or &#8220;advertisements&#8221; only. Other labels are not allowed. I have seen many sites label ads with other titles. Dont make your site a target in a few seconds gaze.</p></li>
+<li><p>Never launch a New Page for clicked ads by default. Adsense ads should open on the same page. You may be using a base target tag to open all links in a new window or frame by default. Correct it now as they do not want new pages opening from clicked ads.</p></li>
+<li><p>One Account suffices for Multiple websites. You do not need to create 5 accounts for 5 different websites. One account will do. If you live in the fear that if one account is closed down for violation of TOS, believe me they will close all accounts when they find out. You can keep track of clicks by using channels with real time statistics. They will automatically detect the new site and display relevant ads.</p></li>
+<li><p>Place ads only on Content Pages. Advertisers pay only for content based ads. Content drives relevant ads. Although you might manage some clicks from error, login, registration, &#8220;thank you&#8221; or welcome pages, parking pages or pop ups, it will get you out of the program.</p></li>
+<li><p>Do not mask ad elements. Alteration of colours and border is a facility to blend or contrast ads as per your site requirements. I have seen many sites where the url part is of the same colour as the background. While blending the ad with your site is a good idea, hiding relevant components of the ads is not allowed. Also do not block the visibility of ads by overlapping images, pop ups, tables etc.</p></li>
+<li><p>Do not send your ads by email. Html formatted emails look good and allow placement of these javascript ads. But it is not allowed as per TOS. You do not want impressions registering on their logs from any email even once. They are watching!</p></li>
+<li><p>Keep track of your content. So Adsense is not allowed on several non content pages. But it is also not allowed on several content pages too. Do not add it on web pages with MP3, Video, News Groups, and Image Results. Also exclude any pornographic, hate-related, violent, or illegal content.</p></li>
+<li><p>Do not alter the results after ad clicks or searches - Ensure you are not in any way altering the site which the user reaches to after clicking the ads. Do not frame, minimize, remove, redirect or otherwise inhibit the full and complete display of any Advertiser Page or Search Results Page after the user clicks on any Ad or Search results.</p></li>
+<li><p>Avoid excessive advertising and keyword stuffing - Although the definition of &#8216;excessive&#8217; is a gray area and is subject to discretion, yet Google adsense with correct placement, focused content and high traffic will get you much more income than other programs, so excessive advertising is not required. Keyword stuffing does target better focused ads, but overdoing it is not required.</p></li>
+<li><p>Ensure you Language is Supported - Adsense <a href="https://www.google.com/support/adsense/bin/answer.py?answer=9727&amp;topic=140">supports</a> &#8220;Chinese (simplified), Japanese, Danish, Korean, Dutch, Norwegian, English, Polish, Finnish, Portuguese, French, Russian, German, Spanish, Hungarian, Swedish, Italian and Turkish&#8221;. In addition, AdSense for search is available in Czech, Slovak, and Traditional Chinese. If your web pages language is not supported, do not use the code on such pages.</p></li>
+</ol>
+
+
+<p>Whenever in doubt, it is better to ask the learned staff of Google Adsense. They are very helpful!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Writing On Your Palm]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/07/writing-on-your-palm/"/>
+    <updated>2005-07-23T21:48:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/07/writing-on-your-palm</id>
+    <content type="html"><![CDATA[<p>What format or formats should you release it in? The choices have narrowed somewhat in the last year or two, but there&#8217;s still nothing approaching a &#8220;standard&#8221;. Here&#8217;s the lowdown on the current contenders.</p>
+
+<p><strong>Text (.txt)</strong></p>
+
+<p>Ah, the simple, universal and minimalist appeal of good old ASCII. This is the format to use if you want the widest possible distribution and acceptance. Anyone can read ASCII. Unix, Windows, Mac, Palm, Pocket PC, Rocket&#8230; Heck, even an old Commodore 64 can read ASCII. Project Gutenberg, a volunteer project to preserve the great public domain works of literature in digital form, uses ASCII because of it&#8217;s universal, cross platform nature. The downside, of course, is that you have to forgo fancy formatting like italics and aside from possibly distributing the book in a password-protected .zip file, you have no security. I&#8217;m not big on copy protection DRM, but I do think that the idea of ebooks at least being read-only has some appeal, so others can&#8217;t alter your work.</p>
+
+<!-- more -->
+
+
+<p><strong>Open eBook/XHTML (.htm or .html)</strong></p>
+
+<p>A step beyond ASCII is Open eBook (OEB), itself a varient of XHTML (a dialect of XML that is nearly identical to HTML 4). Confused yet? This is still technically ASCII text, but marked up with XHTML tags and OEB metadata to convey more information about the book and more sophisticated formatting. OEB has the inside track to become the &#8220;standard&#8221; source format for ebooks, although few ebooks are actually distributed in raw OEB.</p>
+
+<p><strong>Microsoft Reader (.lit)</strong></p>
+
+<p>OEB &#8220;under the hood&#8221;, Microsoft&#8217;s Reader format is a compiled binary compressed ebook format that at the least protected publically available DRM, is &#8220;sealed&#8221; from user changes. Although it used OEB source files, you can&#8217;t read .lit files in a browser. You have to have a copy of Microsoft Reader to properly decompress and unencrypt them. Microsoft Reader files look great, and offer many of the advantages of paper books (pagination, highlighting, annotation) along with the advantages of ebooks (small file sizes, keyword searching, hyperlinks), but it&#8217;s not as &#8220;durable&#8221; a format as ASCII since you can only read it on platforms for which a version of Microsoft Reader is available.</p>
+
+<p><strong>Rich Text Format (.rtf)</strong></p>
+
+<p>If you were okay with the security limitations of ASCII but wanted a more sophisticated presentation, there&#8217;s always RTF. Readable on most modern GUI operating systems, RTF files are printable and offer varied formatting choices. They&#8217;re also useful as source files for other ebook options (like WordSmith on the PalmOS platform).</p>
+
+<p><strong>Adobe PDF (.pdf)</strong></p>
+
+<p>I hesitate to mention Adobe&#8217;s Portable Document Format as an ebook format, as that isn&#8217;t really what it was designed for. The vast thundering majority of PDF files out there are designed to be printed on letter-sized paper, and are very difficult to read on electronic screens. I&#8217;ve said before that PDF isn&#8217;t an ebook format so much as an electronic transmission and storage format for paper documents. Still, a lot of people insist on using PDF as an ebook format, so here it is. I will admit that for magazines, newsletters and other media for which layout is important, PDF probably provides the best preservation of the print layout.</p>
+
+<p>And before I get into what I think of as the myriad of PDBs, a few words about the PalmOS platform and the difference between a file extension and file format.</p>
+
+<p>PalmOS does not really understand the idea of files, and therefore doesn&#8217;t care about DOS/Windows file extentions. Everything inside a Palm device takes the form of a database, not a file. Therefore, all PalmOS databases appear on PCs as either .pdb (Palm Database) or .prc (Palm Resource Code) files. These extentions are stripped off and forgotten after the files have been transferred to a Palm, and you can&#8217;t tell anything about what kind of Palm databases they are from the DOS file extention. I generally try to make use of long filenames under Windows to give some clue to the actual database type (Between Heaven and Hell.isilo.pdb), but a lot of people don&#8217;t, so you really only have two ways to find out:</p>
+
+<ol>
+<li><p>Transfer the file to your Palm and see if it shows up in your ebook reader.</p></li>
+<li><p>Open the .pdb file in a PC text editor (be careful not to save it, as you could corrupt the file) and see if you can recognize the string of characters near the top of the file that defines the type of database you have. REAd is PalmDoc, togo is iSilo, BDOC is WordSmith, etc.</p></li>
+</ol>
+
+
+<p>Now that we&#8217;re all sufficiently befuddled, the PalmOS formats:</p>
+
+<p><strong>PalmDoc (.pdb or .prc)</strong></p>
+
+<p>The original PalmOS ebook format, invented by Rick Bram for his Doc program, later bought out by Aportis to become AportisDoc. A PalmDoc (often referred to simply as Doc, but I&#8217;m trying to avoid confusion with Microsoft Word&#8217;s .doc format) file is, like everything else in a Palm, really a database. It takes the form of simple chain of 4k text records strung together. PalmDoc is the closest PalmOS format you&#8217;ll find to ASCII, in that does not support any real formatting and is relatively insecure (there&#8217;s lots of PalmDoc editors out there for PalmOS and Windows). That said, PalmDoc is probably the closest thing out there to a &#8220;universal&#8221; ebook format, in that it&#8217;s readable on even more modern platforms than ASCII.</p>
+
+<p><strong>Palm Reader (.pdb)</strong></p>
+
+<p>This is my favorite of the PalmOS formats, mostly because it allows sophisticated formatting, is at least read-only secured, and can be read on both PalmOS devices and Pocket PCs. This format is a marked up, encrypted variant of PalmDoc, and Palm Reader, the reader program for it from Palm Digital Media, can read PalmDoc files as well. This is also a good format to distribute in because it&#8217;s a fair bet that ebook reading folks will have the free Palm Reader program on their device already, since Palm Digital Media is one of the best (and cheapest) places to find legitimate current bestsellers in ebook format.</p>
+
+<p><strong>MobiPocket (.pdb)</strong></p>
+
+<p>MobiPocket is an up-and-coming format, largely due to their offering free readers for PalmOS and Pocket PC, and their partnership with Baen&#8217;s Webscriptions. MobiPocket&#8217;s format isn&#8217;t that hard to figure out; it&#8217;s standard PalmDoc with embedded HTML markup tags. You can read a MobiPocket ebook in any PalmDoc reader, but unless you like reading raw HTML, it won&#8217;t be comfortable. MobiPocket&#8217;s reader works pretty well, and the price is right. This is also probably the easiest PalmOS format to convert to if you&#8217;re starting with OEB source files.</p>
+
+<p><strong>iSilo (.pdb)</strong></p>
+
+<p>Another PalmOS format that starts with HTML is iSilo. iSilo isn&#8217;t a variant of PalmDoc, but uses its own proprietary encryption algorithm to achieve about 20% tighter compression that PalmDoc, Palm Reader or MobiPocket. It also supports pretty much all standard HTML formatting, including hyperlinks and tables. Because of the proprietary encryption, it&#8217;s a pretty secure format; converting to iSilo is a one-way proposition. No one has yet figured out how to decompile an iSilo document.</p>
+
+<p><strong>TomeRaider (.pdb)</strong></p>
+
+<p>TomeRaider is interesting because it&#8217;s, in true PalmOS style, as much database as ebook. While I&#8217;ve seen ebooks in TomeRaider format, it&#8217;s really better suited to reference works than prose, especially, record-based references like movie guides, travel guides, etc. The reader costs money, but is available for both the PalmOS and Pocket PC platforms.</p>
+
+<p>In closing, it&#8217;s obvious that the &#8220;best&#8221; format in which to release your ebook is several of the above, as many as you feel you can support. Baen Books offers their webscriptions in RTF, .lit, MobiPocket, HTML and Gemstar&#8217;s .rb format (which I didn&#8217;t mention since it&#8217;s limited to the relatively small market of those with Rocket eBook dedicated readers). I usually offer mine in ASCII, OEB, .
+lit, PalmDoc, RTF and Palm Reader formats. Until the ebook industry settles on a standard (which probably will end up one of the PalmOS formats unless Microsoft ports Microsoft Reader to PalmOS, something they haven&#8217;t ruled out), ebook publishers will have to make books available in formats their customers want, however many that might be.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Yến Vy sẽ bị xử lý về hành vi bán dâm phá giá]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/06/yen-vi-se-bi-xu-ly-ve-hanh-vi-ban-dam-pha-gia/"/>
+    <updated>2005-06-07T04:00:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/06/yen-vi-se-bi-xu-ly-ve-hanh-vi-ban-dam-pha-gia</id>
+    <content type="html"><![CDATA[<p>Yến Vy đã phạm luật như thế nào?
+<strong>* Hội người tiêu dùng</strong></p>
+
+<blockquote><p><em>Hai năm lao động quần quật mới đủ tiền mua dâm Yến Vy 01 lần?
+Dưới góc độ kinh tế: Cơ hội nào cho người tiêu dùng?
+Yến Vy sẽ bị xử lý về hành vi bán phá giá?
+Yến Vy: 500 đến 1000 UDS</em></p></blockquote>
+
+<p>Chiều 26-5-2005, sau khi củng cố hồ sơ, cơ quan chức năng đã quyết định cưỡng bức tập trung giáo dục đối với Đinh Thoại Yến Vy, tức diễn viên điện ảnh, ca sĩ Yến Vy về việc hành nghề mãi dâm.</p>
+
+<p>Ngay sau khi bị bắt, Trần Thị Phố khai có môi giới mại dâm cho một số diễn viên, người mẫu, trong đó có Yến Vy. Các cô gái mại dâm bị bắt trong vụ này cũng “biết” hành vi của Yến Vy.</p>
+
+<p>Tài liệu trinh sát và lời khai của những người liên quan cho thấy trước khi Trần Thị Phố bị bắt một tháng, Yến Vy còn đi khách. Nghĩa là khi bộ phim sex của mình đã bị tung lên mạng thì Yến Vy vẫn tiếp tục bán dâm. Mỗi lần đi khách của Yến Vy ở các khách sạn thuộc TP.HCM có giá 500 USD, còn đi Vũng Tàu thì 1.000 USD (“má” Phố hưởng 20%). “Khách” của Yến Vy chủ yếu là các đại gia, trong đó có một số người kinh doanh khách sạn.</p>
+
+<p>Mấy ngày sau khi phá vụ mại dâm trên, công an mời Yến Vy đến trình bày sự việc, qua đấu tranh, Yến Vy đã thừa nhận hành vi của mình. Kết hợp với tài liệu trinh sát, phòng Cảnh sát điều tra tội phạm về trật tự xã hội lập hồ sơ đưa Yến Vy vào trường giáo dục, phục hồi nhân phẩm thời hạn 18 tháng.</p>
+
+<!-- more -->
+
+
+<p> <strong>Giá bán bất hợp lý</strong></p>
+
+<p>Ngay sau khi thông tin về việc yến Vy bị xử lý được loan báo đến công chúng, hàng loạt thư từ, e-mail, điện thoại và fax đã đổ về tới tấp về XD cũng như ở các toà soạn báo.</p>
+
+<p>Ông Trần Văn Ổi, chủ tịch Hội Leo Dừa tỉnh Bến Tre bức xúc: “Ngày công lao động của một người leo dừa tại Bến Tre chỉ 25.000. trong khi Yến Vy bán dâm giá 1000 USD, tương đương gần 16 triệu đồng. Như vậy một người leo dừa phải lao động quần quật hai năm và không ăn uống, chi tiêu mới đủ một lần mua dâm cô ấy. Đây là điều không thể nào chấp nhận được. Trong khi chúng ta đang đấu tranh cho một xã hội bình đẳng, đang tạo cho người lao động chân chính những cơ hội thụ hưởng cuộc sống thì việc bán dâm giá cao của cô ấy đã đi ngược lại với chính sách chung”.</p>
+
+<p>Sự phản ứng không chỉ từ công luận mà ngay trong đồng nghiệp của yến Vy cũng bất bình. Siêu mẫu xóm Cây Xoài Trần Thị Hồng Đẹt, Phó Chủ tịch kiêm Tổng Thư ký Liên hội Diễn Viên – Người mẫu bán dâm cũng vừa có thư gửi các cơ quan chức năng. Thư có đoạn: “Giữa lúc những người mẫu, diễn viên bán dâm chúng em đang nỗ lực hạ giá thành sản phẩm để đưa sản phẩm tình dục tới công chúng thì việc hét giá trên trời của yến Vy là hành vi khó có thể biện minh!”.</p>
+
+<p><strong>Giá cao- Vì sao?</strong></p>
+
+<p>Chúng tôi biết rằng lội ngược dòng công luận lúc này là điều dễ bị hiểu lầm, khi mà các ký giả đang dùng những ngòi bút bom tấn, búa tạ giáng lên nhan sắc nàng. Có thể độc giả sẽ cho rằng bổn báo từng được Yến Vy “tài trợ” miễn phí đôi lần hoan lạc. Tuy nhiên, với trách nhiệm và cái tâm của người cầm bút,chúng tôi cho rằng sẽ không công bằng với Yến vy nếu chỉ đánh giá và bình xét từ một phía.</p>
+
+<p>Theo Yến Vy, sở dĩ cô phải bán giá cao là vì để tạo nên một sản phẩm có thưong hiệu như hiện nay, cô đã phải chiêu đãi miễn phí cho rất nhiều đạo diễn, diễn viên đàn anh, một số anh có trách nhiệm phòng chống tệ nạn xã hội để được làm ngơ, điều đó phải tính vào giá thành, do vậy phải tăng giá bán dâm lần sau để bù đắp.</p>
+
+<p>Mặt khác, Yến Vy cho rằng chủ trương về việc đưa sản phẩm bán dâm tới đại chúng là điều cần thiết, nhưng không thể vì điều đó mà cào bằng mọi loại đối tượng. Khách hàng của cô là các đại gia. Người bình dân đã có những sản phẩm tình dục vừa túi tiền, do đó không thể coi hành vi của cô là đi ngược lại chủ trương “đại chúng hoá giá cả mua bán dâm”.</p>
+
+<p>Lý giải cho việc bán giá cao, cô nói rằng để có được nghiệp vụ điêu luyện và nhan sắc mặn mà, côphải đàu tư rất lớn cho chế độ ăn uống, luyện tập và chi phí mỹ phẩm nên giá thành cao hơn giá bình quân là điều dễ hiểu.</p>
+
+<p><strong>Cơ hội cho người tiêu dùng trung lưu?</strong></p>
+
+<p>Chuyên gia kinh tế Lê Văn Bắp cho rằng xét về khía cạnh kinh tế, việc Yến Vy bị đưa đi tập trung giáo dục là cơ hội cho người tiêu dùng: “Khi cô ấy ra trại, mác diễn viên, người mẫu không còn, chắc chắn giá bán dâm sẽ hạ mà chất lượng lại tốt hơn. Tôi cho rằng sau 18 tháng ở trại, không quan hệ tình dục, một số bộ phận quan trọng của cô ấy sẽ phục hồi, trở nên hấp dẫn và chất lượng hơn nhiều so với hiện nay”, ông Bắp khẳng định.</p>
+
+<p>Phó Giám đốc Trung tâm Phát triển Mại dâm Quốc gia Đặng Văn Mướp thì nhận định rằng sau khi những đường dây nghệ sĩ bán dâm bị xử lý, những gái mại dâm loại này sẽ không còn dám xứng danh diễn viên, người mẫu. Do vậy thương hiệu bị giảm sẽ kéo theo giá thành hạ. Cơ hội cho người mua dâm trung lưu sẽ nhiều hơn.</p>
+
+<p>Hiện đang có dư luận cho rằng việc Yến Vy bị xử lý là do sự cạnh tranh không lành mạnh giữa hai tổ chức Liên Đoàn Diễn Viên – Người mẫu bán dâm và Hội ca sĩ bán dâm. Điều đó cho thấy thị trường này đang ngày càng trở nên sôi động.</p>
+
+<p>Cho đến chiều qua, các cơ quan chức năng đã nhận thêm đơn xin thành lập Hội Nhà báo bán dâm và Hội văn hào bán dâm. Trong khi đó, Trung tâm bảo vệ quyền lợi người mua dâm cũng nhận được đơn xin can thiệp của những người mua dâm bình dân. Theo đó, cần có những biện pháp mang tính hành chính để điều tiết giá của thị trường này.</p>
+
+<blockquote><p>Originally Posted by Tiến sĩ Luật XD, Chủ tịch HĐQT Sexviet: “Yến Vy có thể bị xử lý vì hành vi bán phá giá thị trường”</p></blockquote>
+
+<p>Việc một diễn viên như Yến Vy bán dâm giá cao đã xâm hại đến trật tự kinh doanh tình dục, khách thể được Luật cạnh tranh tuyên bố bảo vệ. Tại Phú Lang Sa, hành vi này sẽ được xem xét bởi trọng tài.</p>
+
+<p>Nước ta đang trong quá trình hội nhập, chưa ban hành Luật cạnh tranh, tuy nhiên khách mua dâm là người nước ngoài sang đầu tư tại Việt nam có thể kiện Yến Vy vì đã làm tăng chi phí giải trí của họ, chi phí này được khấu trừ vào giá thành sản phẩm mà nhà đầu tư ấy sản xuất, làm giảm khả năng cạnh tranh của sản phẩm.</p>
+
+<p>Có hay không hành vi “thiếu tinh thần trách nhiệm, gây hậu quả nghiêm trọng” của cơ quan thuế và quản lý thị trường?</p>
+
+<p>Nói đến trách nhiệm của yến Vy, không thể bỏ qua trách nhiệm của cơ quan thuế và quản lý thị trường. Tại sao thu nhập từ bán dâm của cô ta trong một thời gian dài không được phát hiện để đánh thuế? Trong khi đó thu nhập của tôi và một số đồng nghiệp bị trừ ào ào. Trừ mà muốn méo mồm, bỏ cháo luôn?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[PHP4 hay PHP5 ?]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/05/php4-hay-php5/"/>
+    <updated>2005-05-26T19:12:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/05/php4-hay-php5</id>
+    <content type="html"><![CDATA[<p>Đọc bài viết này của pcdinh trên Goldenkey Forum:</p>
+
+<blockquote><p>Việc chuyển từ PHP4 sang PHP5 không hề đơn giản. Những sai lầm trong PHP4 đã khiến cho con đường đi đến thành trì của PHP5 chứa đầy sỏi đá và chẳng bằng phẳng.</p></blockquote>
+
+<!-- more -->
+
+
+<blockquote><ol>
+<li><p>Thứ nhất, có quá nhiều ứng dụng PHP viết theo kiểu cấu trúc khiến cho tính OO trong PHP5 không hề hấp dẫn. Viết lại chúng ư? Một công việc khổng lồ. Ai sẽ trả tiền?</p></li>
+<li><p>Thứ hai, có nhiều ứng dụng xen lẫn cả thủ tục và đối tượng, nhưng là một thứ đối tượng dở người của PHP4. Việc chuyển sang chạy trên PHP5 sẽ tạo ra các điểm break mà phát hiện ra chúng không hề dễ dàng.</p></li>
+<li><p>Thứ ba, dân lập trình PHP đa phần là dân tài tử. PHP đã tạo nên một hàng rào rất thấp khiến cho ai cũng có thể trở thành một lập trình viên. Không có coding convention thống nhất, API thì phi chuẩn, code mã thì thủ tục, không có tiền lệ sử dụng các design pattern, không có sự khuyến khích dùng lại mã, không khuyến khích các best practice trong lập trình, không khuyến khích test driven&#8230; Trở nên chuyên nghiệp hơn với OOP ư? Ai sẽ trả tiền?</p></li>
+<li><p>Thứ tư, đa số các ứng dụng PHP là viết vì lý do cá nhân hoặc là mã nguồn mở viết vì vui thích hay một nhu cầu trước mắt. Điều này khác với Java, một công nghệ hướng vào thị trường doanh nghiệp, nơi mà người ta khuyến khích dùng lại mã vì&#8230; ông chủ không vui khi trả tiền 2 lần để có cùng một đoạn mã và này, các lập trình viên trẻ, hãy viết ra sao để khi các cậu đếch làm cho tôi nữa thì sẽ có người khác gánh vác công việc của cậu vì khách hàng đó còn làm việc với chúng ta dài đấy.</p></li>
+<li><p>Thứ năm, hướng đối tượng ư? Doanh nghiệp ư? Tại sao không phải là Java mà lại là PHP5? Tôi tưởng PHP chỉ dùng để code forum, mấy trang tin nhỏ nho hay đại loại cái gì đó be bé thôi chứ? Cộng đồng PHP ư? Ôi cộng đồng là một lũ nhăng nhố, nay ở mai đi, ai dám khẳng định họ sẽ cam kết cho sự phát triển kinh doanh của tôi? Mã nguồn mở? Chúa ơi, tôi là một bậc thầy về kinh doanh mà Thượng Đế của tôi lại là lợi nhuận. Xin lỗi nhé ông ta không biết đọc mã nguồn. Hãy chỉ cho tôi ai là người có khả năng đọc nó. Chúng tôi cần tiết kiệm tiền nhưng chúng tôi cũng cần nhanh chóng và rủi ro thấp nữa. Mã nguồn mở không có nghĩa là phi rủi ro.</p></li>
+</ol>
+</blockquote>
+
+<ol>
+<li>Thứ sáu, chúa ơi, Andi và Gutman có biết đến câu Tồi hơn là tốt hơn không vậy? Xin đứng bắt tôi học thêm. Tại sao tôi phải học nấu cơm trong khi tôi đã có sẵn mì ăn liền. Lập trình PHP4 dễ như đi câu cá. Xin đừng làm cho tính lãng mạng của tôi bị ảnh hưởng với sự trừu tượng của OOP. Đẳng cấp doanh nghiệp ư? Xin đừng làm tôi mê muội bằng những ngôn ngữ mang tính dịch thuật và marketing của nhóm PHPVietnam. Tôi ngán chúng nó đến tận cổ rồi. Dù có thêm PHP5 hay PHP6 thì tôi vẫn chỉ code PHP cho cá nhân tôi và cái phần mềm của tôi vẫn be bé như thế. 10.000 hay 20.000 request 1 giây ư? Lạy chúa, băng thông của con chỉ có 3GB 1 tháng. Xin chúa rủ lòng thương.</li>
+</ol>
+
+
+<p>Tóm lại, việc chuyển từ PHP4 sang PHP5 đang bị chi phối rất nhiều vào tầm cỡ cộng đồng (dân PHP không có nhiều người thông minh đâu), tính tương thích của các ứng dụng đang dùng, số ứng dụng mới có khả năng thay thế chạy được trên PHP5, tâm lý chống đối và ngại chuyển đổi, sự đón nhận PHP từ phía doanh nghiệp. Đây là những điều mà tôi đã rút ra sau khi đã lập ra PHPVietnam.</p>
+
+<p>Thời gian sẽ trả lời và việc quyết định là tùy ở bạn</p>
+
+<p>và thêm nữa của lineage</p>
+
+<blockquote><p>em có đọc một bài của một tiền bối với 30 năm kinh nghiệm làm về software engineering ở Carnegie Mellon University (một trong những trường dạy về Khoa học máy tính danh tiếng nhất nhì thế giới) , ông ấy nói rằng giới trẻ đừng bao giờ nên học .NET trước tiên mặc dù .NET rất là mạnh. Hãy học về Java, Perl hay Python trước để nắm được cái nền tảng về lập trình hướng đối tượng rồi sau đó học .NET sẽ nhanh hơn, hiểu rõ hơn. Ông ấy nói với cách học này ông tin chắc rằng người học sẽ tiến xa hơn rất nhiều, giỏi hơn nhiều so với những anh lười nhác chỉ biết dựa vào những công cụ có sẵn trong .NET.
+Ông ấy nói Java và .NET không có khác gì nhau xét về nguyên lý vì .NET là một bản sao của Java về mặt ý tưởng + phong cách và những toan tính của Microsoft mà thôi. Microsoft bao giờ cũng là công ty có khả năng tạo ra các công cụ dễ làm việc nhất. Nhưng trong khi tạo điều kiện về mọi thứ thì user lại hòan toàn bị lệ thuộc. Họ chỉ biết kéo và thả hoặc chỉ biết ấn nút chứ đâu có biết cái gì nằm bên dưới. Rồi dần dần, cái ấn nút và kéo thả làm cho họ lười đi, họ quen với cái đó, họ không thể dứt ra được. Họ bị chi phối hòan toàn bởi M$.
+Chuyển sang một ngôn ngữ mới ư ? Nhiều người chuyên về .NET (không phải tất cả) sẽ hỏi: nó có kéo thả không, nó có tiện ích như Visual Studio không&#8230;. Nghĩa là tài năng của họ đang thui chột, tính cơ động và khả năng ứng biến của họ đang giảm sút rõ rệt. Những người như thế khi công nghệ thay đổi họ dễ bị đứt quá vì khả năng học của họ giảm đi quá nhiều. Giống như con gà tre (sống bờ bụi) với con gà công nghiệp ấy mà. Dân .NET nhiều người tự biến họ thành con gà công nghiệp.
+Các bác không tin ư? Cứ hỏi mấy bác chuyển từ VB 6 sang Java mà xem: luôn miệng hỏi: công cụ nào hỗ trợ kéo và thả để tạo giao diện. Ở Java không có tiền lệ đó mặc dù NetBeans có hỗ trợ kéo và thả. Chính vì thế, giới lập trình luôn coi trọng trình độ của dân Java hơn dân .NET. Do phải suy nghĩ nhiều hơn, làm việc nhiều hơn nên giới công nghệ ở Mĩ gọi dân Java là dân smart (thông minh).</p>
+
+<p>Điều không may là ở giới PHP có nhiều người thiếu chuyên nghiệp, họ viết mã nhưng lại không hiểu gì về software engineering vì họ chẳng quan tâm đến điều đó. Trên các diễn đàn quốc tế, em gặp khối đứa có 12-13 tuổi code PHP ầm ầm. Hi vọng PHP5 sẽ trấn chỉnh lại hàng rào gia nhập đội ngũ PHP coder, yêu cầu họ nghĩ nhiều hơn trước khi viết, buộc họ đánh giá lại PHP và không coi PHP là ngôn ngữ mì ăn liền nữa.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quân tử - Tiểu nhân - Ngụy quân tử]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/05/quan-tu-tieu-nhan-nguy-quan-tu/"/>
+    <updated>2005-05-14T16:52:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/05/quan-tu-tieu-nhan-nguy-quan-tu</id>
+    <content type="html"><![CDATA[<h3>LỜI MỞ ĐẦU</h3>
+
+<p>Tôi có một người bạn thân, cậu ta hơn tôi một tuổi, nhưng kinh nghiệm của cậu ta về cuộc sống, về cách nhìn nhận mọi vấn đề xảy ra hơn tôi nhiều lắm. Lúc còn học ở Việt Nam, cậu ta đã đi làm, tự mở cửa hàng riêng và thu nhập có thể sánh ngang với một công tử nhà giàu. Sau đó cậu ta sang nước ngoài du học theo diện tự túc và chỉ sau một năm, cậu ta đã có thể tự nuôi sống bản thân mình, không cần tiền của bố mẹ gửi sang nữa, thậm chí còn bị nước bạn đánh thuế thu nhập hàng tháng. Tôi biết rằng để làm được như cậu ta thật không dễ dàng gì, đòi hỏi phải là một người rất bản lĩnh, nhất là khi phải sống một thân một mình, tại nơi đất khách quê người, phải đối diện với rất nhiều khó khăn, thử thách, tự lo cho mình từ cái ăn, cái mặc, lo rèn luyện thân thể để giữ sức khỏe, lo học hành cho thật tốt và cái quan trọng nhất đó là làm sao giữ được cho tâm hồn mình luôn hướng về một nơi thiêng liêng với những tình cảm tốt đẹp, đó chính là Quê hương. Trong khi đấy cậu vẫn phải lo kiếm sống hàng ngày, nhưng vẫn luôn tự rèn luyện, tự nhắc nhở mình để không quá lao đầu vào việc kiếm tiền mà mất hết thời gian dành cho bạn bè, không có thời gian suy nghĩ về những việc xảy ra xung quanh mình, để rồi đến lúc nào đó đánh mất chính mình.</p>
+
+<!-- more -->
+
+
+<p><strong>Sang bên đấy cậu đã học được hai điều:</strong>
+<strong>1. <em>Không bàn luận ! Nếu bàn luận mà nó ra tiền thì hãy bàn luận.</em></strong>
+<strong>2. <em>Hãy nhìn sự việc diễn ra theo nhiều hướng khác nhau.</em></strong></p>
+
+<p>Cũng biết mình chưa đến tuổi để có thể bàn luận về một vấn đề nào đấy, bởi vì muốn bàn luận thì chỉ có thể nói ở trên một diễn đàn công cộng nơi không ai biết bạn là ai và <strong>cái quan trọng nhất</strong> bạn phải là người <strong>đã có công ăn việc làm ổn định</strong> và <strong>có đủ thời gian</strong> cho phép bạn tranh luận, <strong>có vốn hiểu biết chung</strong> về lịch sử, kinh tế, chính trị, xã hội. Nhưng hôm nay cũng xin phá lệ một lần, dưới cái nhìn của một người chưa bước vào đường đời, xin được bàn về <strong>QUÂN TỬ - TIỂU NHÂN VÀ NGỤY QUÂN TỬ</strong>. Thực ra ranh giới giữa 3 loại người này rất mong manh, mờ mịt. Có thể trong thời điểm này bạn là Quân tử, Tiểu nhân nhưng trong một hoàn cảnh khác bạn lại là Ngụy quân tử. Đây cũng là những điều tôi đã học được trong sách vở và đem nó để áp dụng vào những sự việc đang xảy ra xung quanh tôi.</p>
+
+<p>QUÂN TỬ - TIỂU NHÂN</p>
+
+<p><strong>A. Sách vở :</strong>
+<strong>1.Theo khái niệm Nho Giáo, trên thế gian có 2 loại người :</strong> Một loại có số lượng ít ở bên trên, một loại có số lượng nhiều ở bên dưới.</p>
+
+<p><strong>Quân tử</strong>: có đức, có tài, có học lễ nghĩa văn chương, có chức danh và địa vị trong bộ máy Nhà Nước.
+<strong>Tiểu nhân</strong>: được coi như những người chỉ có sức lao động để làm lụng kiếm ăn và phục dịch bề trên. Những người này đa số là nông dân cho nên thường được gọi là dã nhân</p>
+
+<p><strong>Quân tử</strong> : tinh tường điều nghĩa
+<strong>Tiểu nhân</strong> : tinh tường cái lợi</p>
+
+<p><strong>2.Khổng Tử nói:</strong>
+<strong>Quân tử</strong> hướng lên trên mà thành đạt : là <strong>đi vào cuộc sống, hay đời sống tinh thần mà làm sáng tỏ chân lý, nêu cao nhân nghĩa trong Xã Hội</strong>.
+<strong>Tiểu nhân</strong> hướng xuống dưới mà thành đạt : là <strong>đi vào cuộc sống vật chất mà bảo đảm tài lợi cho Xã Hội</strong>.</p>
+
+<p>Thành đạt của <strong>Quân tử</strong> là <strong>đem lại cho đất nước an ninh</strong>.
+Thành đạt của <strong>Tiểu nhân</strong> là <strong>đem lại cho dân cơm ăn áo mặc</strong>.</p>
+
+<p>Không có <strong>Quân tử</strong> thì <strong><em>không ai trị</em></strong> <strong>Tiểu nhân</strong>
+Không có <strong>Tiểu nhân</strong> thì <strong><em>không ai nuôi</em></strong> <strong>Quân tử</strong></p>
+
+<p><strong>Khổng Tử đặc biệt nêu cao vai trò gương mẫu của</strong> Quân tử, nhất là của những người nắm vai trò chính trị
+<strong>Đức</strong> của <strong>Quân tử</strong> là <strong>gió</strong>
+<strong>Đức</strong> của <strong>Tiểu nhân</strong> là <strong>cỏ</strong>
+<strong>Cỏ có gió lướt qua thì uốn rạp theo</strong>, nhưng <strong>không phải các</strong> Quân tử đều cùng một đức gió như nhau và các <strong>Tiểu nhân</strong> đều cùng một đức cỏ như nhau. Giữa <strong>Quân tử</strong> và <strong>Tiểu nhân</strong> thì ranh giới nhiều khi rất mờ mịt, chỉ cách nhau trong đường tơ kẽ tóc.</p>
+
+<p><strong>Khổng Tử đòi hỏi cả</strong> Quân tử và <strong>Tiểu nhân</strong> đều phải học đạo
+<strong>Quân tử</strong> học đạo thì thương người .
+<strong>Tiểu nhân</strong> học đạo thì dễ sai khiến .</p>
+
+<p>Trong những tư tưởng này còn chưa nói đến một loại người nữa trong xã hội, đó là Ngụy Quân tử. Có lẽ bởi vì người ta không thể nói về loại người này chỉ trong mấy dòng ngắn ngủi. Vì vậy chúng ta sẽ nói đến vấn đề này sau.</p>
+
+<p><strong>B. Áp dụng vào thực tế … ảo</strong>
+<strong>Để có thể áp dụng thành công, đúng đắn và khách quan thì khi nhìn nhận, đánh giá bất kỳ một sự việc nào chúng ta cũng phải nhìn nhận dưới nhiều góc độ, theo các hướng khác nhau.</strong></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Phần kết của Chuyện cây khế]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/05/phan-ket-cau-chuyen-cay-khe-the-ending-of-cay-khe-story/"/>
+    <updated>2005-05-09T19:35:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/05/phan-ket-cau-chuyen-cay-khe-the-ending-of-cay-khe-story</id>
+    <content type="html"><![CDATA[<p>Sau đợt sóng thần vừa qua tại bãi biển Phunkhet Thái Lan có phát hiện một hộp đen của con chim lạ đó, sau khi phục hồi thì bị thiếu một số sector do bị bad. Sau khi điều tra thêm thì được biết rằng trong bộ lịch sử mồm của dân làng Phunkhet cũng có truyền lại một câu truyện về một chàng trai cưỡi chim rơi xuống làng này. Sau khi được một em dân làng xinh, ngon, chân dài hô hấp, tẩm quất nên linh hồn của Tơn cũng giống như thể xác (rơi từ trên trời rơi xuống) trở về hòa làm một. Mỗi tội là em dân làng kia làm mátxa nhưng lại chưa qua lớp cấp tốc nào, lại xuất thân từ nông thôn nên có hơi quá tay với Tơn. Do vậy Tơn từ lúc tỉnh dậy cứ ngơ ngơ nói tòan thứ tiếng lạ hoắc, nghe đâu tòan kêu &#8220;chim, chim, chim..&#8221;</p>
+
+<p>Mọi người mới ghét quá nên đuổi Tơn lên một chiếc thuyền độc mộc rồi đẩy ra biển. Ông trời mới thương nên giữ thuyền đứng yên theo phương pháp tuyến, chỉ hơn 12 tiếng sau Tơn đã lưu lạc vào một vùng đất hoang (giờ là Châu Mỹ). Không có một thứ gì trong tay ngòai một chiếc di động mất sóng, một mình anh phải chống chọi với lốc, mưa bão, núi lửa.. triền miên. Cũng nhờ có chiếc thuyền làm từ rơm rạ (còn vương vài sợi thóc) nên Tơn có &#8220;vốn&#8221; để làm ăn. Thâm canh ngắn ngày, làm gối vụ nên năng xuất tăng từ 8 lên 10 tấn trên một hecta, Tơn ăn đủ.</p>
+
+<!-- more -->
+
+
+<p>Ăn no rồi chẳng biết làm gì anh lấy mấy lá cây rừng bện lại đốt lên rồi hút cho hết ngày. Ăn hút rồi cũng chẳng biết làm gì, di động không dùng được giờ cái &#8220;cố định&#8221; cũng không biết dùng vào đâu.. Tơn tức cho kiếp đỏ đen của mình anh thầm ước các em hãy về đây bên anh.</p>
+
+<p>Còn ở bên kia địa cầu, Đôn thừa kế lại khu vườn ở Quảng Bá sau bị nhà nước cho vào diện giải tỏa, cũng may mấy hecta ruộng vườn của Tơn để lại bên khu Mỹ Đình lại bán được giá, nghe nói anh này bán có một chuồng bò đã được hơn tỷ. Đợt xổ số thủ đô lại quay cho các tỉnh nên cầu lô đề của Đôn thành cầu tiêu với cầu tõm hết, đúng là tiền dẫu kiếm như nước rồi phang lô cũng sẽ hết. Đôn tức quá đấm ngay vào tủ thờ, trên có để cây quất tổ, cây quất đè chết anh, đúng là &#8220;nhất quả đất nhì quả quất&#8221;.</p>
+
+<p>Sau này người ta đặt tên cho miếng sứ dùng để kê phía dưới chậu cây quất là đôn.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[UNOFFICIAL Windows98 Second Edition Service Pack 2.0]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/05/unofficial-windows98-second-edition-service-pack-20/"/>
+    <updated>2005-05-07T13:51:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/05/unofficial-windows98-second-edition-service-pack-20</id>
+    <content type="html"><![CDATA[<p><strong>UNOFFICIAL Windows98 Second Edition Service Pack 2.0</strong> (Freeware)</p>
+
+<p>Microsoft has never released a service pack for Windows98 SE. But I made a Service Pack for Windows98 SE users. It contains all Windows98 SE updates from Windows Update site and more.</p>
+
+<p>It is a self-extracting and self-installing pack like Microsoft&#8217;s update files. Thus, you cannot choice files individually. However, the pack installs only required fixes for your system. Uninstallation is possible from Add-Remove Programs. However, I don&#8217;t recommend uninstallation of the pack, if you don&#8217;t have any problem.</p>
+
+<p>This is only for <em>WINDOWS 98 SECOND EDITION ENGLISH.</em> I highly recommend that you should backup your system before installing the pack. You must have at least <strong>32 MB</strong> of RAM.</p>
+
+<p>It contains only operating system updates. It does NOT contain Internet Explorer 6, DirectX 9, Media Player 9 and their updates.</p>
+
+<!-- more -->
+
+
+<p><strong>Note_: All old version users should install this version without uninstalling old version.
+</strong><strong>Features of 2.0:</strong>
+  - 100+ hotfixes (Detailed list will be prepared soon).</p>
+
+<ul>
+<li><p>Solves <a href="http://support.microsoft.com/?id=253912">512 MB of RAM</a> problem.</p></li>
+<li><p><a href="http://www.dr-hoiby.com/TrayIconIn256Color/">256-color tray icons</a>.</p></li>
+<li><p>Better Notepad: <a href="http://www.liquidninja.com/metapad/">MetaPad 3.5</a> (Optional).</p></li>
+<li><p><a href="http://www.mdgx.com/98-4.htm#COSW">Optimized swap file usage</a> (Optional).</p></li>
+<li><p>Better WDM and USB support.</p></li>
+<li><p>Adaptec <a href="http://radified.com/ASPI">ASPI 4.60.1021 drivers</a> (Optional).</p></li>
+<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=0A8A18F6-249C-4A72-BFCF-FC6AF26DC390">Windows Scripting Host 5.6</a>.</p></li>
+<li><p><a href="http://www.microsoft.com/com/dcom/dcom98/dcom1_3.asp">DCOM98 1.3</a>.</p></li>
+<li><p>OLE Automation Libraries 2.40.4522.</p></li>
+<li><p><a href="http://support.microsoft.com/?id=285189">Dial-Up Networking 1.4</a>.</p></li>
+<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=cebbacd8-c094-4255-b702-de3bb768148f">Microsoft Installer 2.0</a>.</p></li>
+<li><p>MDGx&#8217;s HTML Help Update.</p></li>
+<li><p>TweakUI (Optional).</p></li>
+<li><p>Command Prompt Here (Optional).</p></li>
+<li><p>New Animated Boot Logo (Optional).</p></li>
+<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=73BA7BD7-ED06-4F0D-80A4-2A7EEAEE17E2">Microsoft Layer for Unicode</a>.</p></li>
+<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=05AE09E6-082A-4CD1-99CD-8911B6034C20">Visual Basic 5.0 SP2 runtime library</a>.</p></li>
+<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=7B9BA261-7A9C-43E7-9117-F673077FFB3C">Visual Basic 6.0 SP6 runtime library</a>.</p></li>
+<li><p><a href="http://msdn.microsoft.com/vstudio/downloads/updates/sp/vs6/sp6/download/default.aspx">Visual C++ 6.0 SP6 runtime libraries</a>.</p></li>
+<li>Updates JET 3.5 files to <a href="http://support.microsoft.com/?id=172733">JET 3.5 SP3</a>.</li>
+<li>Supports <a href="http://www.litepc.com/98lite.html">98lite 4.7</a>.</li>
+<li>Windows 2000/ME desktop icons.</li>
+<li><a href="http://www.mdgx.com/newtip16.htm#W2KCS">Windows 2000 color scheme</a> (Optional).</li>
+<li>Supports custom &#8220;Program Files&#8221; directory.</li>
+<li>Shows attributes column in details view on the Windows Explorer.</li>
+<li><a href="http://www.msfn.org/board/index.php?showtopic=38193">Semi-slipstreaming support</a>.</li>
+<li>Some <a href="http://exuberant.ms11.net/setweaks.html">tweaks</a>(Optional).<img src="http://www.narga.org/files/2011/04/screenshot.gif" alt="" /> <a href="http://exuberant.ms11.net/screenshot.jpg">Screenshot</a></li>
+</ul>
+
+
+<p><strong>Known Problems:</strong></p>
+
+<blockquote><p>If you have Crystal Sound Card (CS423x), and have problem with the sound, you have to upgrade your <a href="http://www.winpack.org/download/cs423x.zip">drivers</a>.</p></blockquote>
+
+<p><strong>Download - Version 2.0: (16282624 Bytes / md5sum: 7fa22c79fb22f0ece527893f30e9ede4)</strong></p>
+
+<blockquote><p><a href="http://download.cnet.com/Unofficial-Windows-98-SE-Service-Pack/3000-18487_4-52713.html">CNET | Download.com</a></p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Chuyện Tấm Cám]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/04/chuyen-tam-cam/"/>
+    <updated>2005-04-28T20:04:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/04/chuyen-tam-cam</id>
+    <content type="html"><![CDATA[<h3>Phần 1</h3>
+
+<p>Chuyện kể rằng, ngày xửa ngày xưa, trong một gia đình nọ, có hai người con gái cùng cha khác mẹ. Tấm là con của bà vợ cả, Cám là con của bà vợ lẽ. Người cha mất rồi, mẹ Tấm cũng mất, nên Tấm phải ở cùng với dì ghẻ là mẹ của Cám.</p>
+
+<p>&#8211; Tấmmmm! Tao đã cấm mày xào nấm với dấm rồi cơ maaaaaaaaà. Đầu mày có bị ấm không? Cẩn thận tao cho vài đấm.</p>
+
+<p>&#8211; Tấmmmm! Mày hâm à, mày câm à. Sao mày đâm thủng cái mâm???</p>
+
+<p>Hàng ngày, những lời đay nghiến, chửi bới Tấm xảy ra như cơm bữa, cho dù gì ghẻ đã đôi lần bị phê bình trước tổ dân phố vì vi phạm nếp sống văn minh gia đình văn hoá. Tấm làm gì cũng bị bà mắng, trong khi Cám cũng đâm thủng mâm lúc chơi đùa với Tấm thì lại được mẹ khen là văn võ song toàn.</p>
+
+<!-- more -->
+
+
+<p>Một ngày nọ, dì ghẻ bỗng thèm ăn tép xào khế. Bà liền gọi hai cô đến và rằng:</p>
+
+<p>&#8211; Hai con! Hai con hãy ra ngoài ao tắm rửa giặt giũ cho sạch, cho thơm. Nhân tiện lúc đi ngang qua đồng bắt cho mẹ ít tép. Đứa nào bắt được nhiều tép về đây thì ta thưởng cho yếm đỏ, tôm thì càng tốt.</p>
+
+<p>Hai cô vâng lời mẹ và chạy đi. Tấm chăm lam, chăm làm. Cô nhảy ào xuống đồng. Một tay cô mò từng con tép, bắt từng con tôm bỏ vào giỏ. Còn tay kia bứt từng con đỉa đang bám chặt vào đùi, nhìn trước ngó sau rồi vứt mạnh về phía Cám đang say giấc trên bờ.</p>
+
+<p>Chẳng mấy chốc, giỏ tép đã đầy kín. Tấm cất tiếng gọi Cám đi về. Tỉnh dậy, Cám bỗng thấy hoảng sợ vô cùng khi nhìn thấy giỏ của mình trống rỗng. Như thế này thì mẹ sẽ đánh mất. Vừa mới hôm qua thôi, Cám còn chứng kiến cảnh mẹ mình đấm lia lịa vào mõm con chó becgie vì nó trót xơi trộm của bà củ khoai lang. Con chó dữ tợn là thế mà phải bỏ chạy, để lại bốn chiếc răng cửa ở bãi chiến trường. Nhớ đến cảnh đó, Cám bất giác đưa tay che lấy miệng mình&#8230;</p>
+
+<p>Về đến nhà, dì ghẻ đon đả ra đón Cám và thưởng cho Cám cái yếm đỏ. Còn Tấm, cô khóc tấm tức rồi lủi thủi ra chiếc giếng sau nhà. Cô thấy cuộc đời sau lắm trái ngang. Cô đã bỏ ra bao nhiêu công sức để bắt đầy giỏ tôm tép mang về cho mẹ ghẻ, vậy mà lúc lên bờ, cô đã cả tin khi nghe Cám nói:</p>
+
+<p>&#8211; Chị Tấm ơi chị Tấm. Đầu chị lấm chị ngụp cho sâu kẻo về mẹ mắng.</p>
+
+<p>Rồi lừa lúc Tấm quay đi, Cám đã tráo bỏ giỏ rỗng của mình lấy giỏ đầy của Tấm rồi phi trâu một mạch về lĩnh yếm mới, bỏ lại đằng sau vài viên gạch do Tấm ném với theo.</p>
+
+<p>&#8211; Thôi thì của đi thay người - Tấm tặc lưỡi.</p>
+
+<p>Sau đó cô nhẹ nhàng thả con cá Bống trong giỏ xuống giếng. Con cá Bống này là của một người đàn ông lạ mặt tặng cho. Lúc ở ngoài đồng tép, đang nằm đập thùm thụp hai tay xuống đất vì uất ức, bất chợt ngẩng lên, Tấm bỗng thấy ông ta từ đâu xuất hiện. Ông tự giới thiệu mình là Bụt. Tấm nhớ rõ lắm vì cái tên này lần đầu tiên cô thấy có trên đời. Lúc đầu cô đã nghĩ thầm &#8220;Tên gì mà xâu tệ, sao không giới thiệu tên Việt hay Hảo đi cho đẹp???&#8221;. Tuy nhiên, cô đã trở nên có cảm tình khi nghe ông nhẹ nhàng hỏi: “Vì sao con khóc?”. Sau khi nghe Tấm kể lại mọi chuyện, ông Bụt mới cho Tấm con cá Bống này và dặn, mỗi khi cho Bống ăn cơm, hãy nhớ gọi: “Bống ơi Bống! Lên ăn cơm vàng cơm bạc nhà ta. Chớ ăn cơm hẩm cháo hoa nhà người.” Dặn xong, ông bỏ chạy vì bị con chó becgie mà Tấm mang theo nhe bộ hàm thiếu bốn chiếc răng cửa ra dọa.</p>
+
+<p>Kể từ ngày đó, mỗi lần sau bữa ăn, Tấm đều lén trút một bát cơm nóng hổi vào trong yếm và nhảy tưng tưng ra ngoài giếng để cho Bống. Những lúc như vậy, Tấm phải vừa nhảy vừa huýt gió để dì ghẻ và Cám khỏi nghi ngờ về hành động của mình. Tuy nhiên, hành động đó của Tấm đã không qua được con mắt tinh đời của dì ghẻ.</p>
+
+<h3>Phần 2</h3>
+
+<p>&#8211; Không điên! Không dở hơi! Không thần kinh! Vậy mà vừa ăn no xong lại nhảy chồm chồm như phải bỏng – Dì ghẻ nghĩ thầm. <em>“Rõ ràng là khuất tất rồi đây.”</em></p>
+
+<p>Rồi mụ sai Cám rình Tấm mọi lúc, mọi nơi; ghi lại mọi diễn biến, việc làm thường ngày của Tấm. Cám ghi được tất, không bỏ sót bất kỳ một hành động nào, kể cả những câu chửi thầm Tấm dành cho hai mẹ con Cám mỗi khi nàng tủi phận. Và rồi Cám phát hiện ra chiếc giếng, nơi Tấm thường nhảy tưng tưng đến mỗi khi ăn cơm xong. Ngay sau đó, Cám về thưa với mẹ. Dì ghẻ uất lắm. Bà nghĩ Tấm mang cơm cho giai&#8230;</p>
+
+<p>Ngay sáng hôm sau, lúc con gà còn chưa kịp cất tiếng gáy vì chiều hôm trước bị Cám đá vào cổ họng trong lúc tập võ, dì ghẻ đã gọi Tấm dậy: “Con ơi con ơi. Đi chăn trâu phải chăn đồng xa. Chớ chăn đồng gần, làng bắt mất trâu”. Tấm ức lắm. Nàng vừa làu bàu, vừa mắt nhắm mắt mở nhảy lên lưng trâu. Làm sao mà không tức cho được, khi mới hai rưỡi sáng đã bị đánh thức, trong khi lịch ngủ thường ngày của nàng chỉ được bắt đầu vào lúc hai giờ mười lăm.
+Tấm vừa đi khuất, dì ghẻ và Cám vội chạy lại gần chiếc giếng. Từ đằng xa, hai mẹ con thi nhau nhặt gạch ném rào rào về phía đó. Chẳng biết họ đã ném bao nhiêu viên, chỉ biết rằng chiều hôm đó cả làng phải nghe chửi vì nhà hàng xóm bên cạnh tưởng mất trộm nguyên liệu.</p>
+
+<p>Tối đến, như thường ngày, Tấm lại mang cơm ra cho Bống ăn&#8230;</p>
+
+<p>&#8211; Bống ơi Bống! Lên ăn cơm vàng cơm bạc nhà ta. Chớ ăn cơm hẩm cháo hoa nhà người.</p>
+
+<p>Người ta nghe Tấm gọi mãi, gọi mãi. Và rồi tiếng Tấm rú vang khi chỉ thấy một cục máu nổi lên mặt nước. Tấm oà khóc. Kẻ nào đã hãm hại Bống? Kẻ nào đã đang tâm làm việc này? Và thế là tối hôm đó, lần thứ hai trong ngày, cả làng lại một lần nữa phải nghe chửi.</p>
+
+<p>Bụt lại hiện lên và hỏi:</p>
+
+<p>&#8211; Vì sao con lại chửi?</p>
+
+<p>Sau khi nghe Tấm kể lại sự tình, Bụt mới bảo Tấm tìm xương Bống về cho vào bốn cái lọ và chôn vào bốn góc giường nơi Tấm nằm. Nghe lời Bụt, Tấm quay về nhà tìm xương Bống. Tìm mãi mà không thấy, Tấm lại khóc. Khóc mãi thì có một tiếng nói the thé vang lên:</p>
+
+<p>&#8211; Cục ta cục tác, cho ta nắm thóc ta bới xương cho.</p>
+
+<p>Ngẩng đầu lên, Tấm nhận ra con gà trống ngày nào, nay chất giọng đã hoàn toàn thay đổi vì di chứng của lần bị Cám đá vào cổ. Tấm ném thóc cho gà. Gà bới một lúc thì tìm thấy xương. Tấm nhặt lấy bỏ vào lọ và đem chôn dưới bốn chân giường nơi mình nằm&#8230;</p>
+
+<p>Ít lâu sau, nhà vua mở hội. Mọi người dân trong kinh thành đều được mời tới dự bữa tiệc do vua chiêu đãi. Mẹ con Cám nghe tin dậy từ sáng sớm, chuẩn bị những bộ váy đẹp nhất, những đôi hài đẹp nhất, và đặc biệt là bỏ qua thói quen ăn sáng hàng ngày. Tấm cũng muốn đi lắm. Gì thì gì, ăn uống free, không đi cũng phí. Nhưng dì ghẻ lại không đồng ý. Bà nghĩ ra một kế. Ban đầu, bà lấy một lon sữa ông Thọ tính phục vụ kế hoạch. Nhưng thấy không ăn thua, bà kiếm một hộp sữa Cô gái Hà Lan loại 3kg, xúc đầy thóc, đầy gạo, sau đó đem đổ tất vào thùng và bảo Cám quay cho chúng trộn lẫn. Sau đó bà bắt Tấm nhặt thóc gạo riêng ra, xong thì mới cho đi hội. Tấm uất lắm. Cô muốn bóp cổ Cám cho hả giận. Nhưng khi thấy Cám đang nằm thở phì phò vì chóng mặt, lòng nhân từ đã khiến Tấm gạt phắt tư tưởng tội lỗi&#8230;</p>
+
+<h3>Phần 3</h3>
+
+<p>Mẹ con Cám đi rồi, Tấm bắt tay ngay vào công việc. Nhưng nhặt mãi, nhặt mãi mà vẫn không hết, Tấm lại khóc. Bụt hiện lên và hỏi:</p>
+
+<p>&#8211; WTF? Thế lại làm sao mà khóc?</p>
+
+<p>Và rồi khi biết rõ câu chuyện, Bụt mới cười mà rằng:</p>
+
+<p>&#8211; Xời, tưởng gì, chuyện nhỏ. Ta sẽ cho chim của ta đến giúp con!</p>
+
+<p>Ngay lập tức, chim của Bụt bay đến, sà vào thùng thóc. Tấm thích chí lắm. Có trong mơ cô cũng chẳng hình dung ra nổi, Bụt cho chim nhặt thóc giúp mình. Tiện thể, Tấm bê cả thùng hạt dẻ, nhờ chim bóc vỏ hộ&#8230;</p>
+
+<p>Trong chốc lát, mọi việc đã xong xuôi. Tấm hớn hở vì sắp được đi trảy hội. Nhưng khi nhìn mình trong gương, Tấm lại khóc. Bộ váy yếm duy nhất dì ghẻ cho cô mặc từ ngày này qua ngày khác, từ mùa đông sang mùa hè, giờ chẳng khác gì bikini hai mảnh. Và đôi guốc cao gót, giờ trông y hệt đôi guốc mộc. Tấm khóc to lắm. Một phần vì cô tủi, và phần nhiều cốt để cho Bụt nghe thấy.</p>
+
+<p>Và Bụt đã nghe thấy thật. Làm Bụt như làm dâu trăm họ, thấy có tiếng khóc ở đâu là phải xuất hiện nơi đó, trừ nhà hộ sinh. Bụt đến chỗ Tấm, và cố gắng cất giọng ngọt ngào:</p>
+
+<p>&#8211; Lại chuyện gì nữa đây?</p>
+
+<p>Sau khi nghe Tấm kể lể sự tình, Bụt mới bảo Tấm:</p>
+
+<p>&#8211; Con đào những cái lọ đã chôn ngày trước lên, thì muốn quần áo đẹp thế nào cũng có, toàn Versace không hà.</p>
+
+<p>Nói xong, Bụt biến mất luôn. Kể từ đó, không ai còn thấy Bụt nữa xuất hiện lần nào nữa trên giang hồ và nghe đâu, ông đã nằng nặc xin chuyển công tác&#8230;</p>
+
+<p>Nghe lời Bụt, Tấm đào tung cả ngôi nhà vì chẳng nhớ lần trước đã chôn lọ ở đâu. Cuối cùng, cô cũng đã tìm thấy chúng. Nào thì áo, nào thì quần, nào thì giày, và còn cả một con ngựa. Tấm đóng bộ gọn gàng, nhảy lên lưng ngựa và phi thẳng đến nơi trảy hội. Lúc đi ngang qua cầu, táy máy thế nào, Tấm rơi một chiếc giày xuống hồ trúng ngay đầu vị vua trẻ đang ngồi câu cá ở dưới đó. Vua liền ngóc đầu lên chửi với theo</p>
+
+<p>&#8211; Mẹ đứa nào ném giầy vào đầu ông!!</p>
+
+<p>Tấm sợ rằng sẽ đến muộn giờ trẩy hội nên Tấm mặc kệ và không quên vứt lại câu chửi thề về phía vị Vua trẻ đó:</p>
+
+<p>&#8211; Sư cha đứa nào chửi bà - đồng thời nhảy lên lưng ngựa và tiếp tục thúc ngựa phi nước đại.</p>
+
+<p>Đến nơi, đúng lúc nhà vua đang mở cuộc thi kén vợ. Ai ướm vừa chiếc giày mà vua mang ra, người đó sẽ là vợ của vua. Điều lệ cực kỳ đơn giản, dễ chơi, dễ trúng thưởng nên ai cũng muốn thử vận may, trong đó có cả mẹ con nhà Cám. Vậy mà lạ thay, chẳng ai ướm vừa. Người ít nhất cũng rộng ngót một size. Tấm len lỏi chen vào. Cô nhận ngay ra giày của mình. Làm sao mà không nhận ra chiếc giày quá khổ. Tấm ngạc nhiên lắm. Trong khi đó nhà Vua thầm nghĩ</p>
+
+<blockquote><p>Ông mà bắt được mày thì mày biết tay ông</p></blockquote>
+
+<p>Tấm bèn xin ướm thử và vừa khít. Nàng trở thành vợ của nhà vua từ đó. Chẳng ai biết được vị vua trẻ đó đang toan tính điều gì chỉ thấy chàng ta nhếch mép cười mỉm trông vẻ rất gian xảo.</p>
+
+<p>Tấm và vua kẻ tám lạng người nửa cân, hai người suốt ngày cãi nhau chí chóe chẳng ai chịu nhường ai, nhà vua ra sức hành hạ tấm thân ngọc ngà của tấm, nào là làm bia cho vua tập bắn, nào là làm bao cát cho vua tập oánh quyền&#8230; Tấm cũng chẳng vừa, Tấm bắt ruồi muỗi bỏ vào mồm vua lúc vua ngủ gật&#8230;. Chính vì thế mà cả hai người rất tâm đầu ý hợp, nhà vua thật sự rất sung sướng khi đã tìm được một ý trung nhân theo mong muốn của mình.</p>
+
+<p>Thấm thoắt đã đến ngày giỗ bố, Tấm xin phép vua cho nàng trở về nhà. Vừa đến nơi, Tấm đã bị dì ghẻ bắt trèo cau hái quả. Nàng bực mình lắm. Dù gì thì cũng đường đường là chánh cung hoàng hậu, vậy mà phải trèo cây cau. Nhưng rồi nghĩ đến nghĩa vụ làm con, nàng làu bàu vài câu rồi nghe theo lời của mẹ ghẻ, trèo lên cây và không quên cắp nách đôi giày đã đi vào lịch sử.
+Lại nói về mẹ con Cám, khi thấy Tấm đã ở chót vót trên ngọn cây, cả hai liền cầm rìu chạy ra mà mắm môi mắm lợi chặt gốc. Cây đổ ụp xuống ao khiến Tấm rơi xuống nước. Cho chắc ăn, mẹ con Cám gí điện xuống nước cho Tấm chết hẳn. Báo hại mấy trai làng đang tắm cách đó không xa cũng bị một phen điện giật. Thấy Tấm đã chết hẳn, Cám mới lấy quần áo của Tấm và mặc vào người rồi đi thẳng vào cung.</p>
+
+<p>Tấm chết đi hoá thành chim vàng anh. Nàng muốn bay vào cung lắm. Nàng muốn được nhìn thấy nhà vua hàng ngày. Nhưng nàng không dám. Không chỉ riêng nàng, tất cả loài chim trong vùng chỉ nghe đến tên nhà vua là đều bay mất dép. Chả là nhà vua đang tập bắn chim. Con vật xấu số nhất bị vua bắn chết mới chỉ cách đây mấy ngày bằng cả một băng AK. Nàng chỉ dám đến bên vua mỗi khi đêm về và hót cho vua nghe những điệu nhạc mà chính nàng cũng không thể hót lại được lần thứ hai. Thấy con chim lạ cứ quấn quít bên mình, một hôm vua hỏi:</p>
+
+<p>&#8211; Vàng ảnh vàng anh, có phải vợ anh chui vào ống quần</p>
+
+<p>Nghe vậy, vàng anh bay vào ngay, và suýt chết ngạt trong đó&#8230;</p>
+
+<p>Từ ngày có vàng anh, nhà vua quên cả Cám mỗi khi đêm về khiến Cám tức lắm. Nó bèn sai quân lính bắt chim, vặt sạch lông vứt ra vườn. Từ đám lông ấy mọc ra hai cây soan đào. Vua thấy đẹp, bỏ chơi chim chuyển sang chơi cây. Cám tức mình lại sai chặt sạch cây trong vườn và lấy gỗ đóng thành khung cửi. Niềm vui chẳng trọn vẹn. Hôm sau suýt nữa thì Cám bị truy tố vì tội lâm tặc.</p>
+
+<p>Khung cửi hàng ngày phát ra tiếng kêu:</p>
+
+<blockquote><p>Kẽo cà kẽo kẹt, lấy tranh chồng chị, chị khoét mắt cho</p></blockquote>
+
+<p>Điên tiết, Cám đốt thành tro và đem rải ra đường. Từ đám tro ấy lại mọc lên cây thị, và chỉ có duy nhất một quả&#8230;</p>
+
+<p>Lại nói về nhà vua. Từ ngày Cám về cung, nhà vua cảm thấy có điều gì lạ lạ. Vua sinh buồn phiền, ngày ngày dạo chơi khắp nơi cho khuây khoả. Một hôm, khát nước, vua đi qua quán của bà già nọ. Vua kêu hai cốc trà đá. Bà cụ mời vua miếng trầu. Thấy miếng trầu ngon sao giống của hoàng hậu têm ngày trước, nhà vua mới gặng hỏi, đồng thời xin bà miếng nữa&#8230;</p>
+
+<p>Thì ra một lần bà lão đi ngang qua cây thị, thấy có quả thị ngon, bà mới nói</p>
+
+<p>&#8211; Thị ơi thị rụng bị bà, bà để bà ăn chứ bà không ngửi.</p>
+
+<p>Gọi mãi, gọi mãi mà thị không rơi, bà mới dùng dép ném. Thấy quả thị đẹp, bà lão mang về nhà để ngắm hàng ngày. Nhưng kỳ lạ làm sao, từ ngày có thị, mỗi lần bà lão đi ra khỏi nhà, khi quay về, nhà cửa lại gọn gàng sạch sẽ, cơm nước đầy đủ. Bà ngạc nhiên lắm. Bà kể cho mọi người nghe, và sau đó phải giấu biệt thị vì ai cũng muốn mượn. Rồi một ngày bà giả vờ đi ra khỏi nhà rồi sau đó quay lại, bà thấy trong quả thị có một người con gái nết na, xinh đẹp bước ra. Bà mừng lắm, chạy vội lại xé tan vỏ thị. Từ đó Tấm ở lại với bà lão.</p>
+
+<p>Khi vua hỏi, bà mới gọi Tấm ra. Hai vợ chồng nhận ra nhau, mừng mừng tủi tủi. Sau đó vua đưa Tấm về cung lại làm hoàng hậu.</p>
+
+<h3>Phần kết</h3>
+
+<p>Gặp Tấm, thấy nàng xinh đẹp hơn xưa, Cám mới hỏi:</p>
+
+<p>&#8211; Chị Tấm ơi, chị làm thế nào mà đẹp thế?</p>
+
+<p>Tấm mới sai đào một cái hố sâu, bảo Cám đứng dưới để Tấm giội nước sôi xuống. Cám vui lắm. Vậy là nó lại sắp được đẹp như Tấm rồi. Cám cười rạng rỡ và không quên dặn Tấm phải đun nước thật sôi giội cho sướng&#8230;</p>
+
+<p>Cám chết, Tấm băm vằm xác Cám làm nghìn mảnh, nấu mắm rồi sai quân lính đóng chum dán nhãn Phú Quốc đem biếu dì ghẻ. Dì ghẻ đang ăn khen ngon, bỗng có con quạ đến kêu rằng:</p>
+
+<p>&#8211; Ngon gì mà ngon, mẹ ăn thịt con có còn xin miếng.</p>
+
+<p>Dì ghẻ giật mình, nhìn xuống đáy chum thấy đầu của Cám. Mụ kêu to ba tiếng rồi lăn đùng ra chết. Tấm cũng suýt bị truy tố vì tội giết người cũng may mắn là có ô dù to nâng đỡ nên mới thoát nạn&#8230;</p>
+
+<p>Từ đó Tấm suốt ngày ở trong cung chẳng dám đi đâu sợ dân chúng chửi bới chê cười bởi chí ít gì thì Tấm cũng là đương kim hoàng hậu mà.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cây quất (phỏng theo truyện Cây khế)]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/04/chuyen-cay-quat-phong-theo-chuyen-cay-khe/"/>
+    <updated>2005-04-22T18:22:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/04/chuyen-cay-quat-phong-theo-chuyen-cay-khe</id>
+    <content type="html"><![CDATA[<p>Ngày xửa ngày xưa, xưa lắm … để anh kể về cái xưa của nó. Nó xưa đến cái mức mà ông cố nội của anh kể lại cho ông nội anh nghe hồi thế kỉ 19 ( sau này anh tìm được cuốn băng ghi âm buổi kể chuyện ấy ) ông cũng đã bắt đầu bằng &#8220;Ngày xửa ngày xưa.. .&#8221;</p>
+
+<p>Anh nhắc lại lần nữa là xưa lắm rồi. Ở một làng nọ có một gia đình khá giả. Nhà có hai anh em trai, mặc dù là người Việt Nam chính cống nhưng ông bà lại sính ngoại nên đặt tên một đứa là: Luân Đôn đứa còn lại gọi là Sinh Tơn. Một ngày xấu giời nọ hai ông bà lên hứng hồi xuân, rủ nhau lên đồi ôn lại &#8221; chuyện của chúng mình &#8221; Chẳng may hôm ấy có con hổ cụt chân đói quá mò về làng, đi ngang qua đồi, thấy hai cục thịt béo đang hú hí, ngứa mặt nó xơi béng mất. Đôn và Tơn kể từ ngày ấy được nhà trường miễn giảm học phí vì là trẻ mồ côi .</p>
+
+<!-- more -->
+
+
+<p>Thằng Tơn là thằng anh, tính tình không khác gì mấy thằng USA gian ngoan, xoả quyệt và thâm độc, còn thằng Đôn thì ngược lại, ngoan ngoãn hiền lành và Galant không khác gì một quý ông người England. Thấm thoắt đã mấy lần chủ tịch nước đọc điện mừng Xuân trên tivi. Đôn và Tơn cũng đã trên 18 tuổi bắt đầu tò mò các trang thienbong.com, thienthai.net &#8230; nên bàn nhau chia tài sản để ra riêng cho thoải mái, dạo đó chưa có Luật Sư để chia tài sản hai ông bà để lại nên hai anh em tự phân chia. Để công bằng, hai anh em mua bộ bài về oánh. Mỗi lần thắng là được lấy một thứ trong nhà. Vốn gian xảo có thừa lại hay đú theo bọn trai làng đi đánh bạc các dịp Tết, Tơn nó làm bài thắng hết của cải trong nhà. Cuối cùng, đỏ cho Đôn, ván cuối bốc bài lên có đủ 3 phỏm ù luôn nên được một mảnh đất nhỏ ngoài đê, trên đó có một căn nhà cấp 4 xuống cấp và khu vườn có một cây Quất Quảng Bá rất sai quả.</p>
+
+<p>Tơn sau đận ấy giàu to, nó bán đất mặt đường cho nước ngoài xây nhà nghỉ .Tiền như quân Nguyên, gái gú bia rượu cả ngày, sống như ông Vua con trong làng vậy .Còn phần Đôn, nhờ chăm chỉ đánh máy thuê với cả ghi lô đề cho chủ nên cũng chộp giật sống qua ngày được. Mỗi tội gái làng nó không thèm để ý vì không có tương lai gì. Đôn buồn lắm! Chủ nhật ấy, đang dạo trong vườn nghĩ mưu cưa con ông chột đầu làng thì Đôn thấy có con chim to vật vã đang xực liên tục mấy quả đầu mùa chỗ cây Quất của chàng. Bực mình chàng vào xách con Rựa lâu nay thủ trong nhà, rón ra rón rén chạy lại chụp ngang cổ con chim, kề dao vào cổ chim chàng rít qua kẽ răng:</p>
+
+<p>&#8211; Chết cha mày, cây Quất ông mày trồng để Tết bán lấy tiền mua pháo hoa mà mày dám phá à, bố thịt!</p>
+
+<p>Chim sợ vãi cả đái. phều phào kêu:</p>
+
+<p>-Ăn một quả giả cục vàng, may túi 3 gang, mang đi mà đựng.</p>
+
+<p>Rợn hết cả óc gáy, phim kinh dị Đôn xem cũng nhiều nhưng giờ mới thấy chim biết nói tiếng người, cho là sự lạ, lòng Đôn cũng nguôi giận, nhưng để chắc ăn chàng còn dứ thêm một câu:</p>
+
+<p>&#8211; Được rồi, cho mày về, mai không qua chở ông đi lấy vàng ông tỉa chết con cụ mày!</p>
+
+<p>Chim dạ vâng rối rít rồi bay mất hút. Đôn bần thần quay vào nhà …</p>
+
+<p>Sáng hôm sau chờ mỏi cả cổ không thấy chim cò đâu, Đôn lầm bầm tự rủa mình ngu như Lợn.</p>
+
+<blockquote><p>đến thằng anh mình nó còn lừa cả mình, nói dek gì đến Chim chóc.</p></blockquote>
+
+<p>Định bụng ra ngõ làm đĩa bún đậu mắ tôm thì bất thình lình Đôn thấy chim bay đến. Đôn cả mừng, xắn xuýt xun xoe đến hỏi chim:</p>
+
+<p>&#8211; Định cho tao leo cây hay sao mà lâu thế, con Vợ?</p>
+
+<p>&#8211; Đang điên hết cả đầu đây này, lắm mồm thế! Nãy bay ngang quán cà phê, có thằng nào hút xì gà thơm nức mũi, mình đang phê nhắm mắt bay, dính bố nó vào dây điện thằng chết dẫm nào căng ngang đường, tí chết.</p>
+
+<p>&#8211; Hề hề - Đôn hềnh hệch cười - Tớ biết đâu được ý. Mà thôi, mình đi nhở.</p>
+
+<p>&#8211; Mang túi đi chưa?</p>
+
+<p>&#8211; Rồi, tối qua cắt hai cái ống quần cũ may rồi, vừa thành cái túi vừa có cái quần Ngố, trong cũng được, tí về tao mặc cho mà xem .</p>
+
+<p>Đôn leo lên lưng chim ngồi, chim nói :</p>
+
+<p>&#8211; Chuyến bay bắt đầu khởi hành đến mỏ vàng, đề nghị quý khách thắt dây an toàn. Không hút thuốc trên lưng chim kẻo cháy lông.</p>
+
+<p>&#8211; Bố ông, rỗi hơi à!</p>
+
+<p>Chim cười:</p>
+
+<p>&#8211; Lúc sáng cũng làm đôi quai, giờ hơi máu tí, thông cảm đê .</p>
+
+<p>Đôn thò tay vào túi quần, móc ra hai quả cam xã Đoài tọng hẳn vào mồm chim, vừa noi:</p>
+
+<p>&#8211; Ăn đi rồi lướt!</p>
+
+<p>Chim nuốt vội tí nghẹn, rùng mình cất cánh bay lên. Qua Vịnh bắc Bộ rồi qua Đảo trường sa Chim bay vào một khu vực sương mù dày đặc, tầm nhìn giảm xuống dưới 1km, sức gió mạnh cấp 10, cấp 11 giật lên cấp 12 khi chiều tối, biển dộng dữ dội. Dự áo trong 24 h tới … (quên, đây là dự báo thời tiết hôm qua, he he)</p>
+
+<p>Bất thình lình chim hạ cánh đột ngột xuống một hòn đảo hoang vu. Trên đảo vàng nhiều không kể xiết. Toàn loại 4 số 9 từng cục từng cụ to thôi rồi. Căn bản là cũng thích nhưng vì không tham lắm nên Đôn cũng chỉ lấy đâu khoảng dăm yến rồi lên lưng chim quay về. Khi trở về, Đôn nhảy ngay lên Công ty vàng bạc đấ quý đổi vàng lấy tiền mặt. Qua Nokia mua 2 con 9900 đời mới nhất thời bấy giờ. Tặng con chim một cái còn dặn thêm:</p>
+
+<p>&#8211; Bao giờ tao nháy, mày qua chỗ tao ăn Quất rồi chở tao đi nữa nhá.</p>
+
+<p>Chim lặng lẽ gật đầu rồi thở dài. Nghĩ thầm, bố mày mà là người bố mày mua cả cái vườn Quất Quảng bá chứ tội gì cho mày hưởng lợi. Đoạn bay đi đâu không rõ .</p>
+
+<p>Tin Đôn được chim thần giúp đỡ, nay giàu có hơn cả BillGate nhanh chóng lan đến tai của Tơn. Hắn tức lắm. Rắp tâm lừa Đôn thêm quả nữa mới đành lòng ……</p>
+
+<p>Một ngày nọ … hình như là Chủ Nhật hay sao đó, thằng Tơn qua chỗ nhà Đôn. Chả vòng vo gì cả hắn vào thẳng vấn đề giọng ngọt như mía :</p>
+
+<p>&#8211; Chú Đôn này, lâu nay anh cứ canh cánh trong lòng chuyện đối xử tệ bạc với chú. Nay, anh cũng có tuổi rồi, chỉ thích vui thú điền viên. Anh dành lại cho chú tất cả, chú về chăm nom bàn thở tổ tiên hộ anh. Còn anh ra đây sống nốt quãng đời còn lại .</p>
+
+<p>Đôn nghe và ngẫm nghĩ :</p>
+
+<p>&#8211; Nó nói nghe cũng ngọt. Dù gì thì nó cũng thích cây Quất của mình, cho nó thì chả mất đi đâu, mình giàu phết rồi, bây giờ có thêm mấy cái Vila sống đến già cũng chẳng hết tiền. Còn ở đây với cây Quất, nhỡ con chim dở hơi không đến nữa thì cũng thế .</p>
+
+<p>Xong xuôi, Đôn gật đầu đồng ý .</p>
+
+<p>Tơn mừng nhảy cẫng lên, va cái độp vào cái đèn hoa kỳ, dầu tưới xuống, bắt lửa, đầu cháy không còn một cọng tóc. Nhưng vẫn cười hớn hở, lấy con D410 gọi ngay Thành Hưng chuyển đồ đến ở luôn. Càng tiện, chuyến về thì thằng Đôn cũng chuyển sang nhà Tơn ở hẳn .</p>
+
+<p>Nhờ xin được số Mobile của chim thần, sáng thứ Hai Tơn gọi ngay cho chim. vừa lúc chim đang thèm Quất, thế là bay đến. Tưởng là quen biết rồi, chim đậu xuống phát là chén quất ngay, ai ngờ thằng Tơn nó rình sẵn. Nó phang cho một phát quay cu lơ. Lúc tỉnh dậy thấy mình bị trói gô vào thành giường, chim cả kinh không hiẻu chuyện gì xảy ra. Kịp lúc Tơn bước đến, hắn phì phèo điếu Vina, hất hàm nói :</p>
+
+<p>&#8211; Con Chó, bây giờ tính sao?</p>
+
+<p>&#8211; Sao là sao thế nào? Đôn đâu? Mà tao là Chim chứ phải chó éo đâu!</p>
+
+<p>&#8211; Nó bán lại nhà cho tao rồi, mày ăn Quất phải giả vàng cho tao thì tao mới tha, hiểu chửa?</p>
+
+<p>&#8211; À, chuyện nhỏ, thế thì việc dek gì mày trói tao như lợn thế này, mai may túi ba gang tao đưa đi lấy.</p>
+
+<p>&#8211; Con bà mày! Đéo phải nhắc, anh mua túi đây rồi, đi luôn.</p>
+
+<p>Nói rồi hắn cởi trói cho Chim ,cẩn thận leo lên lưng không quên mang theo cái balo 9 túi mới mua 60K ngoài chợ .</p>
+
+<p>Chim chán nản nhưng sợ nó bóp cổ mình nên cũng đưa đến đảo lần trước. Thằng Tơn nhặt đầy một túi, rồi lại găm thêm mấy cục vào người. Chim biết nhưng kệ cha nó, nói với thằng mặt dày này chỉ tổ phí nhời .</p>
+
+<p>Khi quay về, phần vì nặng, phần vì đói, chim vừa bay vừa ngủ gật. Một con Vietnam Airline bay ngang qua, chim không kịp tránh, nó táng cho một phát. Cả chim lẫn Tơn rơi tòm xuống biển, chết mất xác …nghe đâu xác hai đứa dạt vào bãi biển Phunkhet của Thái Land trong trận Sóng Thần vừa rồi …</p>
+
+<p>Còn Đôn đã sống một cuộc đời vương giả từ đó ..chỉ tiếc, vì nhiều tiền, hắn đâm ra chơi bời nghiện ngập. Sau chết vì dùng quá liều thuốc lắc. Nên bằng chứng về chuyện này không ai confirm hộ nữa</p>
+
+<blockquote><p>Hẳn bạn vẫn muốn biết phần kết của câu chuyện này ra sao, số phận của hai anh em họ như thế nào sau những biến cố của cuộc đời. <a href="http://Narga.github.com/narga-octopress/2005/05/phan-ket-cau-chuyen-cay-khe-the-ending-of-cay-khe-story/">Phần kết câu chuyện ở đây</a>, chúc bạn vui vẻ.</p></blockquote>
+]]></content>
+  </entry>
   
 </feed>

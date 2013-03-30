@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Web Development | NARGA]]></title>
+  <link href="http://Narga.github.com/narga-octopress/blog/categories/web-development/atom.xml" rel="self"/>
+  <link href="http://Narga.github.com/narga-octopress/"/>
+  <updated>2013-03-30T11:48:00+07:00</updated>
+  <id>http://Narga.github.com/narga-octopress/</id>
+  <author>
+    <name><![CDATA[Nguyễn Đình Quân]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[15 Common Mistakes by Google Adsense Publishers that Violate Terms of Service]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/08/15-common-mistakes-by-google-adsense-publishers-that-violate-terms-of-service/"/>
+    <updated>2005-08-17T18:40:00+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/08/15-common-mistakes-by-google-adsense-publishers-that-violate-terms-of-service</id>
+    <content type="html"><![CDATA[<p><a href="http://www.google.com/adsense">Google Adsense</a> is a popular web advertising program which provides a good income source for many websites. There are well defined terms of service to strictly adhere to when participating in the program.</p>
+
+<p>On my visit through sites and forums, I daily notice several instances of misuse of Adsense ads. Believe me, if I can see it in a 5 seconds gaze! - so can the Adsense guys. And if they do, you are on your way off the program. So here a few helpful reminders, probably many you already know, and few you might gain by knowing now. These are all picked from the <a href="https://www.google.com/adsense/policies">Program Policies</a>, <a href="https://www.google.com/adsense/localized-terms">Terms and Conditions</a> and <a href="https://www.google.com/support/adsense">FAQ</a> itself and presented in a simplified manner.</p>
+
+<ol>
+<li>Never click your own ads or get them clicked for whatever reason. You know this one very well. This is a surefire way to close you Adsense account. Never tell your office associates or friends to click on them. Keep a check if your family or children are busy increasing your income by clicking your ads and indirectly trying to stop your income. Dont even think of offering incentives for clicks, using automated clicking tools, or other deceptive software. Adsense is very smart to detect fraudulent clicks. Check the ads which appear on your pages by the <a href="https://www.google.com/support/adsense/bin/answer.py?answer=10004&amp;topic=160">Google Preview tool </a>if required.</li>
+</ol>
+
+
+<!-- more -->
+
+
+<ol>
+<li><p>Never change the Adsense code. There are enough customizations available to change the colour, background or border to suit your needs. Do whatever you want to do outside the code, never fiddle within the ad or the search code. They know it when you do. The search code has more limitations to colour and placement, but you should adhere to the rules. The code may stop working and violates the TOS.</p></li>
+<li><p>Do not place more than 3 ad unit and 1 ad links or 2 search boxes on any web page. Anyway, ads will not appear in those units even if you place more ad units. But this is the limit they set, so it is better to stick to it.</p></li>
+<li><p>Do not run competitive contextual text ad or search services on the same site which offer Google Adsense competition in their field. Never try to create link structures resembling the adsense ads. Never use other competitive search tools on the same pages which have Adsense powered Google search. They do allow affiliate or limited-text links.</p></li>
+<li><p>Do not disclose confidential information about your account like the CTR, CPM and income derived via individual ad units or any other confidential information they may reveal to you. However, you may reveal the total money you make as per recent updates to the TOS.</p></li>
+<li><p>Label headings as "sponsored links" or "advertisements" only. Other labels are not allowed. I have seen many sites label ads with other titles. Dont make your site a target in a few seconds gaze.</p></li>
+<li><p>Never launch a New Page for clicked ads by default. Adsense ads should open on the same page. You may be using a base target tag to open all links in a new window or frame by default. Correct it now as they do not want new pages opening from clicked ads.</p></li>
+<li><p>One Account suffices for Multiple websites. You do not need to create 5 accounts for 5 different websites. One account will do. If you live in the fear that if one account is closed down for violation of TOS, believe me they will close all accounts when they find out. You can keep track of clicks by using channels with real time statistics. They will automatically detect the new site and display relevant ads.</p></li>
+<li><p>Place ads only on Content Pages. Advertisers pay only for content based ads. Content drives relevant ads. Although you might manage some clicks from error, login, registration, "thank you" or welcome pages, parking pages or pop ups, it will get you out of the program.</p></li>
+<li><p>Do not mask ad elements. Alteration of colours and border is a facility to blend or contrast ads as per your site requirements. I have seen many sites where the url part is of the same colour as the background. While blending the ad with your site is a good idea, hiding relevant components of the ads is not allowed. Also do not block the visibility of ads by overlapping images, pop ups, tables etc.</p></li>
+<li><p>Do not send your ads by email. Html formatted emails look good and allow placement of these javascript ads. But it is not allowed as per TOS. You do not want impressions registering on their logs from any email even once. They are watching!</p></li>
+<li><p>Keep track of your content. So Adsense is not allowed on several non content pages. But it is also not allowed on several content pages too. Do not add it on web pages with MP3, Video, News Groups, and Image Results. Also exclude any pornographic, hate-related, violent, or illegal content.</p></li>
+<li><p>Do not alter the results after ad clicks or searches - Ensure you are not in any way altering the site which the user reaches to after clicking the ads. Do not frame, minimize, remove, redirect or otherwise inhibit the full and complete display of any Advertiser Page or Search Results Page after the user clicks on any Ad or Search results.</p></li>
+<li><p>Avoid excessive advertising and keyword stuffing - Although the definition of 'excessive' is a gray area and is subject to discretion, yet Google adsense with correct placement, focused content and high traffic will get you much more income than other programs, so excessive advertising is not required. Keyword stuffing does target better focused ads, but overdoing it is not required.</p></li>
+<li><p>Ensure you Language is Supported - Adsense <a href="https://www.google.com/support/adsense/bin/answer.py?answer=9727&amp;topic=140">supports</a> "Chinese (simplified), Japanese, Danish, Korean, Dutch, Norwegian, English, Polish, Finnish, Portuguese, French, Russian, German, Spanish, Hungarian, Swedish, Italian and Turkish". In addition, AdSense for search is available in Czech, Slovak, and Traditional Chinese. If your web pages language is not supported, do not use the code on such pages.</p></li>
+</ol>
+
+
+<p>Whenever in doubt, it is better to ask the learned staff of Google Adsense. They are very helpful!</p>
+]]></content>
+  </entry>
+  
+</feed>
