@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://Narga.github.com/narga-octopress/sitemap.xml 
