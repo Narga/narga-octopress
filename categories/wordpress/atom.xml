@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Wordpress | NARGA]]></title>
+  <link href="http://Narga.github.com/narga-octopress/categories/wordpress/atom.xml" rel="self"/>
+  <link href="http://Narga.github.com/narga-octopress/"/>
+  <updated>2013-03-30T23:59:18+07:00</updated>
+  <id>http://Narga.github.com/narga-octopress/</id>
+  <author>
+    <name><![CDATA[Nguyễn Đình Quân]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Phiên bản Wordpress 2.7]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2008/12/phien-ban-wordpress-27/"/>
+    <updated>2008-12-15T08:30:29+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2008/12/phien-ban-wordpress-27</id>
+    <content type="html"><![CDATA[<p>Hôm nay mới nói tới việc Wordpress 2.7 thì có lẽ là hơi chậm, dù vậy tớ vẫn nhắc đến nó bởi phiên bản này có một số thay đổi lớn đáng để bạn nâng cấp ngay lập tức, tất nhiên việc cập nhập các phiên bản mới nhất của Wordpress cũng giúp bạn tăng cường khả năng bảo mật của blog.
+Một số tính năng mới đáng chú ý:</p>
+
+<ul>
+<li><p>Thiết kế lại giao diện của trang quản lý hệ thống, cho phép kéo thả các nội dung, truy cập nhanh các thành phần của hệ thống như setting, plugins, page... mà không cần phải qua nhiều bước, đưa các tính năng quan trọng và hay dùng vào vị trí thuận tiện, dễ sắp xếp.</p></li>
+<li><p>Cho phép tìm kiếm và cài đặt các thành phần mở rộng (plugins) trực tiếp mà không cần phải lấy và duyệt từ Wordpress.org cũng như tự đưa lên Website của bạn. <em>{Tính năng này tớ không sử dụng được vì lỗi unzip của server, đang tìm hiểu}</em></p></li>
+<li><p>Phân trang các phản hồi, sắp xếp theo mục, cho phép trả lời các phản hồi trực tiếp từ trang quản lý hệ thống.</p></li>
+<li><p>Hỗ trợ bài viết có tính chất thông báo, treo trên trang nhất (sticky).</p></li>
+<li><p>...</p></li>
+</ul>
+
+
+<p>Hiện tại tớ thấy một vấn đề duy nhất là hoạt động trong Quản lý hệ thống (Dashboard) hơi chậm do Wordpress quá lạm dụng <a href="http://www.jQuery.com">jQuery</a>.</p>
+
+<p>Nâng cấp ngay lên phiên bản <a href="http://wordpress.org/download/">Wordpress v2.7</a></p>
+]]></content>
+  </entry>
+  
+</feed>

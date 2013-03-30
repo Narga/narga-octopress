@@ -4,7 +4,7 @@
   <title><![CDATA[NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T17:14:19+07:00</updated>
+  <updated>2013-03-30T23:59:18+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -20,7 +20,7 @@
     <id>http://Narga.github.com/narga-octopress/2012/11/goi-cai-dat-cac-font-cu-tcvn3-va-vni-cho-arch-linux</id>
     <content type="html"><![CDATA[<p>Mặc dù chúng ta đã sử dụng Unicode là bộ font mặc định cho văn phòng, web&#8230; và có cả quy định cũng như pháp lệnh về việc thống nhất sử dụng font Unicode trong các văn bản hành chính cũng như thông thường, tuy nhiên các loại font cũ như TCVN3, VNI, &#8230; vẫn còn hiện hữu thậm chí vẫn còn đang sử dụng do sự lạc hậu về thông tin cũng như sự quan liêu của một số đơn vị, ngành &#8230; ngại chuyển đổi và tiếp thu cái mới.</p>
 
-<p><img class="center" src="http://Narga.github.com/narga-octopress/images/2012/11/1213_FONT_ABC.jpg" width="575" height="416" title="'Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux'" ></p>
+<p><img class="center" src="http://Narga.github.com/narga-octopress/images/2012/11/1213_FONT_ABC.jpg" width="575" height="416" title="Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux" alt="Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux"></p>
 
 <p>Trên Arch Linux, bạn có thể cài đặt font mới bất kỳ bằng cách copy chúng vào thư mục <code>/usr/share/fonts/ĐỊNH_DẠNG_FONT</code> hoặc thư mục <code>~/.fonts</code> sau đó yêu cầu hệ thống cập nhật lại chỉ mục font. Tuy thế cách này vẫn khá lích kích và không tiện lợi bằng cách cài đặt.</p>
 
@@ -86,6 +86,155 @@ Một vài lầm tưởng của người dùng về cách thức tăng chỉ s�
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Phiên bản Wordpress 2.7]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2008/12/phien-ban-wordpress-27/"/>
+    <updated>2008-12-15T08:30:29+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2008/12/phien-ban-wordpress-27</id>
+    <content type="html"><![CDATA[<p>Hôm nay mới nói tới việc Wordpress 2.7 thì có lẽ là hơi chậm, dù vậy tớ vẫn nhắc đến nó bởi phiên bản này có một số thay đổi lớn đáng để bạn nâng cấp ngay lập tức, tất nhiên việc cập nhập các phiên bản mới nhất của Wordpress cũng giúp bạn tăng cường khả năng bảo mật của blog.
+Một số tính năng mới đáng chú ý:</p>
+
+<ul>
+<li><p>Thiết kế lại giao diện của trang quản lý hệ thống, cho phép kéo thả các nội dung, truy cập nhanh các thành phần của hệ thống như setting, plugins, page&#8230; mà không cần phải qua nhiều bước, đưa các tính năng quan trọng và hay dùng vào vị trí thuận tiện, dễ sắp xếp.</p></li>
+<li><p>Cho phép tìm kiếm và cài đặt các thành phần mở rộng (plugins) trực tiếp mà không cần phải lấy và duyệt từ Wordpress.org cũng như tự đưa lên Website của bạn. <em>{Tính năng này tớ không sử dụng được vì lỗi unzip của server, đang tìm hiểu}</em></p></li>
+<li><p>Phân trang các phản hồi, sắp xếp theo mục, cho phép trả lời các phản hồi trực tiếp từ trang quản lý hệ thống.</p></li>
+<li><p>Hỗ trợ bài viết có tính chất thông báo, treo trên trang nhất (sticky).</p></li>
+<li><p>&#8230;</p></li>
+</ul>
+
+
+<p>Hiện tại tớ thấy một vấn đề duy nhất là hoạt động trong Quản lý hệ thống (Dashboard) hơi chậm do Wordpress quá lạm dụng <a href="http://www.jQuery.com">jQuery</a>.</p>
+
+<p>Nâng cấp ngay lên phiên bản <a href="http://wordpress.org/download/">Wordpress v2.7</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Đôi khi sự thật là]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2008/12/doi-khi-su-that-la/"/>
+    <updated>2008-12-09T22:59:34+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2008/12/doi-khi-su-that-la</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Narga.github.com/narga-octopress/images/2008/12/the_sales_office_home.gif" width="580" height="292" title="Quảng cáo và sự thật" alt="Quảng cáo và sự thật"></p>
+
+<p>Có những sự thật của cuộc sống mà chúng ta phải chấp nhận nó dù đúng hay sai:</p>
+
+<ul>
+<li><p>Internet: Chúng tôi hoàn toàn miễn phí.</p></li>
+<li><p>Viễn thông: Chúng tôi bị lỗ vốn</p></li>
+<li><p>Cảnh sát: Chúng tôi vì nhân dân phục vụ</p></li>
+<li><p>Công ty tham gia thị trường chứng khoán: Chúng tôi không làm giả các báo cáo.</p></li>
+<li><p>Sếp: Tôi không bao giờ quên những cống hiến của anh (chị).</p></li>
+<li><p>Nhân viên: Mai tôi nghỉ việc, không làm nữa.</p></li>
+<li><p>Tài xế xe khách: Nhà xe xuất phát đúng giờ.</p></li>
+<li><p>Dân buôn: Bán lỗ vốn, đại hạ giá.</p></li>
+<li><p>Ngôi sao điện ảnh: Chúng tôi chỉ làm bạn bè.</p></li>
+<li><p>Chính khách: Tôi không nhận một đồng nào.</p></li>
+<li><p>Tổng công ty Xăng dầu: Chúng tôi nhập dầu 3 tháng một lần, lúc đấy giá nhập vào gấp mấy lần giá bán bây giờ</p></li>
+<li><p>CON GÁI: <a href="http://Narga.github.com/narga-octopress/2006/12/lan-dau-lam-chuyen-ay/">ĐÂY LÀ LẦN ĐẦU TIÊN</a>.</p></li>
+<li><p>Con trai: <a href="http://Narga.github.com/narga-octopress/2006/05/ngoan-khong-dau-ti-nao-dau-em/">Ngoan, không đau tí nào đâu</a>.</p></li>
+</ul>
+
+
+<p>Ai biết nữa không?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cải thiện tốc độ hiển thị Website]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2008/10/increase-website-render-speed/"/>
+    <updated>2008-10-30T14:08:17+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2008/10/increase-website-render-speed</id>
+    <content type="html"><![CDATA[<p>[caption id=&#8221;attachment_1130&#8221; align=&#8221;aligncenter&#8221; width=&#8221;600&#8221; caption=&#8221;Cải thiện tốc độ hiển thị Website&#8221;]<img src="http://www.narga.org/files/2008/10/Decrease-time-to-load-your-website.jpg" alt="Cải thiện tốc độ hiển thị Website" />[/caption]Nghiên cứu thói quen sử dụng máy tính cho thấy người dùng sẽ chuyển sang trang khác nếu website không có “động tĩnh” gì sau 4 giây. Vì thế, tốc độ là yếu tố quan trọng và cũng là ưu thế cạnh tranh để cung cấp thông tin. 7 thủ thuật dưới đây sẽ tăng đáng kể website của bạn.<!-- more --></p>
+
+<ul>
+<li><p><strong>Chuyển host lưu trữ file hoặc ảnh cỡ lớn sang nơi khác</strong>: Nhiều người cùng online một lúc có thể làm nghẽn đường truyền của bạn với hàng đống yêu cầu xem cùng một tấm hình trên website. Gánh nặng dữ liệu có thể chuyển sang những website chuyên để lưu trữ và chia sẻ ảnh như <a href="http://imageshack.us">ImageShack</a>, <a href="http://www.photobucket.com">Photobucket</a> hay <a href="http://www.flickr.com">Flickr</a>. Bằng cách này, máy chủ web của bạn chỉ cần đảm bảo phần text và file ảnh cỡ nhỏ, giảm đáng kể băng thông đồng nghĩa với việc phục vụ được nhiều người một lúc hơn.
+Nếu muốn chia sẻ những file nhỏ, khoảng 2 – 5MB, với khách viếng thăm, bạn có thể sử dụng dịch vụ Google Pages như một máy chủ web phụ.</p></li>
+<li><p><strong>Tối ưu hóa mã CSS</strong>: Hiện nay, nhiều website bắt đầu sử dụng CSS (Cascade Style Sheet) để định dạng. Mặc dù bảng CSS nhìn bắt mắt và hiệu quả hơn định dạng bảng HTML, nhưng nó đòi hỏi bạn phải tối ưu hóa code của chúng mới mong đạt được tốc độ tối ưu. Đoạn mã CSS “sạch” sẽ giúp trình duyệt giải mã trang web nhanh hơn.Ví dụ: <em>Thay vì viết</em>
+[sourcecode language=&#8221;css&#8221;]
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 20px;
+margin-left: 10px;
+[/sourcecode]
+<em>Bạn nên viết</em>
+[sourcecode language=&#8221;css&#8221;]
+margin: 20px 10px 20px 10px;
+[/sourcecode]
+Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.
+Nếu chưa thạo về code, công cụ trực tuyến nhỏ Clean CSS sẽ giúp bạn công đoạn tối ưu này, loại bỏ những khai báo thừa và khoảng trống vô nghĩa. Bạn có thể tham khảo <a href="http://www.cleancss.com/">tại đây</a>.</p></li>
+<li><p><strong>Tối ưu hóa hình ảnh</strong>: Có 4 loại định dạng hình ảnh sử dụng phổ biến trên web: <strong>PNG, JPG, JPEG và GIF</strong>. Hầu hết các phần mềm xử lý ảnh như Adobe Photoshop đều có tính năng “Save for Web” để tối ưu tỉ lệ giữa chất lượng hình và kích thước file.
+Sử dụng tính năng Save for Web để loại bớt những thông tin không cần thiết và tối ưu kích thước ảnh.</p></li>
+<li><p><strong>Khai báo kích thước hình ảnh</strong>: Nhiều lập trình viên nghiệp dư <em>“quên” khai báo tag chiều cao và rộng của ảnh</em> khi viết mã HTML. Hai thông số này báo với trình duyệt kích thước của ảnh trước khi dữ liệu được tải về. Nếu không được khai báo trước, trình duyệt phải tự tính toán kích thước bằng cách download toàn bộ hình ảnh về, sau đó mới đến lượt các dữ liệu khác.
+Khi khai báo hình ảnh có đầy đủ các tag, trình duyệt sẽ dành 1 khoảng trống vừa đúng kích thước ảnh và tiếp tục tải dữ liệu . Như vậy, người xem có thể đọc ngay phần văn bản trong khi hình ảnh vẫn tiếp tục được hiện ra từng phần.</p></li>
+<li><p><strong>Giảm thiểu sử dụng Javascript</strong>: Các hiệu ứng hoạt hình của Java script rất bắt mắt và nhiều người có xu hướng đưa chúng vào website của mình. Tuy nhiên, <em>sử dụng quá nhiều Javascript có thể làm trình duyệt bị treo cứng</em> khiến người dùng bực mình. Phải cân nhắc thật kỹ lưỡng trước khi sử dụng chúng.
+Vị trí đặt các đoạn mã script cũng khá quan trọng đối với tốc độ hiển thị. Lời khuyên của dân lập trình chuyên nghiệp: chỉ để những script thực sự quan trọng có ảnh hưởng toàn trang lên đầu, còn những hiệu ứng khác (hoạt hình, thống kê,…) thì cho xuống cuối trang.
+Việc đưa Javascript và CSS ra liên kết bên ngoài tốt hơn là chèn thẳng vào trang web. Những file này sẽ được lưu tại bộ nhớ đệm (cache) của trình duyệt và người dùng sẽ không phải download lại chúng mỗi khi cần đến. Nó giảm đáng kể thời gian và băng thông của máy chủ cũng như người dùng.</p></li>
+<li><p><strong>Tối ưu hóa liên kết</strong>: Chú ý mỗi đường link được đặt trên website hay blog của bạn được viết một cách ngắn gọn và chính xác. Ví dụ mỗi entry trên 360 Yahoo đều có 1 phần “Permanent Link” để lấy liên kết chính xác và gọn gàng hơn nhiều so với những gì hiển thị trên ô địa chỉ (address bar) của trình duyệt. Việc sử dụng chính xác đường link sẽ giảm bớt những yêu cầu không đáng có đối với máy chủ trong một số trường hợp.</p></li>
+<li><p><strong>Giảm bớt các yêu cầu HTTP tới máy chủ</strong>: Khi mở website, mỗi đối tượng trên trang (hình ảnh, script, hình vẽ, đường kẻ, …) đều tạo ra 1 yêu cầu tới máy chủ để tải về. Tất nhiên, càng nhiều đối tượng thì việc tải về càng lâu hơn. Vì thế, hãy giảm thiểu số đối tượng trên cùng 1 trang và cố gắng gộp file CSS với các script lại với nhau.</p></li>
+</ul>
+
+
+<p>Nói chung không phải cứ thực hiện đủ các bước trên đây là tốc độ hiển thị Website của bạn sẽ tăng lên, nó còn phụ thuộc vào vị trí địa lý của người truy cập so với nơi đặt máy chủ, càng gần thì tốc độ càng nhanh, mặt khác cấu hình máy tính của người sử dụng cũng ảnh hưởng khá nhiều đến việc thiết kế và phân phối nội dung của bạn đặc biệt là các nội dung đa phương tiện &#8230; Bạn nên sử dụng một chương trình hay dịch vụ thống kê và khảo sát Website của bạn để có được giải pháp tối ưu nhất</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Lần đầu làm chuyện ấy]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/12/lan-dau-lam-chuyen-ay/"/>
+    <updated>2006-12-31T23:31:19+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/12/lan-dau-lam-chuyen-ay</id>
+    <content type="html"><![CDATA[<h4>Cảnh báo: Cấm người lớn trên 18 tuổi đọc B-)</h4>
+
+<p><img class="center" src="http://Narga.github.com/narga-octopress/images/2008/12/the_sales_office_home.gif" width="550" height="366" title="Lần đầu tiên làm chuyện ấy" alt="Lần đầu tiên làm chuyện ấy"></p>
+
+<p>Chuyện ấy là chuyện gì? Đây là một việc tế nhị he he. Cũng có bạn đã đọc cái <a href="http://Narga.github.com/narga-octopress/2006/05/ngoan-khong-dau-ti-nao-dau-em/">&#8216;chuyện ấy&#8217;</a> lần đầu đầu tiên của tớ rùi nhưng vẫn chưa thấy hết cảm xúc của nó, cũng phải thôi vì lúc đây tớ lo lắng và căng thẳng quá. Có lẽ lần này sẽ diễn tả mạch lạc hơn chăng ;))</p>
+
+<p>Vâng, cái chuyện này thực sự là rất có ích đối với các bạn trai chập chững tuổi đôi mươi. Sau nhiều lần trầm trồ, ngưỡng mộ những thằng bạn đã từng làm &#8220;chuyện ấy&#8221; tớ quyết định phải thử cho dù trong lòng rất ngại ngùng con thạch thùng. Đó là một chiều thu đầy gió lộng, lá vàng bay tả tơi đẹp tựa trong phim tình củm lãng mạn bên Hàn Quốc. Có 2 người cưỡi trên con ngựa sắt hăm hở tới một khu vực bí hiểm. Nhớ lại thấy hồi đó nhát chết quá, không dám đi một mình mà phải rủ một thằng có cùng &#8220;ý tưởng lớn&#8221; đi nữa.</p>
+
+<p>Tới nơi có một chị rất đô con ngồi sau cái bàn (sau này mới biết là chị thu tiền) hỏi ngay: Lần đầu hả em? Hai thằng mặt nghệt ra giả nhời: Vâng ạ! Chị bảo 2 thằng cởi quần áo ra treo vào mắc rồi mỗi thằng ra một góc tự khởi động đi tí chị sẽ hướng dẫn từng người một đến nơi đến chốn. Ối trời cha mẹ ơi! Lúc ấy cứ tưởng &#8220;ấy&#8221; là &#8220;ấy&#8221; luôn chứ lại còn phải khởi động, khởi đẽo nữa.</p>
+
+<!-- more -->
+
+
+<p>Khởi động đâu vào đấy thì bắt đầu vào việc chính. Đúng là lần đầu tiên chẳng biết gì cứ làm phăng phăng. Chị hướng dẫn la oai oái bảo không được. Lần đầu tiên phải làm nhẹ nhàng thôi không về sẽ đau cơ. Phải hít thở đúng nhịp theo nhịp lên xuống. Đầu tiên làm nhẹ thôi sau đó sẽ tăng dần. Mỗi tư thế làm 3 lần mỗi lần làm 10 đến 12 cái, xong tư thế này mới được đến tư thế khác. Làm một lúc mệt phờ râu nên đành phải ra sớm. Làm xong mồ hôi ra như tắm nhưng mà rất chi là sảng khoái. Nhưng khổ nhất là mấy hôm sau. Về nhà đau ê ẩm hết cả người. Cơ bụng, cơ vai, cơ tay động đâu cũng đau.</p>
+
+<p>Lần đầu đi <strong>tập tạ</strong> là như thế đấy ạ. Lần đầu tiên đẩy được có 20 kg nhưng càng về sau càng đẩy được nặng hơn. Hai thằng rất chăm chỉ tập luyện hy vọng 1 tháng có thể to như Lý Đức. Quả ông trời cũng không phụ lòng người. Sau 2 tháng tập luyện kiên trì và bền bỉ mỗi thằng cũng tăng được khoảng 3 kg. Bắp tay to hơn {nhưng vẫn không to bằng bắp chân},=)) ngực nở hơn. Tiếc rằng hai thằng bận ôn thi nên vê sau phải nghỉ.</p>
+
+<p>Những lần sau khi làm chuyện này thì chả ngại ngùng gì nữa. Cứ tự nhiên như ông tiên. Hồi năm ngoái tập được 6 tháng. Lúc đi bơi thấy mọi người cũng trầm trồ ngưỡng mộ lắm. Nhưng than ôi thời oanh liệt nay còn đâu. Dạo này ngồi máy tính nhiều, thân hình tiều tụy không thể tả hix hix. Than ôi&#8230;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ngoan, không đau tí nào đâu em]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/05/ngoan-khong-dau-ti-nao-dau-em/"/>
+    <updated>2006-05-28T05:37:45+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/05/ngoan-khong-dau-ti-nao-dau-em</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://Narga.github.com/narga-octopress/images/2006/05/Ngoan-khong-dau-dau-em-600x401.jpg" width="600" height="401" title="Ngoan, không đau tí nào đâu" alt="Ngoan, không đau tí nào đâu"></p>
+
+<h3>Đây là lần đầu tiên của bạn</h3>
+
+<p>Bạn nằm xuống, các cơ bắp căng cứng. Bạn đẩy chàng ra và cố gắng tìm một câu xin lỗi, nhưng chàng không chịu để bị cự tuyệt dễ dàng như vậy.</p>
+
+<p>Chàng hỏi bạn có sợ không và bạn lắc đầu một cách dũng cảm. Chàng quả là có nhiều kinh nghiệm hơn bạn. Ngay cú đầu tiên, ngón tay chàng đã chạm đúng điểm cần thiết. Chàng thăm dò sâu hơn và bạn run rẩy toàn thân.:-ss Toàn cơ thể bạn căng thẳng chờ đợi nhưng chàng thật sự nhẹ nhàng như đã hứa với bạn.</p>
+
+<!-- more -->
+
+
+<p>Chàng nhìn thẳng vào mắt bạn và nói bạn hãy tin chàng vì chàng đã làm nhiều lần trước đây rồi. Nụ cười dễ thương của chàng làm bạn bớt căng thẳng và bạn mở ra cho chàng có thể vào một cách dễ dàng. Bạn nài xin chàng nhanh chóng hơn nhưng chàng vẫn cứ từ từ chuẩn bị để cho bạn ít đau đớn nhất. :&#8221;>
+Rồi chàng tiến vào gần hơn, sâu hơn… và bạn cảm thấy sự đau đớn dâng tràn và chạy khắp thân thể… dường như một tia máu đã chảy ra khi chàng tiếp tục. :o</p>
+
+<p>Chàng nhìn bạn lo lắng và hỏi có đau lắm không? Mắt bạn rưng rưng nhưng lắc đầu và bảo chàng tiếp tục. :((</p>
+
+<p>Chàng thò ra thụt vào với sự chuẩn xác của bao nhiêu năm kinh nghiệm. Nhưng lúc này bạn đã tê liệt hoàn toàn để có thể cảm thấy chàng ở bên trong bạn. Sau một vài giây phút tê liệt bạn cảm thấy một cảm giác cháy bỏng bùng lên và chàng lấy nó ra. :&#8221;></p>
+
+<p>Bạn nằm thở hổn hển, nhẹ cả người vì chàng đã làm xong. Chàng nhìn bạn với một nụ cười ấm áp và khen bạn thật là ngoan cường, từ trước đến nay chưa hề thấy. :)</p>
+
+<p>Chuyện gì đang xảy ra vậy, hãy bôi đen dòng dưới đây nhé, bạn sẽ biết anh ấy là ai ;))</p>
+
+<p>Bạn mỉm cười và cảm ơn <strong>nha sĩ</strong>. Dù sao thì đây cũng là lần đầu tiên bạn đi nhổ răng =))</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Những truyện thú vị đời thuờng]]></title>
     <link href="http://Narga.github.com/narga-octopress/2006/03/truyen-thu-vi-doi-thuong/"/>
     <updated>2006-03-08T09:57:58+07:00</updated>
@@ -107,7 +256,7 @@ Một vài lầm tưởng của người dùng về cách thức tăng chỉ s�
 <!-- more -->
 
 
-<h4>Nhầm hàng!</h4>
+<h3>Nhầm hàng!</h3>
 
 <blockquote><p>Một cô gái trẻ đứng trên cầu và chuẩn bị nhảy xuống sông. Một chàng trai đi qua nhìn thấy liền hỏi:</p>
 
@@ -631,212 +780,6 @@ Phản ứng như vậy sẽ mang lại kết quả, vì: bạn đã chứng t�
 
 
 <p>100.<strong>yurusu</strong> - tha thứ,dùng để nói khi muốn xin lỗi hay người nói bỏ qua một lỗi lầm của ai đó</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Một vài thuật ngữ thường gặp!]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/09/thuat-ngu/"/>
-    <updated>2005-09-29T07:02:14+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/09/thuat-ngu</id>
-    <content type="html"><![CDATA[<p>Thỉnh thoảng tôi có gặp một số từ chuyên môn khi đọc một tài liệu hay bài báo nào đó mà không rõ lắm về ý biểu đạt của nó, mất công tìm hiểu khá lâu mà không có rồi vô tình bất chợt hiểu ra. Tự nghĩ rằng cũng có người giống như mình nên viết bài này, hy vọng nó hữu ích. Nội dung sẽ cập nhật dần vì không phải ngồi một lúc là viết ra được , những từ được đánh dấu màu hy vọng một ai đó giải thích dùm</p>
-
-<ul>
-<li><p><strong>nightly builds</strong>: người ta check in and out files từ chung một server, rồi compile mỗi đêm (nightly builds) sáng hôm sau hè nhau sửa lỗi rồi code tiếp  hiểu vậy cũng được nhưng không có nghĩa là đêm nào cũng build. Nó có nghĩa là phiên bản re-build cuối cùng để giúp cho ai có lòng tốt đem về chạy thử vào thông báo lỗi nếu có!</p></li>
-<li><p><strong>trackback và ping</strong>: được sử dụng trong <a href="http://www.wordpress.org">WordPress</a> cũng như trong thế giới blog có nghĩa là các bài viết sẽ được chỉ mục tại các website khác cũng sử dụng WordPress.</p></li>
-<li><p><strong>aka</strong>: aka = as know as = aka = as know as = cũng có tên khác là</p></li>
-<li>k.s (kill stealing): giết tranh quái vật, từ này thường dùng trong các game online, khi nói k.s nghĩa là bạn đang giết tranh một hay nhiều quái vật khi chơi</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Taking care of CDs]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds/"/>
-    <updated>2005-09-23T03:37:43+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds</id>
-    <content type="html"><![CDATA[<h3>Do:</h3>
-
-<ol>
-<li><p>Handle discs by the outer edge or the center hole.</p></li>
-<li><p>Use a non-solvent-based felt-tip permanent marker to mark the label side of the disc.</p></li>
-<li><p>Keep dirt or other foreign matter from the disc.</p></li>
-<li><p>Store discs upright (book style) in plastic cases specified for CDs and DVDs.</p></li>
-<li><p>Return discs to storage cases immediately after use.</p></li>
-<li><p>Leave discs in their packaging (or cases) to minimize the effects of environmental changes.</p></li>
-<li><p>Open a recordable disc package only when you are ready to record data on that disc.</p></li>
-<li><p>Store discs in a cool, dry, dark environment in which the air is clean.</p></li>
-<li><p>Remove dirt, foreign material, fingerprints, smudges, and liquids by wiping with a clean cotton fabric in a straight line from the center of the disc toward the outer edge.</p></li>
-<li><p>Use CD/DVD-cleaning detergent, isopropyl alcohol, or methanol to remove stubborn dirt or material.</p></li>
-<li><p>Check the disc surface before recording.</p></li>
-</ol>
-
-
-<!-- more -->
-
-
-<h3>Do not:</h3>
-
-<ol>
-<li><p>Touch the surface of the disc.</p></li>
-<li><p>Bend the disc.</p></li>
-<li><p>Use adhesive labels.</p></li>
-<li><p>Store discs horizontally for a long time (years).</p></li>
-<li><p>Open a recordable optical disc package if you are not ready to record.</p></li>
-<li><p>Expose discs to extreme heat or high humidity.</p></li>
-<li><p>Expose discs to extremely rapid temperature or humidity changes.</p></li>
-<li><p>Expose recordable discs to prolonged sunlight or other sources of ultraviolet light.</p></li>
-<li><p>Write or mark in the data area of the disc (the area the laser &#8220;reads&#8221; ).</p></li>
-<li><p>Clean by wiping in a direction going around the disc.</p></li>
-</ol>
-
-
-<h3>For CDs especially do not:</h3>
-
-<ol>
-<li><p>Scratch the label side of the disc.</p></li>
-<li><p>Use a pen, pencil, or fine-tip marker to write on the disc.</p></li>
-<li><p>Write on the disc with markers that contain solvents.</p></li>
-<li><p>Try to peel off or reposition a label.</p></li>
-</ol>
-
-
-<p>&#8230; there is consensus that, under recommended storage conditions, CD-R, DVD-R, and DVD+R discs should have a life expectancy of 100 to 200 years or more; CD-RW, DVD-RW, DVD+RW, and DVD-RAM discs should have a life expectancy of 25 years or more. Little information is available for CD-ROM and DVD-ROM discs (including audio and video), resulting in an increased level of uncertainty for their life expectancy. Expectations vary from 20 to 100 years for these discs.
-&#8230; CD-R and DVD-R discs have a shelf life of 5 to 10 years before recording.
-&#8230; the life expectancy for RW and RAM discs will be less than that of R discs.
-&#8230;The data on the phase-changing metal alloy film layer can be erased and rewritten to a limited number of times (about 1,000 times for RW discs and about 100,000 times for RAM discs). &lt; !&#8211;></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Opera 10-year online anniversary party]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/08/opera-10-year-online-anniversary-party/"/>
-    <updated>2005-08-31T17:16:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/08/opera-10-year-online-anniversary-party</id>
-    <content type="html"><![CDATA[<p><strong> SURPRISE! Free registration codes </strong></p>
-
-<blockquote><p>Party favors: Get a free Opera registration code by clicking the &#8216;go free&#8217; button below. We&#8217;re giving away registration codes for as long as the party lasts!</p></blockquote>
-
-<p><a href="http://my.opera.com/community/party/reg.dml">Go free now!</a> <!-- more --></p>
-
-<p>To register the Opera browser and remove the ad bar, follow these steps</p>
-
-<ol>
-<li><p>Copy the appropriate registration code given below</p></li>
-<li><p>Go to Help > Register Opera</p></li>
-<li><p>Enter your name and organization</p></li>
-<li><p>Paste the registration code and press OK</p></li>
-</ol>
-
-
-<p><strong> REMOVED! Opera free now!</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[15 Common Mistakes by Google Adsense Publishers that Violate Terms of Service]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/08/15-common-mistakes-by-google-adsense-publishers-that-violate-terms-of-service/"/>
-    <updated>2005-08-17T18:40:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/08/15-common-mistakes-by-google-adsense-publishers-that-violate-terms-of-service</id>
-    <content type="html"><![CDATA[<p><a href="http://www.google.com/adsense">Google Adsense</a> is a popular web advertising program which provides a good income source for many websites. There are well defined terms of service to strictly adhere to when participating in the program.</p>
-
-<p>On my visit through sites and forums, I daily notice several instances of misuse of Adsense ads. Believe me, if I can see it in a 5 seconds gaze! - so can the Adsense guys. And if they do, you are on your way off the program. So here a few helpful reminders, probably many you already know, and few you might gain by knowing now. These are all picked from the <a href="https://www.google.com/adsense/policies">Program Policies</a>, <a href="https://www.google.com/adsense/localized-terms">Terms and Conditions</a> and <a href="https://www.google.com/support/adsense">FAQ</a> itself and presented in a simplified manner.</p>
-
-<ol>
-<li>Never click your own ads or get them clicked for whatever reason. You know this one very well. This is a surefire way to close you Adsense account. Never tell your office associates or friends to click on them. Keep a check if your family or children are busy increasing your income by clicking your ads and indirectly trying to stop your income. Dont even think of offering incentives for clicks, using automated clicking tools, or other deceptive software. Adsense is very smart to detect fraudulent clicks. Check the ads which appear on your pages by the <a href="https://www.google.com/support/adsense/bin/answer.py?answer=10004&amp;topic=160">Google Preview tool </a>if required.</li>
-</ol>
-
-
-<!-- more -->
-
-
-<ol>
-<li><p>Never change the Adsense code. There are enough customizations available to change the colour, background or border to suit your needs. Do whatever you want to do outside the code, never fiddle within the ad or the search code. They know it when you do. The search code has more limitations to colour and placement, but you should adhere to the rules. The code may stop working and violates the TOS.</p></li>
-<li><p>Do not place more than 3 ad unit and 1 ad links or 2 search boxes on any web page. Anyway, ads will not appear in those units even if you place more ad units. But this is the limit they set, so it is better to stick to it.</p></li>
-<li><p>Do not run competitive contextual text ad or search services on the same site which offer Google Adsense competition in their field. Never try to create link structures resembling the adsense ads. Never use other competitive search tools on the same pages which have Adsense powered Google search. They do allow affiliate or limited-text links.</p></li>
-<li><p>Do not disclose confidential information about your account like the CTR, CPM and income derived via individual ad units or any other confidential information they may reveal to you. However, you may reveal the total money you make as per recent updates to the TOS.</p></li>
-<li><p>Label headings as &#8220;sponsored links&#8221; or &#8220;advertisements&#8221; only. Other labels are not allowed. I have seen many sites label ads with other titles. Dont make your site a target in a few seconds gaze.</p></li>
-<li><p>Never launch a New Page for clicked ads by default. Adsense ads should open on the same page. You may be using a base target tag to open all links in a new window or frame by default. Correct it now as they do not want new pages opening from clicked ads.</p></li>
-<li><p>One Account suffices for Multiple websites. You do not need to create 5 accounts for 5 different websites. One account will do. If you live in the fear that if one account is closed down for violation of TOS, believe me they will close all accounts when they find out. You can keep track of clicks by using channels with real time statistics. They will automatically detect the new site and display relevant ads.</p></li>
-<li><p>Place ads only on Content Pages. Advertisers pay only for content based ads. Content drives relevant ads. Although you might manage some clicks from error, login, registration, &#8220;thank you&#8221; or welcome pages, parking pages or pop ups, it will get you out of the program.</p></li>
-<li><p>Do not mask ad elements. Alteration of colours and border is a facility to blend or contrast ads as per your site requirements. I have seen many sites where the url part is of the same colour as the background. While blending the ad with your site is a good idea, hiding relevant components of the ads is not allowed. Also do not block the visibility of ads by overlapping images, pop ups, tables etc.</p></li>
-<li><p>Do not send your ads by email. Html formatted emails look good and allow placement of these javascript ads. But it is not allowed as per TOS. You do not want impressions registering on their logs from any email even once. They are watching!</p></li>
-<li><p>Keep track of your content. So Adsense is not allowed on several non content pages. But it is also not allowed on several content pages too. Do not add it on web pages with MP3, Video, News Groups, and Image Results. Also exclude any pornographic, hate-related, violent, or illegal content.</p></li>
-<li><p>Do not alter the results after ad clicks or searches - Ensure you are not in any way altering the site which the user reaches to after clicking the ads. Do not frame, minimize, remove, redirect or otherwise inhibit the full and complete display of any Advertiser Page or Search Results Page after the user clicks on any Ad or Search results.</p></li>
-<li><p>Avoid excessive advertising and keyword stuffing - Although the definition of &#8216;excessive&#8217; is a gray area and is subject to discretion, yet Google adsense with correct placement, focused content and high traffic will get you much more income than other programs, so excessive advertising is not required. Keyword stuffing does target better focused ads, but overdoing it is not required.</p></li>
-<li><p>Ensure you Language is Supported - Adsense <a href="https://www.google.com/support/adsense/bin/answer.py?answer=9727&amp;topic=140">supports</a> &#8220;Chinese (simplified), Japanese, Danish, Korean, Dutch, Norwegian, English, Polish, Finnish, Portuguese, French, Russian, German, Spanish, Hungarian, Swedish, Italian and Turkish&#8221;. In addition, AdSense for search is available in Czech, Slovak, and Traditional Chinese. If your web pages language is not supported, do not use the code on such pages.</p></li>
-</ol>
-
-
-<p>Whenever in doubt, it is better to ask the learned staff of Google Adsense. They are very helpful!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Writing On Your Palm]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/07/writing-on-your-palm/"/>
-    <updated>2005-07-23T21:48:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/07/writing-on-your-palm</id>
-    <content type="html"><![CDATA[<p>What format or formats should you release it in? The choices have narrowed somewhat in the last year or two, but there&#8217;s still nothing approaching a &#8220;standard&#8221;. Here&#8217;s the lowdown on the current contenders.</p>
-
-<p><strong>Text (.txt)</strong></p>
-
-<p>Ah, the simple, universal and minimalist appeal of good old ASCII. This is the format to use if you want the widest possible distribution and acceptance. Anyone can read ASCII. Unix, Windows, Mac, Palm, Pocket PC, Rocket&#8230; Heck, even an old Commodore 64 can read ASCII. Project Gutenberg, a volunteer project to preserve the great public domain works of literature in digital form, uses ASCII because of it&#8217;s universal, cross platform nature. The downside, of course, is that you have to forgo fancy formatting like italics and aside from possibly distributing the book in a password-protected .zip file, you have no security. I&#8217;m not big on copy protection DRM, but I do think that the idea of ebooks at least being read-only has some appeal, so others can&#8217;t alter your work.</p>
-
-<!-- more -->
-
-
-<p><strong>Open eBook/XHTML (.htm or .html)</strong></p>
-
-<p>A step beyond ASCII is Open eBook (OEB), itself a varient of XHTML (a dialect of XML that is nearly identical to HTML 4). Confused yet? This is still technically ASCII text, but marked up with XHTML tags and OEB metadata to convey more information about the book and more sophisticated formatting. OEB has the inside track to become the &#8220;standard&#8221; source format for ebooks, although few ebooks are actually distributed in raw OEB.</p>
-
-<p><strong>Microsoft Reader (.lit)</strong></p>
-
-<p>OEB &#8220;under the hood&#8221;, Microsoft&#8217;s Reader format is a compiled binary compressed ebook format that at the least protected publically available DRM, is &#8220;sealed&#8221; from user changes. Although it used OEB source files, you can&#8217;t read .lit files in a browser. You have to have a copy of Microsoft Reader to properly decompress and unencrypt them. Microsoft Reader files look great, and offer many of the advantages of paper books (pagination, highlighting, annotation) along with the advantages of ebooks (small file sizes, keyword searching, hyperlinks), but it&#8217;s not as &#8220;durable&#8221; a format as ASCII since you can only read it on platforms for which a version of Microsoft Reader is available.</p>
-
-<p><strong>Rich Text Format (.rtf)</strong></p>
-
-<p>If you were okay with the security limitations of ASCII but wanted a more sophisticated presentation, there&#8217;s always RTF. Readable on most modern GUI operating systems, RTF files are printable and offer varied formatting choices. They&#8217;re also useful as source files for other ebook options (like WordSmith on the PalmOS platform).</p>
-
-<p><strong>Adobe PDF (.pdf)</strong></p>
-
-<p>I hesitate to mention Adobe&#8217;s Portable Document Format as an ebook format, as that isn&#8217;t really what it was designed for. The vast thundering majority of PDF files out there are designed to be printed on letter-sized paper, and are very difficult to read on electronic screens. I&#8217;ve said before that PDF isn&#8217;t an ebook format so much as an electronic transmission and storage format for paper documents. Still, a lot of people insist on using PDF as an ebook format, so here it is. I will admit that for magazines, newsletters and other media for which layout is important, PDF probably provides the best preservation of the print layout.</p>
-
-<p>And before I get into what I think of as the myriad of PDBs, a few words about the PalmOS platform and the difference between a file extension and file format.</p>
-
-<p>PalmOS does not really understand the idea of files, and therefore doesn&#8217;t care about DOS/Windows file extentions. Everything inside a Palm device takes the form of a database, not a file. Therefore, all PalmOS databases appear on PCs as either .pdb (Palm Database) or .prc (Palm Resource Code) files. These extentions are stripped off and forgotten after the files have been transferred to a Palm, and you can&#8217;t tell anything about what kind of Palm databases they are from the DOS file extention. I generally try to make use of long filenames under Windows to give some clue to the actual database type (Between Heaven and Hell.isilo.pdb), but a lot of people don&#8217;t, so you really only have two ways to find out:</p>
-
-<ol>
-<li><p>Transfer the file to your Palm and see if it shows up in your ebook reader.</p></li>
-<li><p>Open the .pdb file in a PC text editor (be careful not to save it, as you could corrupt the file) and see if you can recognize the string of characters near the top of the file that defines the type of database you have. REAd is PalmDoc, togo is iSilo, BDOC is WordSmith, etc.</p></li>
-</ol>
-
-
-<p>Now that we&#8217;re all sufficiently befuddled, the PalmOS formats:</p>
-
-<p><strong>PalmDoc (.pdb or .prc)</strong></p>
-
-<p>The original PalmOS ebook format, invented by Rick Bram for his Doc program, later bought out by Aportis to become AportisDoc. A PalmDoc (often referred to simply as Doc, but I&#8217;m trying to avoid confusion with Microsoft Word&#8217;s .doc format) file is, like everything else in a Palm, really a database. It takes the form of simple chain of 4k text records strung together. PalmDoc is the closest PalmOS format you&#8217;ll find to ASCII, in that does not support any real formatting and is relatively insecure (there&#8217;s lots of PalmDoc editors out there for PalmOS and Windows). That said, PalmDoc is probably the closest thing out there to a &#8220;universal&#8221; ebook format, in that it&#8217;s readable on even more modern platforms than ASCII.</p>
-
-<p><strong>Palm Reader (.pdb)</strong></p>
-
-<p>This is my favorite of the PalmOS formats, mostly because it allows sophisticated formatting, is at least read-only secured, and can be read on both PalmOS devices and Pocket PCs. This format is a marked up, encrypted variant of PalmDoc, and Palm Reader, the reader program for it from Palm Digital Media, can read PalmDoc files as well. This is also a good format to distribute in because it&#8217;s a fair bet that ebook reading folks will have the free Palm Reader program on their device already, since Palm Digital Media is one of the best (and cheapest) places to find legitimate current bestsellers in ebook format.</p>
-
-<p><strong>MobiPocket (.pdb)</strong></p>
-
-<p>MobiPocket is an up-and-coming format, largely due to their offering free readers for PalmOS and Pocket PC, and their partnership with Baen&#8217;s Webscriptions. MobiPocket&#8217;s format isn&#8217;t that hard to figure out; it&#8217;s standard PalmDoc with embedded HTML markup tags. You can read a MobiPocket ebook in any PalmDoc reader, but unless you like reading raw HTML, it won&#8217;t be comfortable. MobiPocket&#8217;s reader works pretty well, and the price is right. This is also probably the easiest PalmOS format to convert to if you&#8217;re starting with OEB source files.</p>
-
-<p><strong>iSilo (.pdb)</strong></p>
-
-<p>Another PalmOS format that starts with HTML is iSilo. iSilo isn&#8217;t a variant of PalmDoc, but uses its own proprietary encryption algorithm to achieve about 20% tighter compression that PalmDoc, Palm Reader or MobiPocket. It also supports pretty much all standard HTML formatting, including hyperlinks and tables. Because of the proprietary encryption, it&#8217;s a pretty secure format; converting to iSilo is a one-way proposition. No one has yet figured out how to decompile an iSilo document.</p>
-
-<p><strong>TomeRaider (.pdb)</strong></p>
-
-<p>TomeRaider is interesting because it&#8217;s, in true PalmOS style, as much database as ebook. While I&#8217;ve seen ebooks in TomeRaider format, it&#8217;s really better suited to reference works than prose, especially, record-based references like movie guides, travel guides, etc. The reader costs money, but is available for both the PalmOS and Pocket PC platforms.</p>
-
-<p>In closing, it&#8217;s obvious that the &#8220;best&#8221; format in which to release your ebook is several of the above, as many as you feel you can support. Baen Books offers their webscriptions in RTF, .lit, MobiPocket, HTML and Gemstar&#8217;s .rb format (which I didn&#8217;t mention since it&#8217;s limited to the relatively small market of those with Rocket eBook dedicated readers). I usually offer mine in ASCII, OEB, .
-lit, PalmDoc, RTF and Palm Reader formats. Until the ebook industry settles on a standard (which probably will end up one of the PalmOS formats unless Microsoft ports Microsoft Reader to PalmOS, something they haven&#8217;t ruled out), ebook publishers will have to make books available in formats their customers want, however many that might be.</p>
 ]]></content>
   </entry>
   

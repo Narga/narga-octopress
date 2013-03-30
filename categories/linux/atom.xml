@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Linux | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/linux/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T17:14:19+07:00</updated>
+  <updated>2013-03-30T23:59:18+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -20,7 +20,7 @@
     <id>http://Narga.github.com/narga-octopress/2012/11/goi-cai-dat-cac-font-cu-tcvn3-va-vni-cho-arch-linux</id>
     <content type="html"><![CDATA[<p>Mặc dù chúng ta đã sử dụng Unicode là bộ font mặc định cho văn phòng, web... và có cả quy định cũng như pháp lệnh về việc thống nhất sử dụng font Unicode trong các văn bản hành chính cũng như thông thường, tuy nhiên các loại font cũ như TCVN3, VNI, ... vẫn còn hiện hữu thậm chí vẫn còn đang sử dụng do sự lạc hậu về thông tin cũng như sự quan liêu của một số đơn vị, ngành ... ngại chuyển đổi và tiếp thu cái mới.</p>
 
-<p><img class="center" src="/images/2012/11/1213_FONT_ABC.jpg" width="575" height="416" title="'Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux'" ></p>
+<p><img class="center" src="/images/2012/11/1213_FONT_ABC.jpg" width="575" height="416" title="Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux" alt="Các font cũ theo bảng mã VNI, TCVN3 cho Arch Linux"></p>
 
 <p>Trên Arch Linux, bạn có thể cài đặt font mới bất kỳ bằng cách copy chúng vào thư mục <code>/usr/share/fonts/ĐỊNH_DẠNG_FONT</code> hoặc thư mục <code>~/.fonts</code> sau đó yêu cầu hệ thống cập nhật lại chỉ mục font. Tuy thế cách này vẫn khá lích kích và không tiện lợi bằng cách cài đặt.</p>
 

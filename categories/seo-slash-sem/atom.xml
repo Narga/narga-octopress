@@ -4,7 +4,7 @@
   <title><![CDATA[Category: SEO/SEM | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/seo-slash-sem/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T17:14:19+07:00</updated>
+  <updated>2013-03-30T23:59:18+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -59,6 +59,45 @@ Một vài lầm tưởng của người dùng về cách thức tăng chỉ s�
 
 
 <p>Sự thật và những lầm tưởng luôn đối lập nhau, cái mà bạn nghĩ thường không giống với những gì đang diễn ra. Google PageRank™ chỉ là một chỉ số riêng của Google, nó chỉ là một phần của thước đo giá trị nội dung của một trang trên mạng. Không nên quá chú trọng vào việc tăng PageRank™ mà cần đầu tư vào giá trị nội dung và cách trình bày. SEO là tốt nhưng không phải là tất cả.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cải thiện tốc độ hiển thị Website]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2008/10/increase-website-render-speed/"/>
+    <updated>2008-10-30T14:08:17+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2008/10/increase-website-render-speed</id>
+    <content type="html"><![CDATA[<p>[caption id="attachment_1130" align="aligncenter" width="600" caption="Cải thiện tốc độ hiển thị Website"]<img src="http://www.narga.org/files/2008/10/Decrease-time-to-load-your-website.jpg" alt="Cải thiện tốc độ hiển thị Website" />[/caption]Nghiên cứu thói quen sử dụng máy tính cho thấy người dùng sẽ chuyển sang trang khác nếu website không có “động tĩnh” gì sau 4 giây. Vì thế, tốc độ là yếu tố quan trọng và cũng là ưu thế cạnh tranh để cung cấp thông tin. 7 thủ thuật dưới đây sẽ tăng đáng kể website của bạn.<!-- more --></p>
+
+<ul>
+<li><p><strong>Chuyển host lưu trữ file hoặc ảnh cỡ lớn sang nơi khác</strong>: Nhiều người cùng online một lúc có thể làm nghẽn đường truyền của bạn với hàng đống yêu cầu xem cùng một tấm hình trên website. Gánh nặng dữ liệu có thể chuyển sang những website chuyên để lưu trữ và chia sẻ ảnh như <a href="http://imageshack.us">ImageShack</a>, <a href="http://www.photobucket.com">Photobucket</a> hay <a href="http://www.flickr.com">Flickr</a>. Bằng cách này, máy chủ web của bạn chỉ cần đảm bảo phần text và file ảnh cỡ nhỏ, giảm đáng kể băng thông đồng nghĩa với việc phục vụ được nhiều người một lúc hơn.
+Nếu muốn chia sẻ những file nhỏ, khoảng 2 – 5MB, với khách viếng thăm, bạn có thể sử dụng dịch vụ Google Pages như một máy chủ web phụ.</p></li>
+<li><p><strong>Tối ưu hóa mã CSS</strong>: Hiện nay, nhiều website bắt đầu sử dụng CSS (Cascade Style Sheet) để định dạng. Mặc dù bảng CSS nhìn bắt mắt và hiệu quả hơn định dạng bảng HTML, nhưng nó đòi hỏi bạn phải tối ưu hóa code của chúng mới mong đạt được tốc độ tối ưu. Đoạn mã CSS “sạch” sẽ giúp trình duyệt giải mã trang web nhanh hơn.Ví dụ: <em>Thay vì viết</em>
+[sourcecode language="css"]
+margin-top: 20px;
+margin-right: 10px;
+margin-bottom: 20px;
+margin-left: 10px;
+[/sourcecode]
+<em>Bạn nên viết</em>
+[sourcecode language="css"]
+margin: 20px 10px 20px 10px;
+[/sourcecode]
+Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.
+Nếu chưa thạo về code, công cụ trực tuyến nhỏ Clean CSS sẽ giúp bạn công đoạn tối ưu này, loại bỏ những khai báo thừa và khoảng trống vô nghĩa. Bạn có thể tham khảo <a href="http://www.cleancss.com/">tại đây</a>.</p></li>
+<li><p><strong>Tối ưu hóa hình ảnh</strong>: Có 4 loại định dạng hình ảnh sử dụng phổ biến trên web: <strong>PNG, JPG, JPEG và GIF</strong>. Hầu hết các phần mềm xử lý ảnh như Adobe Photoshop đều có tính năng “Save for Web” để tối ưu tỉ lệ giữa chất lượng hình và kích thước file.
+Sử dụng tính năng Save for Web để loại bớt những thông tin không cần thiết và tối ưu kích thước ảnh.</p></li>
+<li><p><strong>Khai báo kích thước hình ảnh</strong>: Nhiều lập trình viên nghiệp dư <em>“quên” khai báo tag chiều cao và rộng của ảnh</em> khi viết mã HTML. Hai thông số này báo với trình duyệt kích thước của ảnh trước khi dữ liệu được tải về. Nếu không được khai báo trước, trình duyệt phải tự tính toán kích thước bằng cách download toàn bộ hình ảnh về, sau đó mới đến lượt các dữ liệu khác.
+Khi khai báo hình ảnh có đầy đủ các tag, trình duyệt sẽ dành 1 khoảng trống vừa đúng kích thước ảnh và tiếp tục tải dữ liệu . Như vậy, người xem có thể đọc ngay phần văn bản trong khi hình ảnh vẫn tiếp tục được hiện ra từng phần.</p></li>
+<li><p><strong>Giảm thiểu sử dụng Javascript</strong>: Các hiệu ứng hoạt hình của Java script rất bắt mắt và nhiều người có xu hướng đưa chúng vào website của mình. Tuy nhiên, <em>sử dụng quá nhiều Javascript có thể làm trình duyệt bị treo cứng</em> khiến người dùng bực mình. Phải cân nhắc thật kỹ lưỡng trước khi sử dụng chúng.
+Vị trí đặt các đoạn mã script cũng khá quan trọng đối với tốc độ hiển thị. Lời khuyên của dân lập trình chuyên nghiệp: chỉ để những script thực sự quan trọng có ảnh hưởng toàn trang lên đầu, còn những hiệu ứng khác (hoạt hình, thống kê,…) thì cho xuống cuối trang.
+Việc đưa Javascript và CSS ra liên kết bên ngoài tốt hơn là chèn thẳng vào trang web. Những file này sẽ được lưu tại bộ nhớ đệm (cache) của trình duyệt và người dùng sẽ không phải download lại chúng mỗi khi cần đến. Nó giảm đáng kể thời gian và băng thông của máy chủ cũng như người dùng.</p></li>
+<li><p><strong>Tối ưu hóa liên kết</strong>: Chú ý mỗi đường link được đặt trên website hay blog của bạn được viết một cách ngắn gọn và chính xác. Ví dụ mỗi entry trên 360 Yahoo đều có 1 phần “Permanent Link” để lấy liên kết chính xác và gọn gàng hơn nhiều so với những gì hiển thị trên ô địa chỉ (address bar) của trình duyệt. Việc sử dụng chính xác đường link sẽ giảm bớt những yêu cầu không đáng có đối với máy chủ trong một số trường hợp.</p></li>
+<li><p><strong>Giảm bớt các yêu cầu HTTP tới máy chủ</strong>: Khi mở website, mỗi đối tượng trên trang (hình ảnh, script, hình vẽ, đường kẻ, …) đều tạo ra 1 yêu cầu tới máy chủ để tải về. Tất nhiên, càng nhiều đối tượng thì việc tải về càng lâu hơn. Vì thế, hãy giảm thiểu số đối tượng trên cùng 1 trang và cố gắng gộp file CSS với các script lại với nhau.</p></li>
+</ul>
+
+
+<p>Nói chung không phải cứ thực hiện đủ các bước trên đây là tốc độ hiển thị Website của bạn sẽ tăng lên, nó còn phụ thuộc vào vị trí địa lý của người truy cập so với nơi đặt máy chủ, càng gần thì tốc độ càng nhanh, mặt khác cấu hình máy tính của người sử dụng cũng ảnh hưởng khá nhiều đến việc thiết kế và phân phối nội dung của bạn đặc biệt là các nội dung đa phương tiện ... Bạn nên sử dụng một chương trình hay dịch vụ thống kê và khảo sát Website của bạn để có được giải pháp tối ưu nhất</p>
 ]]></content>
   </entry>
   
