@@ -4,7 +4,7 @@
   <title><![CDATA[NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T16:38:49+07:00</updated>
+  <updated>2013-03-30T16:44:56+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -155,6 +155,27 @@ Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các 
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Tại sao mèo rơi từ trên cao không chết?]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/01/tai-sao-meo-roi-tu-tren-cao-khong-chet/"/>
+    <updated>2006-01-19T00:19:47+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/01/tai-sao-meo-roi-tu-tren-cao-khong-chet</id>
+    <content type="html"><![CDATA[<p><strong>Nếu làm thí nghiệm thả chó từ trên lầu cao xuống, con vật không tử nạn thì cũng thương nặng. Nhưng nếu vứt một chú miu, nó sẽ &#8220;hạ cánh&#8221; bình an vô sự.</strong></p>
+
+<p>Mèo và chó là hai loài khác họ, về hình thái bên ngoài lẫn chức năng của cơ quan thăng bằng bên trong đều khác nhau. Chó là động vật chỉ thích chạy trên mặt đất vọt về phía trước. Nếu rơi từ cao xuống, nó hoàn toàn không thể khôi phục tốt sự thăng bằng để chạm đất an toàn.</p>
+
+<p>Mèo trái lại, là động vật thích trèo cao, nhảy xa, các cơ quan thăng bằng trong cơ thể hoàn thiện hơn những động vật khác. Khi nhảy từ cao xuống, cơ quan thăng bằng của tai trong bèn chuyển ngay cảm giác mất thăng bằng này đến não cùng (là nơi một phần não sau nối với tuỷ sống). Não cùng một mặt lập tức đem tin báo lên &#8220;bộ tư lệnh&#8221; là đại não, mặt khác đem xung động cảm giác truyền đến cơ trơn và xương của tứ chi với tốc độ khẩn trương nhất, từ đó dẫn đến sự vận động của cơ bắp, để cơ thể khôi phục về vị trí bình thường.</p>
+
+<p>Như vậy, khi mèo bị rơi từ cao xuống, thì chi trước và chi sau đều đã làm tốt công tác chuẩn bị để chạm đất. Ngoài ra, cái đuôi dài của mèo cũng là cơ quan quan trọng để điều chỉnh thăng bằng cho cơ thể. Vì thế, dẫu rơi từ trên cao, mèo cũng không ngã chết vì mất thăng bằng.</p>
+
+<p>Bước chân của mèo rất êm, không có tiếng động. Ở dưới bàn chân nó có một đệm thịt rất phát triển, vừa mềm mại lại đàn hồi, khi mèo bước đi vuốt chân thu gọn trong đệm thịt nên không phát ra tiếng động. Khi nhảy từ cao xuống, đệm cơ mềm mại của nó không bị chấn động của đất, giúp cho con vật bình yên vô sự.</p>
+
+<p>Ví thử ở nơi cách mặt đất không cao lắm, bất ngờ mèo bị đá xuống, khi còn chưa kịp điều chỉnh sự mất thăng bằng mà cơ thể đã chạm đất ngã đau rồi, bạn sẽ nghe thấy một tiếng kêu the thé &#8220;meo&#8221;.</p>
+
+<blockquote><p>Nhưng điều này thay đổi khi nó bị rơi ngược từ một độ cao chỉ chưa đầy 0,3 mét hoặc hơn. Cũng khuyến cáo bạn không nên thử điều này ở nhà. Tội nghiệp con mèo</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Tăng tốc CPU với Intel® Application Accelerator]]></title>
     <link href="http://Narga.github.com/narga-octopress/2006/01/intel-application-accelerator-v23/"/>
     <updated>2006-01-13T20:56:09+07:00</updated>
@@ -184,6 +205,41 @@ Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các 
 <blockquote><p><strong>Chú ý</strong>:</p>
 
 <p>Trong một số trường hợp, khi chạy phần mềm tăng tốc này trong Windows Me, khi khởi động máy sẽ báo mất file WININIT.EXE. Trong trường hợp này bạn cứ nhấn một phím bất kỳ nào đó để tiếp tục vào Windows Me, sau đó, bạn mở thư mục WINDOWS/SYSTEM/SRP/BACKUP và copy file WININIT.EXE trong đó vào thư mực WINDOWS.</p></blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Những câu nói nổi tiếng trong bê bối bóng đá Việt Nam]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/01/nhung-cau-noi-noi-tieng-trong-be-boi-bong-da-viet-nam/"/>
+    <updated>2006-01-09T06:25:15+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/01/nhung-cau-noi-noi-tieng-trong-be-boi-bong-da-viet-nam</id>
+    <content type="html"><![CDATA[<p>Vừa qua, vụ bê bối bóng đá Việt Nam gây ảnh hưởng nhiều đến công chúng, người ta bàn ra tán vào, suy này đoán nọ, kẻ biết chỉ ngồi cười, kẻ không biết thì buôn chuyện tán phét, xã hội nháo nhào, người hâm mộ chẳng biết tin vào ai nữa, các phương tiện thông tin đại chúng mỗi người một kiểu khai thác thông tin, chung quy lại chỉ béo mấy thằng nhà báo viết bài theo kiểu làm thơ bút tre và lũ bán báo dạo bằng mồm hay đi xe đạp mắc cái loa rè ra rả kêu nghe nhức cả đầu, chỉ muốn phọt&#8230; ra quần</p>
+
+<p>Rảo qua mấy trang tin, tối về nghe đài và tivi đưa tin, thi thoảng cầm tờ báo liếc qua, rốt cục thì cũng thấu hiểu được đôi chút về tình hình &#8230; he he</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p>&#8220;<strong>Nếu Quốc Anh mà cũng tham gia bán độ thì tôi chẳng còn biết tin cầu thủ nào</strong>&#8221; - HLV Riedl phát biểu khi nghe tin hàng loạt học trò bán độ ở SEA Games 23. - <em>Có lẽ chẳng còn ai để ông tin thật!!!</em></p></li>
+<li><p>&#8220;<strong>Tôi có làm gì ô nhục, tôi xin chết trước mặt các đồng chí</strong>&#8221; - nguyên phó chủ tịch LĐBĐ Việt Nam Lê Thế Thọ giải thích trong nước mắt khi bị chỉ trích vì thiếu trách nhiệm với U23 ở Philippines. - <em>Ông này chắc chắc sẽ chết khi ổng quá già, chứ ông mà chết trước mặt mọi người thì ai <strong>hơi đâu lo việc nhà người khác</strong> hí hí chỗ này hơi khó hiểu một chút đấy nha</em></p></li>
+<li><p>&#8220;<strong>Quyến à, tao đã nói hết rồi. Có gì mày khai hết đi</strong>&#8221;. Sau khi khai về vụ bán độ ở SEA Games, chính Văn Trương đã viết một tờ giấy gửi Văn Quyến (đang chối quanh co). - _Ai biểu chia tao ít quá! Tiền ít thì chắc tội nhẹ, thôi khai đại cho rùi, ngu gì gan lỳ có được thêm đồng mẹ nào đâu _</p></li>
+<li><p>Sau khi được điều tra viên tế nhị cho gặp bạn gái, Quyến tươi tỉnh hẳn lên và đề nghị cho phép bạn gái ở lại đêm đó với mình. Nhưng gợi ý này bị từ chối. - _À không khéo 20 năm sau lại có thằng Quyến con bán độ nữa! Hú hú mà sao thằng bé cũng khôn thật _</p></li>
+<li><p>&#8220;<strong>Phải nói họ (tổ trọng tài) cũng &#8216;điếm&#8217; bởi lúc xin thì nói xin cho hội đồng trọng tài nhưng họ lại đem chia nhau</strong>&#8221; - HLV Thành Vinh thanh minh về việc đưa tiền cho trọng tài. - <em>thì ông cũng được lại quả chứ có phải không đâu, mà chia cho cả hội đồng thì có khống thêm vài phát thằng nào dám kêu</em></p></li>
+<li><p>&#8220;<strong>Anh Khôi khóc khi biết anh Thành bị bắt chỉ là nước mắt cá sấu</strong>&#8221; - HLV Thành Vinh nói khi biết tin Trưởng ban tổ chức giải Dương Nghiệp Khôi đau lòng khi Giám đốc điều hành Vũ Tiến Thành bị bắt. - <em>nó bị bắt thì thế nào cũng lòi ra mình, mình cũng muốn khóc khi nó bị bắt</em></p></li>
+<li><p>&#8221;<strong>Vì tình yêu và trách nhiệm của một HLV, nếu LĐBĐ VN có yêu cầu tôi lên đội tuyển để xách nước hay nhặt bóng thì tôi cũng sẵn sàng</strong>&#8221; - HLV Lê Thuỵ Hải vui mừng khi được đề nghị làm trợ lý HLV U23 Việt Nam. - _Ông này nói là làm thật, lên tuyển chỉ toàn đi nhặt bóng, chẳng huấn luyện gì! _</p></li>
+<li><p>&#8220;<strong>Các cầu thủ có người chống lưng</strong>&#8221; - Phó chủ tịch phụ trách tài chính của LĐBĐ Việt Nam Lê Hùng Dũng khẳng định khi các cầu thủ đòi tiền thưởng ngay trước trận gặp Myanmar ở SEA Games. - <em>Hố hố chúng mày định làm loạn à, chê ít thì tao cắt luôn cho kêu luôn thể nhá</em></p></li>
+<li><p>&#8220;<strong>Tôi chấp nhận bị gọi là hèn nhát</strong>&#8221; - Trưởng ban tổ chức giải V-League trả lời những thắc mắc về vai trò của BTC giải trước những trận đấu có mùi tiêu cực. Theo ông Khôi, ông chưa có bằng chứng nên không thể xử được. - _mấy anh hiểu cho, em mà ko chấp nhận hèn nhát thì sao em ngồi vững ở ghế trưởng được. _</p></li>
+<li><p>&#8220;<strong>Tôi muốn nói nếu thật sự những người lãnh đạo ngành công tâm và biết lắng nghe dư luận thì sẽ không còn những người như ông Lê Thế Thọ làm hoen ố hình ảnh bóng đá VN</strong>&#8221; - nguyên tổng cục trưởng Tổng cục TDTT Lê Bửu. - _bác ơi! Chúng nó ko nghe dư luận đâu, cũng chẳng công tâm gì đâu. Nếu có thì bác đâu có ra đi sớm vậy! he he _</p></li>
+<li><p>&#8220;<strong>Ban tổ chức giải sẽ bố trí trọng tài đạn bắn không thủng</strong>&#8221; - Trưởng ban tổ chức giải Dương Nghiệp Khôi cho biết kế hoạch chống tiêu cực ở V-League. Nhưng sau đó, hàng loạt các trọng tài bắn không thủng này đều bị phát hiện có tiêu cực. - <em>phải rùi, chỉ thủng bằng tiền và gái hé hé giống xe tăng đạn bắn không thủng chỉ B40 bắn mới được! chí lí</em></p></li>
+<li><p>&#8220;<strong>Nói thật, kỳ tới tôi sẽ không làm như thế nữa. Lâu nay mình cứ thấy các cầu thủ hay sa ngã vì tiền thì mình muốn kiếm tiền để giúp họ không sa ngã. Tiền mình có nhiều đến mấy thì cũng không thể bằng bọn cá độ, vì nó chỉ dành cho vài người, còn thưởng thì cả tập thể gần 30 người</strong>&#8221; - Phó chủ tịch VFF Lê Hùng Dũng hối hận với kế hoạch hứa thưởng 6 tỷ tiền thưởng cho chức vô địch SEA Games của U23. - _tớ cũng nói thật. kỳ tới bác đừng mơ kiếm được bằng ấy $ thưởng nữa. Chả ai cho đâu! _</p></li>
+<li><p>&#8220;<strong>Kinh khủng quá. Trước trận bán kết, tôi đã bị stress rất nặng, không ăn, không ngủ được mấy ngày vì lo lắng đến thành tích thi đấu của cả đội tuyển. Chúng tôi cũng đã lên các phương án chi tiết để bảo vệ đội tuyển. Vậy mà&#8230;</strong>&#8221; - Chủ tịch VFF Nguyễn Trọng Hỷ nói khi nghe tin bán độ ở SEA Games. - <em>Hay nhỉ?! cẩn thận thế mà chúng nó vẫn trốn đi nhậu và chơi gái trong phòng được.</em></p></li>
+<li><p>&#8220;<strong>Tôi chỉ nghĩ đơn giản là đội mình vừa thắng mà mình lại có ít tiền để tiêu</strong>&#8221; - Quốc Vượng giải thích về chuyện bán độ. -<em> chính xác là vừa có $ để trả khoảng nợ 600triệu thua độ trước SEA GAMES</em></p></li>
+<li><p>&#8220;<strong>Tôi mà dính tiêu cực, tôi là súc vật</strong>&#8221; - Chủ tịch CLB Hải Phòng Nguyễn Anh Tuân thề khi đội bóng bị nghi ngờ có dính tiêu cực. - _tội nghiệp vợ con ông này. Chờ xem! _</p></li>
+</ol>
+
+
+<blockquote><p>Nói qua nói lại chỉ thấy một điều, trình của các chú này vẫn thua xa đàn anh ngày trước. H.S, H.Đ, &#8230; ngày trước bán còn ác hơn các chú, ăn thô hơn các chú nhiều mà có sao đâu, vẫn anh hùng dân tộc mừ Ừ mà các chú còn trẻ, tương lai còn dài có vấp ngã thì còn biết đứng lên, âu là tự rút ra kinh nghiệm cho những lần sau. Hé hé</p></blockquote>
 ]]></content>
   </entry>
   
@@ -250,6 +306,137 @@ Những thông tin này rất có ích cho người thiết kế tuy nhiên theo
 <li><p>Use standard windows skin, and disable special effects. Even though this doesn&#8217;t speed things up much if you have a fairly fast computer, every little thing counts.</p></li>
 </ol>
 </blockquote>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[100 từ thường gặp trong Anime!]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/10/top-100-words-in-anime/"/>
+    <updated>2005-10-08T07:11:54+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/10/top-100-words-in-anime</id>
+    <content type="html"><![CDATA[<h2>I.GIỚI THIỆU</h2>
+
+<p>Bạn thấy trong Anime có rất nhiều từ lặp đi lặp lai nghe rất quen thuộc và bạn thắc mắc nó có nghĩa như thế nào.Đa phần chúng đều là tiếng Nhật ..(Một số từ tôi quyết định không dịch nghĩa vì lý do tế nhị nên sẽ chuyển sang tiếng Anh  ) Hihi thật đơn giản nghĩa của nó như sau:</p>
+
+<h2>II.100 TỪ THÔNG DỤNG TRONG ANIME</h2>
+
+<p>1.<strong>abunai</strong> -  nguy hiểm: Trong tiếng Nhật một từ có rất nhiều nghĩa vì vậy tùy trong từng trường hợp cụ thể nó có thể có nghĩa là nham hiểm mà cũng có thể là dữ tợn .Đôi khi nó cũng dùng với nghĩ ám chỉ một việc gì đó ko tốt hay nguy hiểm chẳng hạn &#8220;abunai kankei&#8221; ám chỉ một mối quan hệ nguy hiểm và ko có lợi.</p>
+
+<!-- more -->
+
+
+<ol>
+<li><p><strong>ai</strong> -  yêu,tình yêu:có lẽ tôi ko cần giải thích thêm về từ này. ^_^</p></li>
+<li><p><strong>aite</strong> -  địch thủ,kẻ thù: hãy coi chừng khi bạn dùng nó với một tên của ai đó</p></li>
+<li><p><strong>akuma</strong> -  Xấu xí ,ma quỷ: dùng để mô tả tính cách của một người nào đó không tốt hay họ có diện mạo đáng sợ.</p></li>
+<li><p><strong>arigatou</strong> -  Cám ơn:một câu nói rất thông thường.</p></li>
+<li><p><strong>baka</strong> - một lời dùng để sỉ nhục người khác:Tùy theo giọng điệu của người nói mà nó sẽ có nghĩa là &#8220;ngu ngốc&#8221; hay &#8220;người chậm tiến&#8221;.Đôi khi nó dùng để nói khi 1 ai đó đang làm trò hề chọc tức người nói.</p></li>
+<li><p><strong>bakemono</strong> - quái vật,kẻ gớm ghiếc:Nó thường được các cô gái trong anime thốt ra.</p></li>
+</ol>
+
+
+<p>8.<strong> be - da!</strong> - :Câu này luôn kèm theo nhưng hành động dùng để đáp lại lời chào hay vẫy gọi ai đó hoặc là lời cổ vũ khíc lệ ai đó là một người thân yêu của người nói.</p>
+
+<ol>
+<li><strong>bijin</strong> - một cô gái xinh xắn(rất đẹp):Nó tương tự như từ &#8220;babe&#8221; trong tiếng anh tuy nhiên nó phải được cô gái đó đồng ý nếu không bạn đang nói một câu rất không lịch sự.</li>
+</ol>
+
+
+<p>10.<strong> chigau</strong> - khác biệt,sai hướng:Nó thường được dùng khi nói một ai đó đang nhầm hay sai trong công việc:Sai rồi hay Đừng gây trò cười thế!!!.</p>
+
+<ol>
+<li><p><strong>chikara</strong> - khỏe mạnh,tràn đầy sức mạnh:Không cần giải thích bạn có thể biết nó dùng ra sao.</p></li>
+<li><p><strong>chikusho</strong> - Damm,Shit:Lời chửi thề khi làm hỏng việc hay gặp đen đủi.</p></li>
+<li><strong>chotto</strong> - một chút:Không có nghĩa là chỉ số lượng mà nó được dùng trong tình huống:Giữ lấy 1 lúc..</li>
+<li><strong>daijoubu</strong> -  O.K,tốt. Dùng để trả lời khi bạn được người khác hỏi thăm sức khỏe.</li>
+<li><strong>damaru</strong> - Im lặng nào: - $</li>
+<li><strong>damasu</strong> - nói dối ,lừa gạt</li>
+<li><strong>dame</strong> -  xấu ,ko tốt,thôi,dùng để chỉ 1 việc gì đó ko muốn làm..</li>
+<li><strong>dare</strong> - ai đó:từ tiếp vĩ chẳng hạn,dareka - một ai đó, daremo - ko ai cả, daredemo - mọi người</li>
+<li><strong>doko</strong> -  ở đâu</li>
+<li><strong>fuzakeru</strong> - nhảm nhí,dùng khi nói chuyện phiếm.</li>
+<li><strong>gaki</strong> - non nớt,dùng nói đứa trẻ ngỗ ngược .</li>
+<li><strong>gambaru</strong> - hãy làm hết sức mình:lời dặn một ai đó.</li>
+<li><strong>hayai</strong> - nhanh lên ,khẩn trương lên.</li>
+<li><strong>hen</strong> - xa lạ,số phận,định mệnh:khi dùng chỉ một sự biến đổi kiểu như Sailor Moon(thủy thủ mặt trăng).</li>
+<li><strong>hentai</strong> - tính dục,giới tính:mặc dù có tiếp từ hen nhưng Hentai ở đây có nghĩa là &#8220;biến thái, bất bình thường&#8221;, hiện nay, nó chỉ có nghĩa là &#8220;biến thái&#8221; hay &#8220;loại tình dục biến thái.&#8221; Loại truyện tranh khai thác các khía cạnh của tình dục được gọi là &#8220;Hentai&#8221;.</li>
+<li><strong>hidoi</strong> - kinh khủng!!,thật khó chịu!!:Đây là một từ cảm thán nó có nghĩa là kinh khủng, hay thật khó chịu.</li>
+<li><strong>hime</strong> - công chúa:&#8230;</li>
+<li><strong>ii</strong> - tốt ,tuyệt:khi người nói nói rằng ii thì có nghĩa là họ rất hài lòng hay khen một ai đó rất tuyệt..</li>
+<li><strong>iku</strong> - nào cùng đi..,biến đi,cút đi:nó cũng có nghĩa như ikimashou, ikou(nào cùng đi..)hay đôi khi dùng để xua đuổi một ai đó hay con vật kinh tởm nào đó.</li>
+<li><strong>inochi</strong> - cuộc sống:trong tiếng nhật có 2 từ cùng có nghĩa là cuộc sống nhưng inochi thường được sử dụng hơn.</li>
+<li><strong>itai</strong> - đau dớn ,nỗi đau,bị thương:một từ rất có ý nghĩa hihi khi đó người nói sẽ thốt ra Oái hay Ite - e!.</li>
+<li><strong>jigoku</strong> - âm phủ ,địa ngục.</li>
+<li><strong>joshikousei</strong> - một từ dùng để mô tả một cô gái xinh đẹp đầy cá tính thông thường hay nói về các cô gái trong các trường trung học mà đa phần anime và manga hay thiên về những người này.</li>
+<li><strong>kamawanai</strong> - mặc kệ nó,ko cần biết:đây là từ dùng để biểu lộ sự bất cần và ko đáng quan tâm.</li>
+<li><strong>kami</strong> - trời ơi ,chúa ơi: Một câu nói mà cũng có thể dùng để giải thích về một diều gì đó khó hiểu thần bí hoặc hoang đường.</li>
+<li><strong>kanarazu</strong> - trạng từ thường đứng trước các từ khác dùng để miêu tả một sự việc nào đó gẫu nhiên xảy ra đôi khi được dùng như thán từ :Tôi thề đó..</li>
+<li><strong>kareshi</strong> - bạn trai:Kanojo - bạn gái đây là những từ khá quan trọng mô tả về cá mối quan hệ .</li>
+<li><strong>kawaii</strong> - thông minh,đáng yêu,dùng để gọi ngời mà mình yêu mến hay fall in love..Yeah I love that word hihi.Hãy cẩn thận nếu bạn viết sai thành kawai thì nó lại có nghĩa là buồn và đầy thương đau.</li>
+<li><strong>kedo</strong> - nhưng:lưỡng lự hay có một sự thay đổi.</li>
+<li><strong>kega</strong> - vết thương,chỗ bị đau.</li>
+<li><strong>keisatsu</strong> - cảnh sát,&#8221;cớm&#8221;: - _ -</li>
+<li><strong>ki</strong> - có rất nhiều nghĩa no thường dùng kèm với các từ mang tính diễn tả không đếm dược.</li>
+<li><strong>kokoro</strong> -  xuất phát từ trái tim:nó dùng để nói khi người đó muốn bày tỏ tình cảm của mình rất chân thành.</li>
+<li><strong>korosu</strong> - giết bởi:        nó thường dùng trong quá khứ(korosareta) mang tính ra lệnh hơn là miêu tả.</li>
+<li><strong>kowai</strong> -  đáng sợ, e sợ:     đây là một từ cảm thán diễn tả nỗi sợ hãi của người nói.</li>
+<li><strong>kuru</strong> - đến đây :        đây là một câu ra lệnh hay dungf để gọi một ai đó.</li>
+<li><strong>mahou</strong> - phép thuật,ma quái.</li>
+<li><strong>makaseru</strong> - nơi mà người nói rất hy vọng,hay mang nhiều sự thu hút..</li>
+<li><strong>makeru</strong> - bỏ ,từ bỏ ..:         chẳng hạn Makeru mon ka nghĩa là &#8220;tôi sẽ không bao giờ từ bỏ&#8221;.</li>
+<li><strong>mamoru</strong> - bảo vệ:          chẳng hạn anh sẽ bảo vệ em&#8221;<sup>_^</sup></li>
+<li><strong>masaka </strong> - có thể lắm..</li>
+<li><strong>matsu</strong> - chờ chút</li>
+<li><strong>mochiron</strong> - dĩ nhiên.     không nghi ngờ gì!!!!</li>
+<li><strong>mou</strong> - (xong)   rồi,đủ rồi..</li>
+<li><strong>musume</strong> - một cô bé:     lời nói thốt ra khi nói về 1 cô bé trông rất dễ thương!<sup>_<sup>.</sup></sup></li>
+<li><strong>naka</strong> - nói về một mối quan hệ trong gia đình hay giữa những người có  cùng ý kiến chẳng hạn &#8220;Nakayoku suru&#8221; có nghĩa là &#8220;cùng nhau&#8221; &#8220;Nakama&#8221;  nghĩa là &#8220;bạn thân&#8221;.</li>
+<li><strong>nani</strong> - cái gì??:        một câu hỏi.</li>
+<li><strong>naruhodo</strong> -    tôi hiểu,à rõ rồi..</li>
+<li><strong>nigeru</strong> - bỏ chạy,chạy thôi..</li>
+<li><strong>ningen</strong> - nhân đạo,dùng chỉ những hành động rất hào hiệp nhân đạo.</li>
+<li><strong>ohayou</strong> - câu chào buổi sáng.</li>
+<li><strong>okoru</strong> - bực thật.</li>
+<li><strong>onegai</strong> - cách nói tắt của onegai shimasu nghĩa là ‘tôi xin bạn&#8221;,hay dùng để cầu xin một diều gì đó.</li>
+<li><strong>oni</strong> - ma quỷ,yêu quái.</li>
+<li><strong>Ryoukai</strong>! - câu nói khi nhận được lời đề nghị &#8220;Roger!&#8221;</li>
+<li><strong>Saa</strong> - khá đấy,tốt thôi:câu cảm thán.</li>
+<li><strong>sasuga</strong> - tôi biết:câu nói của người có kiến tth]cs rộng rãi trả lời một ng` khác.</li>
+<li><strong>sempai</strong> - một người có thứ bậc cao hơn hay nhiều tuổi hơn</li>
+<li><strong>shikashi</strong> - dù vậy ,nhưng,tuy nhiên.</li>
+<li><strong>shikata ga nai</strong> - không thể giúp được,không có cách nào cả.</li>
+<li><strong>shinjiru</strong> - (hãy)tin rằng(vào).</li>
+<li><strong>shinu</strong> - chết nè..</li>
+<li><strong>sukoi</strong> - bảo thủ ,tàn nhẫn ..nỗi đau hằn trong trí nhớ.</li>
+<li><strong>sugoi</strong> -  là một trong ba từ thường dùng với &#8220;su&#8221; suteki và subarashii  là 2 từ kia ba từ này có nghĩa tương tự và được dùng xen kẽ khi nói về  sức khỏe của ai đó chẳng hạn à tốt,khỏe lắm,..</li>
+<li><strong>suki</strong> - cảm xúc,ưa thích:nó hàm ý có một cảm tình rất đẹp với một ai đó khác giới:&#8221;Suki da.&#8221; nghĩa là &#8220;mình rất mến(thích) bạn&#8221;</li>
+<li><strong>suru</strong> - làm:chẳng hạn &#8220;Dou shiyou?,&#8221; nghĩa là &#8220;Ôi! tôi sẽ phải làm gì bây giờ&#8221;.</li>
+<li><strong>taihen</strong> - vô cùng ,cực độ,dùng để mô tả moootj điều gì đó rất kinh khủng</li>
+<li><strong>tasukeru</strong> - cứu:chẳng hạn &#8220;Tasukete kure!&#8221; nghĩa là &#8220;cứu tôi!!&#8221;</li>
+<li><strong>tatakau</strong> - đánh nhau…</li>
+<li><strong>teki</strong> - quân địch kẻ thù..</li>
+<li><strong>tomodachi</strong> - bạn bè..</li>
+<li><strong>totemo</strong> - rất..,dùng để nhấn mạnh một điều gì đó.</li>
+<li><strong>unmei</strong> - định mệnh,số phận.</li>
+<li><strong>uragirimono</strong> - kẻ phản bội.</li>
+<li><strong>ureshii</strong>! - ôi! thật hạnh phúc:thán từ</li>
+<li><strong>urusai</strong> - ồn quá,im lặng,câm đi:câu mệnh lệnh.</li>
+<li><strong>uso</strong> - lừa dối:bạn nói dối..</li>
+<li><strong>uwasa</strong> - tin đồn.</li>
+<li><strong>wakaru</strong> - hiểu rồi:nói khi được một ai đó giải thích.</li>
+<li><strong>wana</strong> - bẫy ,mưu kế..</li>
+<li><strong>yabai</strong> - khổ, câu nói than vãn: &#8220;Ôi! khổ quá nè!&#8221;</li>
+<li><strong>yakusoku</strong> - lời hứa.</li>
+<li><strong>yameru</strong> - dừng lại,hủy bỏ:Yamero! là cảm thán từ nghĩa là:&#8221;đủ rồi đó&#8221;</li>
+<li><strong>yaru</strong> - thử đi,đưa nó cho tôi:được dùng tùy thuộc vào hoàn cảnh</li>
+<li><strong>yasashii</strong> - thật dễ …:trong anime nó dùng để miêu tả một người hay đồ  vật thạt dẽ thương hay nguy nga tráng lệ..yasashii hito nghĩa là tuyệt  thật</li>
+<li><strong>yatta</strong> - dùng để cổ vũ:hoan hô muôn năm,nữa đi,yeah..</li>
+<li><strong>yoshi</strong> - được rồi,uh đúng đó,tôi đã xong.</li>
+<li><strong>youkai</strong> - dùng để mô tả một điều gì đó huyền bí khó hiểu hay 1 hiện tượng siêu nhiên nào đó..</li>
+<li><strong>yume</strong> - mơ,giấc mơ.
+100.<strong>yurusu</strong> - tha thứ,dùng để nói khi muốn xin lỗi hay người nói bỏ qua một lỗi lầm của ai đó</li>
+</ol>
+
 ]]></content>
   </entry>
   
@@ -464,11 +651,11 @@ lit, PalmDoc, RTF and Palm Reader formats. Until the ebook industry settles on a
     <link href="http://Narga.github.com/narga-octopress/2005/06/ai-la-nguoi-may-man-nhat-truyen-kim-dung/"/>
     <updated>2005-06-25T19:37:00+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2005/06/ai-la-nguoi-may-man-nhat-truyen-kim-dung</id>
-    <content type="html"><![CDATA[<blockquote><p>Nếu theo ý tôi may mắn nhất phải là Tiểu Quế Tử, Vi Công Công, Bá Tước, Bạch Long Sứ, Lộc Đỉnh Công là người may mắn nhất. Tui dám nói như vậy vi coi cái công hàm ngoại giao của Vi Tiểu Bảo chưa gì đã thấy promote len vùn vụt. Mới từ thằng nhóc quen trong Lệ Xuân Viện, tự nhiên nhảy lên trong hoàng cung, rồi thăng lên tổng thái giám,…. cuối cùng làm Lộc Đỉnh Công.</p></blockquote>
+    <content type="html"><![CDATA[<blockquote><p>Nếu theo ý tôi may mắn nhất phải là Tiểu Quế Tử, Vi Công Công, Bá Tước, Bạch Long Sứ, Lộc Đỉnh Công là người may mắn nhất. Tui dám nói như vậy vi coi cái công hàm ngoại giao của Vi Tiểu Bảo chưa gì đã thấy promote len vùn vụt. Mới từ thằng nhóc quen trong Lệ Xuân Viện, tự nhiên nhảy lên trong hoàng cung, rồi thăng lên tổng thái giám,…. cuối cùng làm Lộc Đỉnh Công.</p>
 
 <p>Tui nói thiệt chưa thấy thằng cha nào ngoài đời mà như vậy, giống như mình từ thằng nhân viên tạp vụ mà lên tổng giám đốc công ty vậy, cuộc đời có được như vậy cũng đáng lắm (chưa nói đến cái khoản làm trụ trì trên Ngũ Đài Sơn hết một thời gian chăm sóc cho Thuận Trị Hoang Đế).</p>
 
-<blockquote><p>Đó còn chưa kể lũ vợ lóc nhóc nguyên một bầy đủ làm thêm một cái kỹ viện ở Dương Châu, mà đâu phải đứa nào cũng xấu toàn là hoa hậu thời nay không. Tui mà thất học được như thằng kia chắc tui cũng dám bỏ học kiếm một chân bảo kê ở mấy cái show girl quá, mai mốt ai biết mình được đề cử làm tổng giám đốc Microsoft thay cho Bill Gate lúc nào không hay. Có lẽ ông già Kim Dung thấy mình hổng được vậy chắc đành gởi ước muốn của mình qua nhân vật thôi.</p></blockquote>
+<p>Đó còn chưa kể lũ vợ lóc nhóc nguyên một bầy đủ làm thêm một cái kỹ viện ở Dương Châu, mà đâu phải đứa nào cũng xấu toàn là hoa hậu thời nay không. Tui mà thất học được như thằng kia chắc tui cũng dám bỏ học kiếm một chân bảo kê ở mấy cái show girl quá, mai mốt ai biết mình được đề cử làm tổng giám đốc Microsoft thay cho Bill Gate lúc nào không hay. Có lẽ ông già Kim Dung thấy mình hổng được vậy chắc đành gởi ước muốn của mình qua nhân vật thôi.</p></blockquote>
 
 <!-- more -->
 
@@ -658,239 +845,6 @@ Không có <strong>Tiểu nhân</strong> thì <strong><em>không ai nuôi</em></
 
 <p><strong>B. Áp dụng vào thực tế … ảo</strong>
 <strong>Để có thể áp dụng thành công, đúng đắn và khách quan thì khi nhìn nhận, đánh giá bất kỳ một sự việc nào chúng ta cũng phải nhìn nhận dưới nhiều góc độ, theo các hướng khác nhau.</strong></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Phần kết của Chuyện cây khế]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/05/phan-ket-cau-chuyen-cay-khe-the-ending-of-cay-khe-story/"/>
-    <updated>2005-05-09T19:35:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/05/phan-ket-cau-chuyen-cay-khe-the-ending-of-cay-khe-story</id>
-    <content type="html"><![CDATA[<p>Sau đợt sóng thần vừa qua tại bãi biển Phunkhet Thái Lan có phát hiện một hộp đen của con chim lạ đó, sau khi phục hồi thì bị thiếu một số sector do bị bad. Sau khi điều tra thêm thì được biết rằng trong bộ lịch sử mồm của dân làng Phunkhet cũng có truyền lại một câu truyện về một chàng trai cưỡi chim rơi xuống làng này. Sau khi được một em dân làng xinh, ngon, chân dài hô hấp, tẩm quất nên linh hồn của Tơn cũng giống như thể xác (rơi từ trên trời rơi xuống) trở về hòa làm một. Mỗi tội là em dân làng kia làm mátxa nhưng lại chưa qua lớp cấp tốc nào, lại xuất thân từ nông thôn nên có hơi quá tay với Tơn. Do vậy Tơn từ lúc tỉnh dậy cứ ngơ ngơ nói tòan thứ tiếng lạ hoắc, nghe đâu tòan kêu &#8220;chim, chim, chim..&#8221;</p>
-
-<p>Mọi người mới ghét quá nên đuổi Tơn lên một chiếc thuyền độc mộc rồi đẩy ra biển. Ông trời mới thương nên giữ thuyền đứng yên theo phương pháp tuyến, chỉ hơn 12 tiếng sau Tơn đã lưu lạc vào một vùng đất hoang (giờ là Châu Mỹ). Không có một thứ gì trong tay ngòai một chiếc di động mất sóng, một mình anh phải chống chọi với lốc, mưa bão, núi lửa.. triền miên. Cũng nhờ có chiếc thuyền làm từ rơm rạ (còn vương vài sợi thóc) nên Tơn có &#8220;vốn&#8221; để làm ăn. Thâm canh ngắn ngày, làm gối vụ nên năng xuất tăng từ 8 lên 10 tấn trên một hecta, Tơn ăn đủ.</p>
-
-<!-- more -->
-
-
-<p>Ăn no rồi chẳng biết làm gì anh lấy mấy lá cây rừng bện lại đốt lên rồi hút cho hết ngày. Ăn hút rồi cũng chẳng biết làm gì, di động không dùng được giờ cái &#8220;cố định&#8221; cũng không biết dùng vào đâu.. Tơn tức cho kiếp đỏ đen của mình anh thầm ước các em hãy về đây bên anh.</p>
-
-<p>Còn ở bên kia địa cầu, Đôn thừa kế lại khu vườn ở Quảng Bá sau bị nhà nước cho vào diện giải tỏa, cũng may mấy hecta ruộng vườn của Tơn để lại bên khu Mỹ Đình lại bán được giá, nghe nói anh này bán có một chuồng bò đã được hơn tỷ. Đợt xổ số thủ đô lại quay cho các tỉnh nên cầu lô đề của Đôn thành cầu tiêu với cầu tõm hết, đúng là tiền dẫu kiếm như nước rồi phang lô cũng sẽ hết. Đôn tức quá đấm ngay vào tủ thờ, trên có để cây quất tổ, cây quất đè chết anh, đúng là &#8220;nhất quả đất nhì quả quất&#8221;.</p>
-
-<p>Sau này người ta đặt tên cho miếng sứ dùng để kê phía dưới chậu cây quất là đôn.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[UNOFFICIAL Windows98 Second Edition Service Pack 2.0]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/05/unofficial-windows98-second-edition-service-pack-20/"/>
-    <updated>2005-05-07T13:51:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/05/unofficial-windows98-second-edition-service-pack-20</id>
-    <content type="html"><![CDATA[<p><strong>UNOFFICIAL Windows98 Second Edition Service Pack 2.0</strong> (Freeware)</p>
-
-<p>Microsoft has never released a service pack for Windows98 SE. But I made a Service Pack for Windows98 SE users. It contains all Windows98 SE updates from Windows Update site and more.</p>
-
-<p>It is a self-extracting and self-installing pack like Microsoft&#8217;s update files. Thus, you cannot choice files individually. However, the pack installs only required fixes for your system. Uninstallation is possible from Add-Remove Programs. However, I don&#8217;t recommend uninstallation of the pack, if you don&#8217;t have any problem.</p>
-
-<p>This is only for <em>WINDOWS 98 SECOND EDITION ENGLISH.</em> I highly recommend that you should backup your system before installing the pack. You must have at least <strong>32 MB</strong> of RAM.</p>
-
-<p>It contains only operating system updates. It does NOT contain Internet Explorer 6, DirectX 9, Media Player 9 and their updates.</p>
-
-<!-- more -->
-
-
-<p><strong>Note_: All old version users should install this version without uninstalling old version.
-</strong><strong>Features of 2.0:</strong>
-  - 100+ hotfixes (Detailed list will be prepared soon).</p>
-
-<ul>
-<li><p>Solves <a href="http://support.microsoft.com/?id=253912">512 MB of RAM</a> problem.</p></li>
-<li><p><a href="http://www.dr-hoiby.com/TrayIconIn256Color/">256-color tray icons</a>.</p></li>
-<li><p>Better Notepad: <a href="http://www.liquidninja.com/metapad/">MetaPad 3.5</a> (Optional).</p></li>
-<li><p><a href="http://www.mdgx.com/98-4.htm#COSW">Optimized swap file usage</a> (Optional).</p></li>
-<li><p>Better WDM and USB support.</p></li>
-<li><p>Adaptec <a href="http://radified.com/ASPI">ASPI 4.60.1021 drivers</a> (Optional).</p></li>
-<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=0A8A18F6-249C-4A72-BFCF-FC6AF26DC390">Windows Scripting Host 5.6</a>.</p></li>
-<li><p><a href="http://www.microsoft.com/com/dcom/dcom98/dcom1_3.asp">DCOM98 1.3</a>.</p></li>
-<li><p>OLE Automation Libraries 2.40.4522.</p></li>
-<li><p><a href="http://support.microsoft.com/?id=285189">Dial-Up Networking 1.4</a>.</p></li>
-<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=cebbacd8-c094-4255-b702-de3bb768148f">Microsoft Installer 2.0</a>.</p></li>
-<li><p>MDGx&#8217;s HTML Help Update.</p></li>
-<li><p>TweakUI (Optional).</p></li>
-<li><p>Command Prompt Here (Optional).</p></li>
-<li><p>New Animated Boot Logo (Optional).</p></li>
-<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=73BA7BD7-ED06-4F0D-80A4-2A7EEAEE17E2">Microsoft Layer for Unicode</a>.</p></li>
-<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=05AE09E6-082A-4CD1-99CD-8911B6034C20">Visual Basic 5.0 SP2 runtime library</a>.</p></li>
-<li><p><a href="http://www.microsoft.com/downloads/details.aspx?FamilyId=7B9BA261-7A9C-43E7-9117-F673077FFB3C">Visual Basic 6.0 SP6 runtime library</a>.</p></li>
-<li><p><a href="http://msdn.microsoft.com/vstudio/downloads/updates/sp/vs6/sp6/download/default.aspx">Visual C++ 6.0 SP6 runtime libraries</a>.</p></li>
-<li>Updates JET 3.5 files to <a href="http://support.microsoft.com/?id=172733">JET 3.5 SP3</a>.</li>
-<li>Supports <a href="http://www.litepc.com/98lite.html">98lite 4.7</a>.</li>
-<li>Windows 2000/ME desktop icons.</li>
-<li><a href="http://www.mdgx.com/newtip16.htm#W2KCS">Windows 2000 color scheme</a> (Optional).</li>
-<li>Supports custom &#8220;Program Files&#8221; directory.</li>
-<li>Shows attributes column in details view on the Windows Explorer.</li>
-<li><a href="http://www.msfn.org/board/index.php?showtopic=38193">Semi-slipstreaming support</a>.</li>
-<li>Some <a href="http://exuberant.ms11.net/setweaks.html">tweaks</a>(Optional).<img src="http://www.narga.org/files/2011/04/screenshot.gif" alt="" /> <a href="http://exuberant.ms11.net/screenshot.jpg">Screenshot</a></li>
-</ul>
-
-
-<p><strong>Known Problems:</strong></p>
-
-<blockquote><p>If you have Crystal Sound Card (CS423x), and have problem with the sound, you have to upgrade your <a href="http://www.winpack.org/download/cs423x.zip">drivers</a>.</p></blockquote>
-
-<p><strong>Download - Version 2.0: (16282624 Bytes / md5sum: 7fa22c79fb22f0ece527893f30e9ede4)</strong></p>
-
-<blockquote><p><a href="http://download.cnet.com/Unofficial-Windows-98-SE-Service-Pack/3000-18487_4-52713.html">CNET | Download.com</a></p></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Chuyện Tấm Cám]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/04/chuyen-tam-cam/"/>
-    <updated>2005-04-28T20:04:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/04/chuyen-tam-cam</id>
-    <content type="html"><![CDATA[<h3>Phần 1</h3>
-
-<p>Chuyện kể rằng, ngày xửa ngày xưa, trong một gia đình nọ, có hai người con gái cùng cha khác mẹ. Tấm là con của bà vợ cả, Cám là con của bà vợ lẽ. Người cha mất rồi, mẹ Tấm cũng mất, nên Tấm phải ở cùng với dì ghẻ là mẹ của Cám.</p>
-
-<p>&#8211; Tấmmmm! Tao đã cấm mày xào nấm với dấm rồi cơ maaaaaaaaà. Đầu mày có bị ấm không? Cẩn thận tao cho vài đấm.</p>
-
-<p>&#8211; Tấmmmm! Mày hâm à, mày câm à. Sao mày đâm thủng cái mâm???</p>
-
-<p>Hàng ngày, những lời đay nghiến, chửi bới Tấm xảy ra như cơm bữa, cho dù gì ghẻ đã đôi lần bị phê bình trước tổ dân phố vì vi phạm nếp sống văn minh gia đình văn hoá. Tấm làm gì cũng bị bà mắng, trong khi Cám cũng đâm thủng mâm lúc chơi đùa với Tấm thì lại được mẹ khen là văn võ song toàn.</p>
-
-<!-- more -->
-
-
-<p>Một ngày nọ, dì ghẻ bỗng thèm ăn tép xào khế. Bà liền gọi hai cô đến và rằng:</p>
-
-<p>&#8211; Hai con! Hai con hãy ra ngoài ao tắm rửa giặt giũ cho sạch, cho thơm. Nhân tiện lúc đi ngang qua đồng bắt cho mẹ ít tép. Đứa nào bắt được nhiều tép về đây thì ta thưởng cho yếm đỏ, tôm thì càng tốt.</p>
-
-<p>Hai cô vâng lời mẹ và chạy đi. Tấm chăm lam, chăm làm. Cô nhảy ào xuống đồng. Một tay cô mò từng con tép, bắt từng con tôm bỏ vào giỏ. Còn tay kia bứt từng con đỉa đang bám chặt vào đùi, nhìn trước ngó sau rồi vứt mạnh về phía Cám đang say giấc trên bờ.</p>
-
-<p>Chẳng mấy chốc, giỏ tép đã đầy kín. Tấm cất tiếng gọi Cám đi về. Tỉnh dậy, Cám bỗng thấy hoảng sợ vô cùng khi nhìn thấy giỏ của mình trống rỗng. Như thế này thì mẹ sẽ đánh mất. Vừa mới hôm qua thôi, Cám còn chứng kiến cảnh mẹ mình đấm lia lịa vào mõm con chó becgie vì nó trót xơi trộm của bà củ khoai lang. Con chó dữ tợn là thế mà phải bỏ chạy, để lại bốn chiếc răng cửa ở bãi chiến trường. Nhớ đến cảnh đó, Cám bất giác đưa tay che lấy miệng mình&#8230;</p>
-
-<p>Về đến nhà, dì ghẻ đon đả ra đón Cám và thưởng cho Cám cái yếm đỏ. Còn Tấm, cô khóc tấm tức rồi lủi thủi ra chiếc giếng sau nhà. Cô thấy cuộc đời sau lắm trái ngang. Cô đã bỏ ra bao nhiêu công sức để bắt đầy giỏ tôm tép mang về cho mẹ ghẻ, vậy mà lúc lên bờ, cô đã cả tin khi nghe Cám nói:</p>
-
-<p>&#8211; Chị Tấm ơi chị Tấm. Đầu chị lấm chị ngụp cho sâu kẻo về mẹ mắng.</p>
-
-<p>Rồi lừa lúc Tấm quay đi, Cám đã tráo bỏ giỏ rỗng của mình lấy giỏ đầy của Tấm rồi phi trâu một mạch về lĩnh yếm mới, bỏ lại đằng sau vài viên gạch do Tấm ném với theo.</p>
-
-<p>&#8211; Thôi thì của đi thay người - Tấm tặc lưỡi.</p>
-
-<p>Sau đó cô nhẹ nhàng thả con cá Bống trong giỏ xuống giếng. Con cá Bống này là của một người đàn ông lạ mặt tặng cho. Lúc ở ngoài đồng tép, đang nằm đập thùm thụp hai tay xuống đất vì uất ức, bất chợt ngẩng lên, Tấm bỗng thấy ông ta từ đâu xuất hiện. Ông tự giới thiệu mình là Bụt. Tấm nhớ rõ lắm vì cái tên này lần đầu tiên cô thấy có trên đời. Lúc đầu cô đã nghĩ thầm &#8220;Tên gì mà xâu tệ, sao không giới thiệu tên Việt hay Hảo đi cho đẹp???&#8221;. Tuy nhiên, cô đã trở nên có cảm tình khi nghe ông nhẹ nhàng hỏi: “Vì sao con khóc?”. Sau khi nghe Tấm kể lại mọi chuyện, ông Bụt mới cho Tấm con cá Bống này và dặn, mỗi khi cho Bống ăn cơm, hãy nhớ gọi: “Bống ơi Bống! Lên ăn cơm vàng cơm bạc nhà ta. Chớ ăn cơm hẩm cháo hoa nhà người.” Dặn xong, ông bỏ chạy vì bị con chó becgie mà Tấm mang theo nhe bộ hàm thiếu bốn chiếc răng cửa ra dọa.</p>
-
-<p>Kể từ ngày đó, mỗi lần sau bữa ăn, Tấm đều lén trút một bát cơm nóng hổi vào trong yếm và nhảy tưng tưng ra ngoài giếng để cho Bống. Những lúc như vậy, Tấm phải vừa nhảy vừa huýt gió để dì ghẻ và Cám khỏi nghi ngờ về hành động của mình. Tuy nhiên, hành động đó của Tấm đã không qua được con mắt tinh đời của dì ghẻ.</p>
-
-<h3>Phần 2</h3>
-
-<p>&#8211; Không điên! Không dở hơi! Không thần kinh! Vậy mà vừa ăn no xong lại nhảy chồm chồm như phải bỏng – Dì ghẻ nghĩ thầm. <em>“Rõ ràng là khuất tất rồi đây.”</em></p>
-
-<p>Rồi mụ sai Cám rình Tấm mọi lúc, mọi nơi; ghi lại mọi diễn biến, việc làm thường ngày của Tấm. Cám ghi được tất, không bỏ sót bất kỳ một hành động nào, kể cả những câu chửi thầm Tấm dành cho hai mẹ con Cám mỗi khi nàng tủi phận. Và rồi Cám phát hiện ra chiếc giếng, nơi Tấm thường nhảy tưng tưng đến mỗi khi ăn cơm xong. Ngay sau đó, Cám về thưa với mẹ. Dì ghẻ uất lắm. Bà nghĩ Tấm mang cơm cho giai&#8230;</p>
-
-<p>Ngay sáng hôm sau, lúc con gà còn chưa kịp cất tiếng gáy vì chiều hôm trước bị Cám đá vào cổ họng trong lúc tập võ, dì ghẻ đã gọi Tấm dậy: “Con ơi con ơi. Đi chăn trâu phải chăn đồng xa. Chớ chăn đồng gần, làng bắt mất trâu”. Tấm ức lắm. Nàng vừa làu bàu, vừa mắt nhắm mắt mở nhảy lên lưng trâu. Làm sao mà không tức cho được, khi mới hai rưỡi sáng đã bị đánh thức, trong khi lịch ngủ thường ngày của nàng chỉ được bắt đầu vào lúc hai giờ mười lăm.
-Tấm vừa đi khuất, dì ghẻ và Cám vội chạy lại gần chiếc giếng. Từ đằng xa, hai mẹ con thi nhau nhặt gạch ném rào rào về phía đó. Chẳng biết họ đã ném bao nhiêu viên, chỉ biết rằng chiều hôm đó cả làng phải nghe chửi vì nhà hàng xóm bên cạnh tưởng mất trộm nguyên liệu.</p>
-
-<p>Tối đến, như thường ngày, Tấm lại mang cơm ra cho Bống ăn&#8230;</p>
-
-<p>&#8211; Bống ơi Bống! Lên ăn cơm vàng cơm bạc nhà ta. Chớ ăn cơm hẩm cháo hoa nhà người.</p>
-
-<p>Người ta nghe Tấm gọi mãi, gọi mãi. Và rồi tiếng Tấm rú vang khi chỉ thấy một cục máu nổi lên mặt nước. Tấm oà khóc. Kẻ nào đã hãm hại Bống? Kẻ nào đã đang tâm làm việc này? Và thế là tối hôm đó, lần thứ hai trong ngày, cả làng lại một lần nữa phải nghe chửi.</p>
-
-<p>Bụt lại hiện lên và hỏi:</p>
-
-<p>&#8211; Vì sao con lại chửi?</p>
-
-<p>Sau khi nghe Tấm kể lại sự tình, Bụt mới bảo Tấm tìm xương Bống về cho vào bốn cái lọ và chôn vào bốn góc giường nơi Tấm nằm. Nghe lời Bụt, Tấm quay về nhà tìm xương Bống. Tìm mãi mà không thấy, Tấm lại khóc. Khóc mãi thì có một tiếng nói the thé vang lên:</p>
-
-<p>&#8211; Cục ta cục tác, cho ta nắm thóc ta bới xương cho.</p>
-
-<p>Ngẩng đầu lên, Tấm nhận ra con gà trống ngày nào, nay chất giọng đã hoàn toàn thay đổi vì di chứng của lần bị Cám đá vào cổ. Tấm ném thóc cho gà. Gà bới một lúc thì tìm thấy xương. Tấm nhặt lấy bỏ vào lọ và đem chôn dưới bốn chân giường nơi mình nằm&#8230;</p>
-
-<p>Ít lâu sau, nhà vua mở hội. Mọi người dân trong kinh thành đều được mời tới dự bữa tiệc do vua chiêu đãi. Mẹ con Cám nghe tin dậy từ sáng sớm, chuẩn bị những bộ váy đẹp nhất, những đôi hài đẹp nhất, và đặc biệt là bỏ qua thói quen ăn sáng hàng ngày. Tấm cũng muốn đi lắm. Gì thì gì, ăn uống free, không đi cũng phí. Nhưng dì ghẻ lại không đồng ý. Bà nghĩ ra một kế. Ban đầu, bà lấy một lon sữa ông Thọ tính phục vụ kế hoạch. Nhưng thấy không ăn thua, bà kiếm một hộp sữa Cô gái Hà Lan loại 3kg, xúc đầy thóc, đầy gạo, sau đó đem đổ tất vào thùng và bảo Cám quay cho chúng trộn lẫn. Sau đó bà bắt Tấm nhặt thóc gạo riêng ra, xong thì mới cho đi hội. Tấm uất lắm. Cô muốn bóp cổ Cám cho hả giận. Nhưng khi thấy Cám đang nằm thở phì phò vì chóng mặt, lòng nhân từ đã khiến Tấm gạt phắt tư tưởng tội lỗi&#8230;</p>
-
-<h3>Phần 3</h3>
-
-<p>Mẹ con Cám đi rồi, Tấm bắt tay ngay vào công việc. Nhưng nhặt mãi, nhặt mãi mà vẫn không hết, Tấm lại khóc. Bụt hiện lên và hỏi:</p>
-
-<p>&#8211; WTF? Thế lại làm sao mà khóc?</p>
-
-<p>Và rồi khi biết rõ câu chuyện, Bụt mới cười mà rằng:</p>
-
-<p>&#8211; Xời, tưởng gì, chuyện nhỏ. Ta sẽ cho chim của ta đến giúp con!</p>
-
-<p>Ngay lập tức, chim của Bụt bay đến, sà vào thùng thóc. Tấm thích chí lắm. Có trong mơ cô cũng chẳng hình dung ra nổi, Bụt cho chim nhặt thóc giúp mình. Tiện thể, Tấm bê cả thùng hạt dẻ, nhờ chim bóc vỏ hộ&#8230;</p>
-
-<p>Trong chốc lát, mọi việc đã xong xuôi. Tấm hớn hở vì sắp được đi trảy hội. Nhưng khi nhìn mình trong gương, Tấm lại khóc. Bộ váy yếm duy nhất dì ghẻ cho cô mặc từ ngày này qua ngày khác, từ mùa đông sang mùa hè, giờ chẳng khác gì bikini hai mảnh. Và đôi guốc cao gót, giờ trông y hệt đôi guốc mộc. Tấm khóc to lắm. Một phần vì cô tủi, và phần nhiều cốt để cho Bụt nghe thấy.</p>
-
-<p>Và Bụt đã nghe thấy thật. Làm Bụt như làm dâu trăm họ, thấy có tiếng khóc ở đâu là phải xuất hiện nơi đó, trừ nhà hộ sinh. Bụt đến chỗ Tấm, và cố gắng cất giọng ngọt ngào:</p>
-
-<p>&#8211; Lại chuyện gì nữa đây?</p>
-
-<p>Sau khi nghe Tấm kể lể sự tình, Bụt mới bảo Tấm:</p>
-
-<p>&#8211; Con đào những cái lọ đã chôn ngày trước lên, thì muốn quần áo đẹp thế nào cũng có, toàn Versace không hà.</p>
-
-<p>Nói xong, Bụt biến mất luôn. Kể từ đó, không ai còn thấy Bụt nữa xuất hiện lần nào nữa trên giang hồ và nghe đâu, ông đã nằng nặc xin chuyển công tác&#8230;</p>
-
-<p>Nghe lời Bụt, Tấm đào tung cả ngôi nhà vì chẳng nhớ lần trước đã chôn lọ ở đâu. Cuối cùng, cô cũng đã tìm thấy chúng. Nào thì áo, nào thì quần, nào thì giày, và còn cả một con ngựa. Tấm đóng bộ gọn gàng, nhảy lên lưng ngựa và phi thẳng đến nơi trảy hội. Lúc đi ngang qua cầu, táy máy thế nào, Tấm rơi một chiếc giày xuống hồ trúng ngay đầu vị vua trẻ đang ngồi câu cá ở dưới đó. Vua liền ngóc đầu lên chửi với theo</p>
-
-<p>&#8211; Mẹ đứa nào ném giầy vào đầu ông!!</p>
-
-<p>Tấm sợ rằng sẽ đến muộn giờ trẩy hội nên Tấm mặc kệ và không quên vứt lại câu chửi thề về phía vị Vua trẻ đó:</p>
-
-<p>&#8211; Sư cha đứa nào chửi bà - đồng thời nhảy lên lưng ngựa và tiếp tục thúc ngựa phi nước đại.</p>
-
-<p>Đến nơi, đúng lúc nhà vua đang mở cuộc thi kén vợ. Ai ướm vừa chiếc giày mà vua mang ra, người đó sẽ là vợ của vua. Điều lệ cực kỳ đơn giản, dễ chơi, dễ trúng thưởng nên ai cũng muốn thử vận may, trong đó có cả mẹ con nhà Cám. Vậy mà lạ thay, chẳng ai ướm vừa. Người ít nhất cũng rộng ngót một size. Tấm len lỏi chen vào. Cô nhận ngay ra giày của mình. Làm sao mà không nhận ra chiếc giày quá khổ. Tấm ngạc nhiên lắm. Trong khi đó nhà Vua thầm nghĩ</p>
-
-<blockquote><p>Ông mà bắt được mày thì mày biết tay ông</p></blockquote>
-
-<p>Tấm bèn xin ướm thử và vừa khít. Nàng trở thành vợ của nhà vua từ đó. Chẳng ai biết được vị vua trẻ đó đang toan tính điều gì chỉ thấy chàng ta nhếch mép cười mỉm trông vẻ rất gian xảo.</p>
-
-<p>Tấm và vua kẻ tám lạng người nửa cân, hai người suốt ngày cãi nhau chí chóe chẳng ai chịu nhường ai, nhà vua ra sức hành hạ tấm thân ngọc ngà của tấm, nào là làm bia cho vua tập bắn, nào là làm bao cát cho vua tập oánh quyền&#8230; Tấm cũng chẳng vừa, Tấm bắt ruồi muỗi bỏ vào mồm vua lúc vua ngủ gật&#8230;. Chính vì thế mà cả hai người rất tâm đầu ý hợp, nhà vua thật sự rất sung sướng khi đã tìm được một ý trung nhân theo mong muốn của mình.</p>
-
-<p>Thấm thoắt đã đến ngày giỗ bố, Tấm xin phép vua cho nàng trở về nhà. Vừa đến nơi, Tấm đã bị dì ghẻ bắt trèo cau hái quả. Nàng bực mình lắm. Dù gì thì cũng đường đường là chánh cung hoàng hậu, vậy mà phải trèo cây cau. Nhưng rồi nghĩ đến nghĩa vụ làm con, nàng làu bàu vài câu rồi nghe theo lời của mẹ ghẻ, trèo lên cây và không quên cắp nách đôi giày đã đi vào lịch sử.
-Lại nói về mẹ con Cám, khi thấy Tấm đã ở chót vót trên ngọn cây, cả hai liền cầm rìu chạy ra mà mắm môi mắm lợi chặt gốc. Cây đổ ụp xuống ao khiến Tấm rơi xuống nước. Cho chắc ăn, mẹ con Cám gí điện xuống nước cho Tấm chết hẳn. Báo hại mấy trai làng đang tắm cách đó không xa cũng bị một phen điện giật. Thấy Tấm đã chết hẳn, Cám mới lấy quần áo của Tấm và mặc vào người rồi đi thẳng vào cung.</p>
-
-<p>Tấm chết đi hoá thành chim vàng anh. Nàng muốn bay vào cung lắm. Nàng muốn được nhìn thấy nhà vua hàng ngày. Nhưng nàng không dám. Không chỉ riêng nàng, tất cả loài chim trong vùng chỉ nghe đến tên nhà vua là đều bay mất dép. Chả là nhà vua đang tập bắn chim. Con vật xấu số nhất bị vua bắn chết mới chỉ cách đây mấy ngày bằng cả một băng AK. Nàng chỉ dám đến bên vua mỗi khi đêm về và hót cho vua nghe những điệu nhạc mà chính nàng cũng không thể hót lại được lần thứ hai. Thấy con chim lạ cứ quấn quít bên mình, một hôm vua hỏi:</p>
-
-<p>&#8211; Vàng ảnh vàng anh, có phải vợ anh chui vào ống quần</p>
-
-<p>Nghe vậy, vàng anh bay vào ngay, và suýt chết ngạt trong đó&#8230;</p>
-
-<p>Từ ngày có vàng anh, nhà vua quên cả Cám mỗi khi đêm về khiến Cám tức lắm. Nó bèn sai quân lính bắt chim, vặt sạch lông vứt ra vườn. Từ đám lông ấy mọc ra hai cây soan đào. Vua thấy đẹp, bỏ chơi chim chuyển sang chơi cây. Cám tức mình lại sai chặt sạch cây trong vườn và lấy gỗ đóng thành khung cửi. Niềm vui chẳng trọn vẹn. Hôm sau suýt nữa thì Cám bị truy tố vì tội lâm tặc.</p>
-
-<p>Khung cửi hàng ngày phát ra tiếng kêu:</p>
-
-<blockquote><p>Kẽo cà kẽo kẹt, lấy tranh chồng chị, chị khoét mắt cho</p></blockquote>
-
-<p>Điên tiết, Cám đốt thành tro và đem rải ra đường. Từ đám tro ấy lại mọc lên cây thị, và chỉ có duy nhất một quả&#8230;</p>
-
-<p>Lại nói về nhà vua. Từ ngày Cám về cung, nhà vua cảm thấy có điều gì lạ lạ. Vua sinh buồn phiền, ngày ngày dạo chơi khắp nơi cho khuây khoả. Một hôm, khát nước, vua đi qua quán của bà già nọ. Vua kêu hai cốc trà đá. Bà cụ mời vua miếng trầu. Thấy miếng trầu ngon sao giống của hoàng hậu têm ngày trước, nhà vua mới gặng hỏi, đồng thời xin bà miếng nữa&#8230;</p>
-
-<p>Thì ra một lần bà lão đi ngang qua cây thị, thấy có quả thị ngon, bà mới nói</p>
-
-<p>&#8211; Thị ơi thị rụng bị bà, bà để bà ăn chứ bà không ngửi.</p>
-
-<p>Gọi mãi, gọi mãi mà thị không rơi, bà mới dùng dép ném. Thấy quả thị đẹp, bà lão mang về nhà để ngắm hàng ngày. Nhưng kỳ lạ làm sao, từ ngày có thị, mỗi lần bà lão đi ra khỏi nhà, khi quay về, nhà cửa lại gọn gàng sạch sẽ, cơm nước đầy đủ. Bà ngạc nhiên lắm. Bà kể cho mọi người nghe, và sau đó phải giấu biệt thị vì ai cũng muốn mượn. Rồi một ngày bà giả vờ đi ra khỏi nhà rồi sau đó quay lại, bà thấy trong quả thị có một người con gái nết na, xinh đẹp bước ra. Bà mừng lắm, chạy vội lại xé tan vỏ thị. Từ đó Tấm ở lại với bà lão.</p>
-
-<p>Khi vua hỏi, bà mới gọi Tấm ra. Hai vợ chồng nhận ra nhau, mừng mừng tủi tủi. Sau đó vua đưa Tấm về cung lại làm hoàng hậu.</p>
-
-<h3>Phần kết</h3>
-
-<p>Gặp Tấm, thấy nàng xinh đẹp hơn xưa, Cám mới hỏi:</p>
-
-<p>&#8211; Chị Tấm ơi, chị làm thế nào mà đẹp thế?</p>
-
-<p>Tấm mới sai đào một cái hố sâu, bảo Cám đứng dưới để Tấm giội nước sôi xuống. Cám vui lắm. Vậy là nó lại sắp được đẹp như Tấm rồi. Cám cười rạng rỡ và không quên dặn Tấm phải đun nước thật sôi giội cho sướng&#8230;</p>
-
-<p>Cám chết, Tấm băm vằm xác Cám làm nghìn mảnh, nấu mắm rồi sai quân lính đóng chum dán nhãn Phú Quốc đem biếu dì ghẻ. Dì ghẻ đang ăn khen ngon, bỗng có con quạ đến kêu rằng:</p>
-
-<p>&#8211; Ngon gì mà ngon, mẹ ăn thịt con có còn xin miếng.</p>
-
-<p>Dì ghẻ giật mình, nhìn xuống đáy chum thấy đầu của Cám. Mụ kêu to ba tiếng rồi lăn đùng ra chết. Tấm cũng suýt bị truy tố vì tội giết người cũng may mắn là có ô dù to nâng đỡ nên mới thoát nạn&#8230;</p>
-
-<p>Từ đó Tấm suốt ngày ở trong cung chẳng dám đi đâu sợ dân chúng chửi bới chê cười bởi chí ít gì thì Tấm cũng là đương kim hoàng hậu mà.</p>
 ]]></content>
   </entry>
   

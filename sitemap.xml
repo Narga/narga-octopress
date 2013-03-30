@@ -54,7 +54,7 @@
         <loc>
             http://Narga.github.com/narga-octopress/2005/06/ai-la-nguoi-may-man-nhat-truyen-kim-dung/
         </loc>
-        <lastmod>2013-03-30T16:38:32+07:00</lastmod>
+        <lastmod>2013-03-30T16:40:26+07:00</lastmod>
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/2005/07/writing-on-your-palm/</loc>
@@ -81,6 +81,10 @@
         <lastmod>2013-03-30T11:51:10+07:00</lastmod>
     </url>
     <url>
+        <loc>http://Narga.github.com/narga-octopress/2005/10/top-100-words-in-anime/</loc>
+        <lastmod>2013-03-30T16:44:50+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://Narga.github.com/narga-octopress/2005/10/opera-tips/</loc>
         <lastmod>2013-03-30T11:51:10+07:00</lastmod>
     </url>
@@ -98,9 +102,21 @@
     </url>
     <url>
         <loc>
+            http://Narga.github.com/narga-octopress/2006/01/nhung-cau-noi-noi-tieng-trong-be-boi-bong-da-viet-nam/
+        </loc>
+        <lastmod>2013-03-30T16:41:59+07:00</lastmod>
+    </url>
+    <url>
+        <loc>
             http://Narga.github.com/narga-octopress/2006/01/intel-application-accelerator-v23/
         </loc>
         <lastmod>2013-03-30T11:51:10+07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://Narga.github.com/narga-octopress/2006/01/tai-sao-meo-roi-tu-tren-cao-khong-chet/
+        </loc>
+        <lastmod>2013-03-30T16:43:28+07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -126,7 +142,7 @@
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/blog/archives/</loc>
-        <lastmod>2013-03-30T16:38:32+07:00</lastmod>
+        <lastmod>2013-03-30T16:44:50+07:00</lastmod>
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/robots.txt</loc>
@@ -134,6 +150,6 @@
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/</loc>
-        <lastmod>2013-03-30T16:38:32+07:00</lastmod>
+        <lastmod>2013-03-30T16:44:50+07:00</lastmod>
     </url>
 </urlset>
