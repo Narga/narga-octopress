@@ -4,7 +4,7 @@
   <title><![CDATA[Category: SEO/SEM | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/seo-slash-sem/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-31T00:09:44+07:00</updated>
+  <updated>2013-03-31T00:10:11+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -91,8 +91,9 @@ margin-left: 10px;
 
 <p><code>css
 margin: 20px 10px 20px 10px;
-</code>
-Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.</p>
+</code></p>
+
+<p>Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.</p>
 
 <p>Nếu chưa thạo về code, công cụ trực tuyến nhỏ Clean CSS sẽ giúp bạn công đoạn tối ưu này, loại bỏ những khai báo thừa và khoảng trống vô nghĩa. Bạn có thể tham khảo <a href="http://www.cleancss.com/">tại đây</a>.</p></li>
 <li><p><strong>Tối ưu hóa hình ảnh</strong>: Có 4 loại định dạng hình ảnh sử dụng phổ biến trên web: <strong>PNG, JPG, JPEG và GIF</strong>. Hầu hết các phần mềm xử lý ảnh như Adobe Photoshop đều có tính năng “Save for Web” để tối ưu tỉ lệ giữa chất lượng hình và kích thước file.</p>
