@@ -82,11 +82,21 @@
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/2005/10/top-100-words-in-anime/</loc>
-        <lastmod>2013-03-30T16:53:25+07:00</lastmod>
+        <lastmod>2013-03-30T16:54:22+07:00</lastmod>
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/2005/10/opera-tips/</loc>
         <lastmod>2013-03-30T11:51:10+07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Narga.github.com/narga-octopress/2005/10/nghe-thuat-tu-choi/</loc>
+        <lastmod>2013-03-30T16:56:32+07:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak/
+        </loc>
+        <lastmod>2013-03-30T16:58:04+07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -131,8 +141,12 @@
         <lastmod>2013-03-30T11:51:10+07:00</lastmod>
     </url>
     <url>
+        <loc>http://Narga.github.com/narga-octopress/2006/03/free-to-send-sms/</loc>
+        <lastmod>2013-03-30T17:00:40+07:00</lastmod>
+    </url>
+    <url>
         <loc>http://Narga.github.com/narga-octopress/2006/03/truyen-thu-vi-doi-thuong/</loc>
-        <lastmod>2013-03-30T11:51:10+07:00</lastmod>
+        <lastmod>2013-03-30T17:03:43+07:00</lastmod>
     </url>
     <url>
         <loc>
@@ -142,7 +156,7 @@
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/blog/archives/</loc>
-        <lastmod>2013-03-30T16:53:25+07:00</lastmod>
+        <lastmod>2013-03-30T17:03:43+07:00</lastmod>
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/robots.txt</loc>
@@ -150,6 +164,6 @@
     </url>
     <url>
         <loc>http://Narga.github.com/narga-octopress/</loc>
-        <lastmod>2013-03-30T16:53:25+07:00</lastmod>
+        <lastmod>2013-03-30T17:03:43+07:00</lastmod>
     </url>
 </urlset>

@@ -1,0 +1,204 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Thủ thuật Windows XP - NARGA</title>
+	<meta name="author" content="Nguyễn Đình Quân">
+
+	
+	<meta name="description" content="Bảo vệ và tăng tốc ổ cứng Khi mà ổ cứng của ngày càng đầy lên, hệ điều hành sẽ “nhét” những tệp tin dữ liệu mới lên ổ cứng vào bất kỳ chỗ nào còn &hellip;">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link href="feeds.feedburner.com/mrnarga" rel="alternate" title="NARGA" type="application/atom+xml">
+	<link rel="canonical" href="">
+	<link href="/narga-octopress/favicon.png" rel="shortcut icon">
+	<link href="/narga-octopress/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	
+</head>
+
+<body>
+	<header id="header" class="inner"><h1><a href="/narga-octopress/">NARGA</a></h1>
+<nav id="main-nav"><ul class="main">
+	<li><a href="/narga-octopress/">Blog</a></li>
+	<li><a href="/narga-octopress/blog/archives">Archives</a></li>
+</ul>
+</nav>
+<nav id="mobile-nav">
+	<div class="alignleft menu">
+		<a class="button">Menu</a>
+		<div class="container"><ul class="main">
+	<li><a href="/narga-octopress/">Blog</a></li>
+	<li><a href="/narga-octopress/blog/archives">Archives</a></li>
+</ul>
+</div>
+	</div>
+	<div class="alignright search">
+		<a class="button"></a>
+		<div class="container">
+			<form action="http://google.com/search" method="get">
+				<input type="text" name="q" results="0">
+				<input type="hidden" name="q" value="site:Narga.github.com/narga-octopress">
+			</form>
+		</div>
+	</div>
+</nav>
+<nav id="sub-nav" class="alignright">
+	<div class="social">
+		
+		
+		<a class="google" href="https://plus.google.com/mrnarga@gmail.com?rel=author" title="Google+">Google+</a>
+		
+		
+		<a class="twitter" href="http://twitter.com/narga" title="Twitter">Twitter</a>
+		
+		
+		<a class="github" href="https://github.com/narga" title="GitHub">GitHub</a>
+		
+    
+		
+		
+		
+		
+		<a class="delicious" href="http://delicious.com/Narga" title="Delicious">Delicious</a>
+		
+		
+		<a class="rss" href="feeds.feedburner.com/mrnarga" title="RSS">RSS</a>
+		
+	</div>
+	<form class="search" action="http://google.com/search" method="get">
+		<input class="alignright" type="text" name="q" results="0">
+		<input type="hidden" name="q" value="site:Narga.github.com/narga-octopress">
+	</form>
+</nav>
+
+</header>
+	
+		
+	
+	<div id="content" class="inner"><article class="post">
+	<h2 class="title">Thủ Thuật Windows XP</h2>
+	<div class="entry-content"><h3>Bảo vệ và tăng tốc ổ cứng</h3>
+
+<p>Khi mà ổ cứng của ngày càng đầy lên, hệ điều hành sẽ “nhét” những tệp tin dữ liệu mới lên ổ cứng vào bất kỳ chỗ nào còn khoảng trống. Đôi khi khi có những tệp tin sẽ bị chia ra thành rất nhiều những phần nhỏ khác nhau để cho phù hợp với dung lượng khoảng trống còn lại trên ổ đĩa. Nếu có quá nhiều tệp tin bị chia nhỏ - hay còn gọi là phân mảnh – thì không những ổ cứng của bạn mà cả hệ điều hành của bạn đều sẽ bị chậm đi rất nhiều không những thế mà còn tăng nguy cơ bị mất dữ liệu.</p>
+
+<!-- more -->
+
+
+<p>Giải pháp ở đây là bạn có thể sử dụng công cụ dọn phân mảnh  của hệ điều hành <strong>Disk Defragmenter</strong> bằng cách vào <em>Start | All Programs |  Accessories | System Tools</em> rồi chọn ổ đĩa bạn muốn “dọn dẹp” nhấp Ok rồi ngồi  chờ.</p>
+
+<p>Tuy nhiên, có một số tệp tin mà bạn không thể di chuyển được trong quá trình thực hiện dọn dẹp phân mảnh ổ cứng. Những tệp tin này vẫn bị phân mảnh ngay cả sau khi bạn đã chạy <strong>Disk Defragmenter</strong>. Hầu hết các tệp tin dữ liệu này  là Master File Table (MFT) hoặc SWAP (RAM ảo).</p>
+
+<p>Cách duy nhất là dọn dẹp các tệp tin SWAP là phải xoá những tệp tin này trước khi sử dụng công cụ Disk Defragmenter – tuy nhiên bạn hãy cẩn thận chắc chắn rằng hệ thống của bạn có ít nhất 256MB RAM thì mới có thể bỏ tệp tin SWAP đi được.</p>
+
+<p>Để bỏ tệp tin  SWAP bạn hãy vào <em>Control Panel | System | Advanced tab | Performance Settings |  Advanced tab | Change</em>. Tại mục Virtual Memory bạn chọn “No paging file” nhắp vào Set rồi OK là xong. Giờ bạn hãy thực hiện công việc dọn dẹp phân mảnh ổ cứng. Sau khi đã dọn dẹp xong bạn hãy vào lại mục Virtual Memory thiết lập thông số cho RAM ảo của bạn. Tăng RAM ảo có thể giúp hệ thống của bạn tăng tốc. Nếu còn dư ổ cứng thì bạn hãy đặt Initial size là 500Mb và Maximum size là 2048MB thì không những ổ cứng mà cả những tệp tin MP3 sẽ nghe hay hơn rất nhiều.</p>
+
+<p>Còn đối với những tệp tin MFT - những tệp tin hệ thống chỉ có mặt trên các ổ cứng định dạng NTFS – thì không thể di chuyển được. Khi mà ổ cứng của bạn lưu càng nhiều dữ liệu thì các tệp tin MFT cũng tăng dung lượng và bị phân mảnh.</p>
+
+<p>Tuy nhiên, nói như thế không có nghĩa là bạn không thể di chuyển được chúng, một thủ thuật sửa Registry sẽ giúp bạn giải quyết được vấn đều này. Bạn vào Run và gõ lệnh regedit để mở trình biên tập Registry.</p>
+
+<p>Sau khi trình biên tập Registry khởi động bạn hãy tìm đến khoá <strong>HKEY_ LOCAL_MACHINESYSTEMCurrentControlSetControlFilesystem</strong> rồi nhắp đúp lên khoá NtfsMftZoneReservation bên phía tay phải và nhập giá trị trong khoả từ 2 đến 4 vào đó – giá trị mặc định là 1 tương đương với 12,5% dung lượng ổ cứng dành cho tệp tin MFT, giá trị 2-3 là là từ 25-37,5% và 4 là 50%. Đóng trình biên tập Registry rồi khởi động lại hệ thống của bạn.</p>
+
+<h3>Cách truy xuất dữ liệu từ ổ CD nhanh hơn</h3>
+
+<p>Chỉ cần có chút tuỳ chỉnh trong registry thì ổ CD-ROM của bạn sẽ hoạt động nhanh hơn khá nhiều. Thủ thuật nhỏ sẽ giúp cho ổ CD của bạn đọc dữ liệu nhanh hơn; lưu đoạn mã sau dưới dạng file .reg của Windows sau đó chạy nó để thay đổi các thông tin trong Registry</p>
+
+<p><code>Windows Registry Editor Version 5.00
+;Read CD-Room Faster
+[HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControl]
+"CacheSize"=hex:ff,ff,00,00
+"Prefetch"=dword:00004000
+"PrefetchTail"=dword:00004000
+</code></p>
+</div>
+
+
+<div class="meta">
+	<div class="date">
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2005-10-22T14:54:48+07:00" pubdate data-updated="true">Oct 22<span>nd</span>, 2005</time></div>
+	<div class="tags">
+
+
+	<a class='category' href='/narga-octopress/categories/cong-nghe/'>Công nghệ</a>
+
+
+</div>
+	
+		<div class="comments"><a href="/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak/#disqus_thread">Comments</a></div>
+	
+</div></article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+
+<section id="comment">
+    <h2 class="title">Comments</h2>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+</div>
+	<footer id="footer" class="inner">Copyright &copy; 2013
+
+    Nguyễn Đình Quân
+
+</footer>
+	<script src="/narga-octopress/javascripts/slash.js"></script>
+<script src="/narga-octopress/javascripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+(function($){
+	$('.fancybox').fancybox();
+})(jQuery);
+</script> <!-- Delete or comment this line to disable Fancybox -->
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'archviet';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak/';
+        var disqus_url = 'http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+</body>
+</html>

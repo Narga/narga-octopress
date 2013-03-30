@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Công nghệ | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/cong-nghe/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T16:53:31+07:00</updated>
+  <updated>2013-03-30T17:03:53+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Cách nhắn tin vào điện thoại di động miễn phí]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2006/03/free-to-send-sms/"/>
+    <updated>2006-03-03T21:54:19+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2006/03/free-to-send-sms</id>
+    <content type="html"><![CDATA[<p>Trang Web <a href="http://www.romsms.com/?refid=WBA1p32q">ROMSMS</a>, tin nhắn có thể gửi đến các ĐTDĐ trên toàn thế giới, trong đó có Việt Nam.
+Đây là trang web của  Rumani nên giao diện mặc định của nó là tiếng Rumani, để chuyển sang tiếng Anh bạn chỉ cần bấm vào hình là cớ <a href="http://www.romsms.com/operator/login.php?back_page=/operator/quicksms.php&amp;set_lang=1">Liên hiệp Anh</a> ở phía trên bên phải gần logo <a href="http://www.romsms.com/?refid=WBA1p32q">ROMSMS</a> ở phía trên cùng của trang Web.
+Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gửi tin nhắn tới bất kỳ người thân nào của bạn.</p>
+
+<blockquote><p><strong>Lưu ý</strong>:
+  * Số điện thoại phải để ở dạng quốc tế, nghĩa là có mã vùng quốc gia đặt ở trước (của Việt Nam là 84), ví dụ 84912xxxxxxx.</p>
+
+<ul>
+<li><p>Sau khi đăng kí ROMSMS sẽ gửi mật khẩu đăng nhập cho bạn tới chính sô điện thoại bạn vừa đăng kí, từ đây bạn có thể gửi tin nhắn như trên điện thoại của bạn.</p></li>
+<li><p>Người nhận sẽ không nhận được các tin nhắn tiếng Việt đơn giản vì nó không phục vụ riêng cho người Việt</p></li>
+</ul>
+</blockquote>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tăng tốc CPU với Intel® Application Accelerator]]></title>
@@ -74,6 +94,46 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Thủ thuật Windows XP]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak/"/>
+    <updated>2005-10-22T14:54:48+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak</id>
+    <content type="html"><![CDATA[<h3>Bảo vệ và tăng tốc ổ cứng</h3>
+
+<p>Khi mà ổ cứng của ngày càng đầy lên, hệ điều hành sẽ “nhét” những tệp tin dữ liệu mới lên ổ cứng vào bất kỳ chỗ nào còn khoảng trống. Đôi khi khi có những tệp tin sẽ bị chia ra thành rất nhiều những phần nhỏ khác nhau để cho phù hợp với dung lượng khoảng trống còn lại trên ổ đĩa. Nếu có quá nhiều tệp tin bị chia nhỏ - hay còn gọi là phân mảnh – thì không những ổ cứng của bạn mà cả hệ điều hành của bạn đều sẽ bị chậm đi rất nhiều không những thế mà còn tăng nguy cơ bị mất dữ liệu.</p>
+
+<!-- more -->
+
+
+<p>Giải pháp ở đây là bạn có thể sử dụng công cụ dọn phân mảnh  của hệ điều hành <strong>Disk Defragmenter</strong> bằng cách vào <em>Start | All Programs |  Accessories | System Tools</em> rồi chọn ổ đĩa bạn muốn “dọn dẹp” nhấp Ok rồi ngồi  chờ.</p>
+
+<p>Tuy nhiên, có một số tệp tin mà bạn không thể di chuyển được trong quá trình thực hiện dọn dẹp phân mảnh ổ cứng. Những tệp tin này vẫn bị phân mảnh ngay cả sau khi bạn đã chạy <strong>Disk Defragmenter</strong>. Hầu hết các tệp tin dữ liệu này  là Master File Table (MFT) hoặc SWAP (RAM ảo).</p>
+
+<p>Cách duy nhất là dọn dẹp các tệp tin SWAP là phải xoá những tệp tin này trước khi sử dụng công cụ Disk Defragmenter – tuy nhiên bạn hãy cẩn thận chắc chắn rằng hệ thống của bạn có ít nhất 256MB RAM thì mới có thể bỏ tệp tin SWAP đi được.</p>
+
+<p>Để bỏ tệp tin  SWAP bạn hãy vào <em>Control Panel | System | Advanced tab | Performance Settings |  Advanced tab | Change</em>. Tại mục Virtual Memory bạn chọn “No paging file” nhắp vào Set rồi OK là xong. Giờ bạn hãy thực hiện công việc dọn dẹp phân mảnh ổ cứng. Sau khi đã dọn dẹp xong bạn hãy vào lại mục Virtual Memory thiết lập thông số cho RAM ảo của bạn. Tăng RAM ảo có thể giúp hệ thống của bạn tăng tốc. Nếu còn dư ổ cứng thì bạn hãy đặt Initial size là 500Mb và Maximum size là 2048MB thì không những ổ cứng mà cả những tệp tin MP3 sẽ nghe hay hơn rất nhiều.</p>
+
+<p>Còn đối với những tệp tin MFT - những tệp tin hệ thống chỉ có mặt trên các ổ cứng định dạng NTFS – thì không thể di chuyển được. Khi mà ổ cứng của bạn lưu càng nhiều dữ liệu thì các tệp tin MFT cũng tăng dung lượng và bị phân mảnh.</p>
+
+<p>Tuy nhiên, nói như thế không có nghĩa là bạn không thể di chuyển được chúng, một thủ thuật sửa Registry sẽ giúp bạn giải quyết được vấn đều này. Bạn vào Run và gõ lệnh regedit để mở trình biên tập Registry.</p>
+
+<p>Sau khi trình biên tập Registry khởi động bạn hãy tìm đến khoá <strong>HKEY_ LOCAL_MACHINESYSTEMCurrentControlSetControlFilesystem</strong> rồi nhắp đúp lên khoá NtfsMftZoneReservation bên phía tay phải và nhập giá trị trong khoả từ 2 đến 4 vào đó – giá trị mặc định là 1 tương đương với 12,5% dung lượng ổ cứng dành cho tệp tin MFT, giá trị 2-3 là là từ 25-37,5% và 4 là 50%. Đóng trình biên tập Registry rồi khởi động lại hệ thống của bạn.</p>
+
+<h3>Cách truy xuất dữ liệu từ ổ CD nhanh hơn</h3>
+
+<p>Chỉ cần có chút tuỳ chỉnh trong registry thì ổ CD-ROM của bạn sẽ hoạt động nhanh hơn khá nhiều. Thủ thuật nhỏ sẽ giúp cho ổ CD của bạn đọc dữ liệu nhanh hơn; lưu đoạn mã sau dưới dạng file .reg của Windows sau đó chạy nó để thay đổi các thông tin trong Registry</p>
+
+<p><code>Windows Registry Editor Version 5.00
+;Read CD-Room Faster
+[HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControl]
+"CacheSize"=hex:ff,ff,00,00
+"Prefetch"=dword:00004000
+"PrefetchTail"=dword:00004000
+</code></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Opera Tips]]></title>
     <link href="http://Narga.github.com/narga-octopress/2005/10/opera-tips/"/>
     <updated>2005-10-10T08:08:45+07:00</updated>
@@ -92,81 +152,6 @@
 <li><p>Use standard windows skin, and disable special effects. Even though this doesn't speed things up much if you have a fairly fast computer, every little thing counts.</p></li>
 </ol>
 </blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Một vài thuật ngữ thường gặp!]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/09/thuat-ngu/"/>
-    <updated>2005-09-29T07:02:14+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/09/thuat-ngu</id>
-    <content type="html"><![CDATA[<p>Thỉnh thoảng tôi có gặp một số từ chuyên môn khi đọc một tài liệu hay bài báo nào đó mà không rõ lắm về ý biểu đạt của nó, mất công tìm hiểu khá lâu mà không có rồi vô tình bất chợt hiểu ra. Tự nghĩ rằng cũng có người giống như mình nên viết bài này, hy vọng nó hữu ích. Nội dung sẽ cập nhật dần vì không phải ngồi một lúc là viết ra được , những từ được đánh dấu màu hy vọng một ai đó giải thích dùm</p>
-
-<ul>
-<li><p><strong>nightly builds</strong>: người ta check in and out files từ chung một server, rồi compile mỗi đêm (nightly builds) sáng hôm sau hè nhau sửa lỗi rồi code tiếp  hiểu vậy cũng được nhưng không có nghĩa là đêm nào cũng build. Nó có nghĩa là phiên bản re-build cuối cùng để giúp cho ai có lòng tốt đem về chạy thử vào thông báo lỗi nếu có!</p></li>
-<li><p><strong>trackback và ping</strong>: được sử dụng trong <a href="http://www.wordpress.org">WordPress</a> cũng như trong thế giới blog có nghĩa là các bài viết sẽ được chỉ mục tại các website khác cũng sử dụng WordPress.</p></li>
-<li><p><strong>aka</strong>: aka = as know as = aka = as know as = cũng có tên khác là</p></li>
-<li>k.s (kill stealing): giết tranh quái vật, từ này thường dùng trong các game online, khi nói k.s nghĩa là bạn đang giết tranh một hay nhiều quái vật khi chơi</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Taking care of CDs]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds/"/>
-    <updated>2005-09-23T03:37:43+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/09/taking-care-of-cds</id>
-    <content type="html"><![CDATA[<h3>Do:</h3>
-
-<ol>
-<li><p>Handle discs by the outer edge or the center hole.</p></li>
-<li><p>Use a non-solvent-based felt-tip permanent marker to mark the label side of the disc.</p></li>
-<li><p>Keep dirt or other foreign matter from the disc.</p></li>
-<li><p>Store discs upright (book style) in plastic cases specified for CDs and DVDs.</p></li>
-<li><p>Return discs to storage cases immediately after use.</p></li>
-<li><p>Leave discs in their packaging (or cases) to minimize the effects of environmental changes.</p></li>
-<li><p>Open a recordable disc package only when you are ready to record data on that disc.</p></li>
-<li><p>Store discs in a cool, dry, dark environment in which the air is clean.</p></li>
-<li><p>Remove dirt, foreign material, fingerprints, smudges, and liquids by wiping with a clean cotton fabric in a straight line from the center of the disc toward the outer edge.</p></li>
-<li><p>Use CD/DVD-cleaning detergent, isopropyl alcohol, or methanol to remove stubborn dirt or material.</p></li>
-<li><p>Check the disc surface before recording.</p></li>
-</ol>
-
-
-<!-- more -->
-
-
-<h3>Do not:</h3>
-
-<ol>
-<li><p>Touch the surface of the disc.</p></li>
-<li><p>Bend the disc.</p></li>
-<li><p>Use adhesive labels.</p></li>
-<li><p>Store discs horizontally for a long time (years).</p></li>
-<li><p>Open a recordable optical disc package if you are not ready to record.</p></li>
-<li><p>Expose discs to extreme heat or high humidity.</p></li>
-<li><p>Expose discs to extremely rapid temperature or humidity changes.</p></li>
-<li><p>Expose recordable discs to prolonged sunlight or other sources of ultraviolet light.</p></li>
-<li><p>Write or mark in the data area of the disc (the area the laser "reads" ).</p></li>
-<li><p>Clean by wiping in a direction going around the disc.</p></li>
-</ol>
-
-
-<h3>For CDs especially do not:</h3>
-
-<ol>
-<li><p>Scratch the label side of the disc.</p></li>
-<li><p>Use a pen, pencil, or fine-tip marker to write on the disc.</p></li>
-<li><p>Write on the disc with markers that contain solvents.</p></li>
-<li><p>Try to peel off or reposition a label.</p></li>
-</ol>
-
-
-<p>... there is consensus that, under recommended storage conditions, CD-R, DVD-R, and DVD+R discs should have a life expectancy of 100 to 200 years or more; CD-RW, DVD-RW, DVD+RW, and DVD-RAM discs should have a life expectancy of 25 years or more. Little information is available for CD-ROM and DVD-ROM discs (including audio and video), resulting in an increased level of uncertainty for their life expectancy. Expectations vary from 20 to 100 years for these discs.
-... CD-R and DVD-R discs have a shelf life of 5 to 10 years before recording.
-... the life expectancy for RW and RAM discs will be less than that of R discs.
-...The data on the phase-changing metal alloy film layer can be erased and rewritten to a limited number of times (about 1,000 times for RW discs and about 100,000 times for RAM discs). &lt; !--></p>
 ]]></content>
   </entry>
   
