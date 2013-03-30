@@ -4,7 +4,7 @@
   <title><![CDATA[NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-30T17:03:53+07:00</updated>
+  <updated>2013-03-30T17:08:56+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -37,15 +37,75 @@ Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các 
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Tăng chỉ số Google PageRank™ - sự thật và những lầm tưởng]]></title>
+    <link href="http://Narga.github.com/narga-octopress/2010/06/tang-chi-so-google-pagerank-su-that-va-nhung-lam-tuong/"/>
+    <updated>2010-06-16T19:00:47+07:00</updated>
+    <id>http://Narga.github.com/narga-octopress/2010/06/tang-chi-so-google-pagerank-su-that-va-nhung-lam-tuong</id>
+    <content type="html"><![CDATA[<p><img src="http://Narga.github.com/narga-octopress/images/2010/06/google-pagerank.jpg" alt="Tăng chỉ số Google PageRank™, sự thật và lầm tưởng" /></p>
+
+<h3>Google PageRank™</h3>
+
+<p><strong>Google PageRank™</strong> là một chỉ số của hãng tìm kiếm Google nhằm đánh giá mức độ tin cậy và giá trị nội dung của một website, chỉ số này được chia làm 11 bậc từ 0 đến 10. Thuật ngữ <strong>PageRank™</strong> là một thương hiệu được bảo hộ của Google, do <em>Larry Page</em> và <em>Sergey Brin</em> phát triển tại trường đại học Stanford của Mỹ trong một dự án nghiên cứu về công cụ tìm kiếm năm 1995.</p>
+
+<p>Google sử dụng một thuật toán riêng rất phức tạp từ các chỉ số, ý kiến, thông số kỹ thuật&#8230; để xác định chỉ số PageRank™ cho một webpages, chính vì thế, rất nhiều người, công ty, tổ chức đã tìm hiểu về thuật toán này cũng như cách thức khai thác nó để có một giá trị cao nhất (chứ không phải là tốt nhất vì càng cao thì giá trị càng cao).</p>
+
+<h3>Google PageRank™ mang lại những gì?</h3>
+
+<p>Có rất nhiều cách giải thích và liệt kê khác nhau, tôi không muốn kể hết ra đây mà muốn nói về cái giá trị chính: Google PageRank™ của website càng cao thì sẽ xuất hiện ở vị trí cao trong kết quả tìm kiếm của Google, nâng cao giá trị của tên miền và độ tin cậy của nội dung.</p>
+
+<p>Lưu ý: Chính Google cũng khuyên người dùng không nên quá quan tâm vào chỉ số Google PageRank™ mà nội dung mới quan trọng, trong một phỏng vấn gần đây họ đã nói về việc dần loại bỏ chỉ số này trong bộ công cụ cho các nhà phát triển.</p>
+
+<!-- more -->
+
+
+<h3>Tăng chỉ số Google PageRank™ - sự thật và những lầm tưởng!</h3>
+
+<p>Ngày nay, có rất nhiều quảng cáo, tin đồn, mời chào&#8230; từ các công ty, cá nhân &#8230; nhằm mục đích cung cấp thông tin, giải pháp&#8230; cho các chủ sở hữu website về việc nâng cao lên thứ hạng của trang web của họ trên các công cụ tìm kiếm. Họ thuyết phục các chủ doanh nghiệp nhỏ bằng cách gửi email, thực hiện cuộc gọi, gửi tin nhắn &#8230; để được họ đồng ý cho thực hiện các giải pháp đó - thường là nâng chỉ số PageRank™ và trao đổi liên kết. Nhưng thực tế, những phương pháp thực hiện nhằm nâng cao chỉ số PageRank™ chỉ tạo được hiệu ứng nhất thời mà có tác hại rất xấu cho tên miền của chủ sở hữu về sau.
+Một vài lầm tưởng của người dùng về cách thức tăng chỉ số PageRank™:</p>
+
+<ol>
+<li><strong>Tốn thời gian</strong>: Một thực tế được thừa nhận là quá trình tăng chỉ số PageRank™ tốn rất nhiều thời gian, đặc biệt là hiệu quả của việc trao đổi liên kết để có thể ảnh hưởng đến chỉ số xếp hạng. Đừng bao giờ nghĩ rằng PageRank™ phụ thuộc nhiều vào hành động trao đổi liên kết và tăng chỉ số PageRank™ trong thời gian ngắn.</li>
+</ol>
+
+
+<p>  Chỉ số PageRank™ của một tên miền trong 2 năm đầu tiên thường là chỉ số tạm thời và nó sẽ dễ dàng bị thay đổi khi có một vài điều kiện nào đó không phù hợp. Chính vì vậy nhiều người vui mừng khi tên miền hay trang web của họ nhanh chóng được Google xếp hạng và tăng trong một vài tháng đầu, nhưng về sau sẽ khó mà duy trì.</p>
+
+<p><strong>Hậu quả</strong>: Trao đổi liên kết vô tội vạ và can thiệp vào việc dánh giá website bằng các thủ thuật để nâng cao chỉ số PageRank™ sẽ là con đường ngắn nhất để được coi là các splogs.</p>
+
+<ol>
+<li><strong>Thay đổi nhanh:</strong> PageRank™ mà người dùng có thể kiểm tra hoặc hiển thị thay đổi 3 tháng một lần, trong khi PageRank™ thực được cập nhật liên tục nhưng không được công bố cụ thể.</li>
+</ol>
+
+
+<p><strong>Hậu quả</strong>: Trong một thời gian ngắn, chỉ số PageRank™ có thể thay đổi nhưng không ai có thể chắc chắn là sau 3 tháng nó vẫn giữ được trị số hoặc tăng lên. Quá nôn nóng sử dụng các dịch vụ tăng chỉ số PageRank™ sẽ mất nhiều hơn được.</p>
+
+<ol>
+<li><strong>Giá trị tốt:</strong> Đối với PageRank™ thì liên kết ra ngoài tên miền (đến trang khác) không làm giảm giá trị PageRank™ đối với trang được chỉ đến thì nó được tính là backlink. Trong các yếu tố để xác định PageRank™ có một giá trị triệt tiêu nhằm xác định giá trị của một backlink. Backlink từ những nguồn, trang đáng tin cậy sẽ được đánh giá cao, khi đó giá trị triệt tiêu thấp và ảnh hưởng tốt đến PageRank™.</li>
+</ol>
+
+
+<p><strong>Hậu quả:</strong> Không có kiến thức về giá trị của nguồn backlink sẽ dẫn đến hiệu quả thấp hơn mong muốn rất nhiều. Hiện nay có nhiều tranh cãi về backlink của các tên miền .edu, tuy nhiên theo cá nhân mình thì nguồn backlink của .edu tùy từng quốc gia mới có tác dụng nhất định, không phải là cứ mua backlink là có nguồn tốt, đặc biệt là nguồn backlink của edu.vn, toàn virus với spam thì chỉ khiến cho PageRank™ giảm đi mà thôi.</p>
+
+<ol>
+<li><strong>Sự lạc hậu của PageRank™:</strong>PageRank™ đã được tạo ra và hình thành từ rất lâu nên đã trở nên quá lạc hậu. Một website không thể chỉ dựa vào một thang điểm để đánh giá về chất lượng nội dung được. Đã qua rồi cái thời của backlink, cái thời mà directory còn ngự trị trong lĩnh vực SEO.
+<strong>Hậu quả:</strong> Chi phí để tăng giá trị PageRank™ có thể dùng để cải tổ nội dung và hình thức của website để thu hút và tăng traffic hiệu quả hơn nhiều lần.</li>
+</ol>
+
+
+<p>Sự thật và những lầm tưởng luôn đối lập nhau, cái mà bạn nghĩ thường không giống với những gì đang diễn ra. Google PageRank™ chỉ là một chỉ số riêng của Google, nó chỉ là một phần của thước đo giá trị nội dung của một trang trên mạng. Không nên quá chú trọng vào việc tăng PageRank™ mà cần đầu tư vào giá trị nội dung và cách trình bày. SEO là tốt nhưng không phải là tất cả.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Những truyện thú vị đời thuờng]]></title>
     <link href="http://Narga.github.com/narga-octopress/2006/03/truyen-thu-vi-doi-thuong/"/>
     <updated>2006-03-08T09:57:58+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2006/03/truyen-thu-vi-doi-thuong</id>
     <content type="html"><![CDATA[<p>Dưới đây là một số truyện thú vị mình đọc trong những tình huống nhất định có chút ấn tượng (tại thời điểm đó) nên lưu lại tại bài viết này đề nếu ai cần thì có thể đọc được.</p>
 
-<blockquote><h3>Mái già với mái tơ</h3>
+<h3>Mái già với mái tơ</h3>
 
-<p>Có một lão giáo sãi tiến sư vợ chết sớm con cái trưởng thành mới sinh ra đốn đời lấy một con vợ trẻ mắt xanh mỏ đỏ chân dài đến nách nhìn nói chung là rất ư gợi tình hấp dẫn. Chuyện đến đó kể cũng chưa có gì đáng nói, chuyện đáng nói là bản thân lão cũng chẳng khoẻ khoắn gì tuần cố lắm thì được cái, con vợ trẻ mới sinh mèo mỡ lăng nhăng, mọi người xì xào lão vẫn điếc vẫn cứ kệ mẹ.</p>
+<blockquote><p>Có một lão giáo sãi tiến sư vợ chết sớm con cái trưởng thành mới sinh ra đốn đời lấy một con vợ trẻ mắt xanh mỏ đỏ chân dài đến nách nhìn nói chung là rất ư gợi tình hấp dẫn. Chuyện đến đó kể cũng chưa có gì đáng nói, chuyện đáng nói là bản thân lão cũng chẳng khoẻ khoắn gì tuần cố lắm thì được cái, con vợ trẻ mới sinh mèo mỡ lăng nhăng, mọi người xì xào lão vẫn điếc vẫn cứ kệ mẹ.</p>
 
 <p>Một hôm một lão cũng tiến sư giáo sãi cậy bạn bè lâu năm mới bảo:</p>
 
@@ -58,9 +118,9 @@ Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các 
 <!-- more -->
 
 
-<blockquote><h4>Nhầm hàng!</h4>
+<h4>Nhầm hàng!</h4>
 
-<p>Một cô gái trẻ đứng trên cầu và chuẩn bị nhảy xuống sông. Một chàng trai đi qua nhìn thấy liền hỏi:</p>
+<blockquote><p>Một cô gái trẻ đứng trên cầu và chuẩn bị nhảy xuống sông. Một chàng trai đi qua nhìn thấy liền hỏi:</p>
 
 <p>&#8211; Cô định tự tử ư?</p>
 
@@ -70,11 +130,11 @@ Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các 
 
 <p>&#8211; Cô xinh đẹp và đáng yêu như vậy, sao lại muốn tự tử?</p>
 
-<p>&#8211; Bố tôi mắng tôi chỉ vì tôi thích ăn mặc như… con gái!!!</p>
+<p>&#8211; Bố tôi mắng tôi chỉ vì tôi thích ăn mặc như… con gái!!!</p></blockquote>
 
 <h3>Sự khác biệt ở những cô gái tuổi 8, 18, 28, 38, 48, 58, 78, 78 và 88 là gì?</h3>
 
-<ul>
+<blockquote><ul>
 <li><p>8 tuổi - Bạn đưa nàng lên giường và kể cho nàng một câu chuyện.</p></li>
 <li><p>18 tuổi - Bạn kể cho nàng một câu chuyện và đưa nàng lên giường.</p></li>
 <li><p>28 tuổi - Bạn không cần kể câu chuyện nào và đưa nàng lên giường.</p></li>
@@ -85,23 +145,37 @@ Có thể trong thời gian tới tôi sẽ làm thêm một số gói cho các 
 <li><p>78 tuổi - Ngồi một mình trên giường và nhớ lại tất cả những câu chuyện trên</p></li>
 <li><p>88 tuổi nàng nằm một mình trên giường và bạn phải kể cho nàng nghe một câu chuyện</p></li>
 </ul>
-
+</blockquote>
 
 <h3>Toàn cầu hóa</h3>
 
-<p>Chiếc đồng hồ báo thức (MADE IN JAPAN) reo lên vào lúc 6h sáng. Sau khi đặt ấm nước (MADE IN CHINA) để pha cà phê (MADE IN BRAZIL), anh ta cạo râu với con dao mới mua (MADE IN HONGKONG). Anh ta mặc áo sơ-mi (MADE IN SRILANKA), quần bò (MADE IN SINGAPORE) và đi giầy (MADE IN KOREA), đeo đồng hồ (MADE IN TAIWAN). Anh ta ngồi vào xe ôtô (MADE IN GERMANY), bật radio (MADE IN INDIA) và tiếp tục chặng đường gian nan tìm kiếm một việc làm tốt ở AMERICA! Sau một ngày vất vả và không kết quả, anh ta quyết định thư giãn một chút. Anh ta cởi giầy ra, thay vào một đôi sandal (MADE IN BRAZIL), rót cho mình một cốc rượu (MADE IN FRANCE), bật TV (MADE IN INDONESIA), và vẫn còn băn khoăn tại sao anh không thể tìm được việc làm ở AMERICA</p>
+<blockquote><p>Chiếc đồng hồ báo thức (MADE IN JAPAN) reo lên vào lúc 6h sáng. Sau khi đặt ấm nước (MADE IN CHINA) để pha cà phê (MADE IN BRAZIL), anh ta cạo râu với con dao mới mua (MADE IN HONGKONG). Anh ta mặc áo sơ-mi (MADE IN SRILANKA), quần bò (MADE IN SINGAPORE) và đi giầy (MADE IN KOREA), đeo đồng hồ (MADE IN TAIWAN). Anh ta ngồi vào xe ôtô (MADE IN GERMANY), bật radio (MADE IN INDIA) và tiếp tục chặng đường gian nan tìm kiếm một việc làm tốt ở AMERICA! Sau một ngày vất vả và không kết quả, anh ta quyết định thư giãn một chút. Anh ta cởi giầy ra, thay vào một đôi sandal (MADE IN BRAZIL), rót cho mình một cốc rượu (MADE IN FRANCE), bật TV (MADE IN INDONESIA), và vẫn còn băn khoăn tại sao anh không thể tìm được việc làm ở AMERICA</p></blockquote>
 
 <h3>Mua ví</h3>
 
-<p> Ở chợ Đông Ba có một cô bán ví xách tay phụ nữ. Cô treo đủ loại ví, dãy trên dãy dưới và cô rao hàng như sau:
-- Bóp trên thì 2 ngàn
-- Bóp dưới thì 3 ngàn
-- Bóp da thì 5 ngàn
-- Bóp lông thì 8 trăm
-Có một anh khách cắt cớ hỏi cô:
-- Bóp ở mô thì rẻ nhứt cô?
-Cô trả lời ngay:
-- Dạ, bóp tui là rẻ nhứt, không mô rẻ hơn!</p></blockquote>
+<blockquote><p> Ở chợ Đông Ba có một cô bán ví xách tay phụ nữ. Cô treo đủ loại ví, dãy trên dãy dưới và cô rao hàng như sau:</p>
+
+<ul>
+<li><p>Bóp trên thì 2 ngàn</p></li>
+<li><p>Bóp dưới thì 3 ngàn</p></li>
+<li><p>Bóp da thì 5 ngàn</p></li>
+<li><p>Bóp lông thì 8 trăm</p></li>
+</ul>
+
+
+<p>Có một anh khách cắt cớ hỏi cô:</p>
+
+<ul>
+<li>Bóp ở mô thì rẻ nhứt cô?</li>
+</ul>
+
+
+<p>Cô trả lời ngay:</p>
+
+<ul>
+<li>Dạ, bóp tui là rẻ nhứt, không mô rẻ hơn!</li>
+</ul>
+</blockquote>
 ]]></content>
   </entry>
   
@@ -774,42 +848,6 @@ Phản ứng như vậy sẽ mang lại kết quả, vì: bạn đã chứng t�
 
 <p>In closing, it&#8217;s obvious that the &#8220;best&#8221; format in which to release your ebook is several of the above, as many as you feel you can support. Baen Books offers their webscriptions in RTF, .lit, MobiPocket, HTML and Gemstar&#8217;s .rb format (which I didn&#8217;t mention since it&#8217;s limited to the relatively small market of those with Rocket eBook dedicated readers). I usually offer mine in ASCII, OEB, .
 lit, PalmDoc, RTF and Palm Reader formats. Until the ebook industry settles on a standard (which probably will end up one of the PalmOS formats unless Microsoft ports Microsoft Reader to PalmOS, something they haven&#8217;t ruled out), ebook publishers will have to make books available in formats their customers want, however many that might be.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Ai là người may mắn nhất truyện Kim Dung]]></title>
-    <link href="http://Narga.github.com/narga-octopress/2005/06/ai-la-nguoi-may-man-nhat-truyen-kim-dung/"/>
-    <updated>2005-06-25T19:37:00+07:00</updated>
-    <id>http://Narga.github.com/narga-octopress/2005/06/ai-la-nguoi-may-man-nhat-truyen-kim-dung</id>
-    <content type="html"><![CDATA[<blockquote><p>Nếu theo ý tôi may mắn nhất phải là Tiểu Quế Tử, Vi Công Công, Bá Tước, Bạch Long Sứ, Lộc Đỉnh Công là người may mắn nhất. Tui dám nói như vậy vi coi cái công hàm ngoại giao của Vi Tiểu Bảo chưa gì đã thấy promote len vùn vụt. Mới từ thằng nhóc quen trong Lệ Xuân Viện, tự nhiên nhảy lên trong hoàng cung, rồi thăng lên tổng thái giám,…. cuối cùng làm Lộc Đỉnh Công.</p>
-
-<p>Tui nói thiệt chưa thấy thằng cha nào ngoài đời mà như vậy, giống như mình từ thằng nhân viên tạp vụ mà lên tổng giám đốc công ty vậy, cuộc đời có được như vậy cũng đáng lắm (chưa nói đến cái khoản làm trụ trì trên Ngũ Đài Sơn hết một thời gian chăm sóc cho Thuận Trị Hoang Đế).</p>
-
-<p>Đó còn chưa kể lũ vợ lóc nhóc nguyên một bầy đủ làm thêm một cái kỹ viện ở Dương Châu, mà đâu phải đứa nào cũng xấu toàn là hoa hậu thời nay không. Tui mà thất học được như thằng kia chắc tui cũng dám bỏ học kiếm một chân bảo kê ở mấy cái show girl quá, mai mốt ai biết mình được đề cử làm tổng giám đốc Microsoft thay cho Bill Gate lúc nào không hay. Có lẽ ông già Kim Dung thấy mình hổng được vậy chắc đành gởi ước muốn của mình qua nhân vật thôi.</p></blockquote>
-
-<!-- more -->
-
-
-<blockquote><p>Người thứ hai mà tui xếp được Kim Dung dành một số đặc ân chỉ thua Vi Tiểu Bảo là Quách Tỉnh. Cha này cuộc sống hồi nhỏ thi hơi kham khổ chút ít, ở sa mạc chăn trâu giữ ngựa gi đó ai mà biết được, nhưng mà chưa gi có người chạy đến dạy võ công giùm.</p>
-
-<p>Trời cái kiểu nay như ngồi không lụm được tờ vé số super lottery trúng giải độc đắc được mấy chục triệu USD vậy. Thiệt tình sung sướng ngồi không có người đem võ đến mà dạy, hết Triết Biệt sư phụ rồi bảy ông bà sư phụ khùng khùng rồi đến Ma Ngọc.</p>
-
-<p>Tưởng không có gi tẩm bổ cho Quách Đại hiệp Kim Dung chơi lấy máu rắn cho thằng cha nay uống, nói chung là chẳng còn gì mà hên hơn thế được nữa. Rồi tự nhiên kiếm đâu thằng cha ăn mày đầu đường xó chợ gì đó dạy cho 18 chưởng Hàng Long thiệt tinh là phi lý. Tui chưa thấy ai được cái kiểu đó, mà ông nội này có bỏ công sức gi đâu toàn là người ta đem đến dâng trước miệng còn không ăn thi hết biết nói ra sao.</p>
-
-<p>Cái hen cuối cùng tui nghĩ là cực điểm đó là tự nhiên Quách đại hiệp chả mất cái gì được ông anh kết nghĩa dạy luôn cho bộ Cửu Âm Chân Kinh thiệt tình là khó hiểu. Mấy ông già kia lên Hoa Sơn đánh rầm rầm mà có thằng cha nào được xơ múi gì đâu tự nhiên ông này chẳng biết gi lại được học; thiệt tình cuộc đời làm đại hiệp sao mà suôn sẻ quá.</p>
-
-<p>Nhìn qua thử đứa con của thằng em kết nghĩa Dương Khang coi có được như vậy đâu, thằng nhỏ Dương Quá bị đè đầu suốt cuốn truyện, võ công sau này cũng tự do mỉnh sáng chế ra, sao thấy khác xa quá. Vậy mà cũng len chức Bắc Hiệp được nên ông may mắn chỉ được đặt thua Vi Tiểu Bảo thôi.</p>
-
-<p>Người thứ ba theo tui may mắn không biết chọn lựa ai giữa Trương Giáo Chủ với Hư Trúc. Hai ông này tui thấy vận may ngang nhau.</p>
-
-<p>Cha Trương Vô Kỵ, nghe cái tên tưởng cái gi cũng Vô Kỵ không sợ gi hết ai ngờ đi sợ lạnh thiệt khó hiểu, ông này số từ nhỏ đến lớn ở Băng Hỏa đảo toàn là băng suốt, tự nhiên bị cái bệnh sợ lạnh đúng là đọc truyện kỹ mới thấy Kim Dung thâm ý…</p>
-
-<p>Nhưng Trương giáo chủ thiệt tinh cũng có chỗ không may, suốt ngày bệnh tật liên miên, hết ăn mấy cái chưởng của Huyền Minh nhị lao rồi chưa gi bị chó cắn, hết bị chó cắn rồi bị gãy chân, liền được cái chân thì bị con bồ cũ rút Ỷ thiên kiếm ra đâm một nhát… rồi bị vu oan giá họa cho giết ông sư thúc nữa nói chung tui không xếp Trương Giáo Chủ lên đầu là vậy.</p>
-
-<p>Hư Trúc cũng không phải là hoàn toàn may mắn, cha này xui xẻo nhất là nhìn cảnh ông bà già tự sát ngay trước cổng chùa. Cái nay hơi bị đau đớn, tui cho rằng cái chuyện này là cái chuyện xui xẻo nhất đời của cung chủ Linh Thứu cung. Nhưng nói xui nhiều thi không hẳn vi tui thấy cuộc đời ông này vẫn còn tươi đẹp chán.</p>
-
-<p>Chưa gi được biếu không 70 năm công lực rồi, học hết Bắc Minh thần công rồi võ công của bà sư bá trên kia thi chắc chẳng ai nói là xui xẻo nhỉ. Chưa kể cái chuyện hoàn tục tui chịu nhất la cái chuyện này à nha, chứ làm thầy chùa ma ở trên cái cung toàn em iếc thì sao mà chịu nổi, hoàn tục là một điều may rồi.</p></blockquote>
 ]]></content>
   </entry>
   
