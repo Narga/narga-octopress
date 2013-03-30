@@ -4,7 +4,7 @@
   <title><![CDATA[Category: SEO/SEM | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/seo-slash-sem/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-03-31T00:13:23+07:00</updated>
+  <updated>2013-03-31T00:14:37+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -80,18 +80,25 @@ Nếu muốn chia sẻ những file nhỏ, khoảng 2 – 5MB, với khách vi�
 <li><p><strong>Tối ưu hóa mã CSS</strong>: Hiện nay, nhiều website bắt đầu sử dụng CSS (Cascade Style Sheet) để định dạng. Mặc dù bảng CSS nhìn bắt mắt và hiệu quả hơn định dạng bảng HTML, nhưng nó đòi hỏi bạn phải tối ưu hóa code của chúng mới mong đạt được tốc độ tối ưu. Đoạn mã CSS “sạch” sẽ giúp trình duyệt giải mã trang web nhanh hơn.
 Ví dụ: <em>Thay vì viết</em></p>
 
-<p><code>CSS
-margin-top: 20px;
-margin-right: 10px;
-margin-bottom: 20px;
-margin-left: 10px;
-</code></p>
+<p>``` css</p>
+
+<p>margin-top: 20px;</p>
+
+<p>margin-right: 10px;</p>
+
+<p>margin-bottom: 20px;</p>
+
+<p>margin-left: 10px;</p>
+
+<p>```</p>
 
 <p><em>Bạn nên viết</em></p>
 
-<p><code>css
-margin: 20px 10px 20px 10px;
-</code></p>
+<p>``` css</p>
+
+<p>margin: 20px 10px 20px 10px;</p>
+
+<p>```</p>
 
 <p>Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.</p>
 
