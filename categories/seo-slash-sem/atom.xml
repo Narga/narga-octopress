@@ -4,7 +4,7 @@
   <title><![CDATA[Category: SEO/SEM | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/seo-slash-sem/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-04T22:52:38+07:00</updated>
+  <updated>2013-04-04T22:53:25+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -82,7 +82,7 @@ Ví dụ: <em>Thay vì viết</em></p></li>
 </ul>
 
 
-<p>{%</p>
+<p>``` css</p>
 
 <pre><code>margin-top: 20px;
 
@@ -93,7 +93,7 @@ margin-bottom: 20px;
 margin-left: 10px;
 </code></pre>
 
-<p>%}</p>
+<p>```</p>
 
 <pre><code>_Bạn nên viết_
 
