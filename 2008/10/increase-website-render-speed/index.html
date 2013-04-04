@@ -15,10 +15,12 @@
 	<link rel="canonical" href="">
 	<link href="/narga-octopress/favicon.png" rel="shortcut icon">
 	<link href="/narga-octopress/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+        <link href="/narga-octopress/stylesheets/pygments.css" media="screen, projection" rel="stylesheet" type="text/css">
+        <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	
 </head>
+
 
 <body>
 	<header id="header" class="inner"><h1><a href="/narga-octopress/">NARGA</a></h1>
@@ -92,31 +94,35 @@
 <li><p><strong>Chuyển host lưu trữ file hoặc ảnh cỡ lớn sang nơi khác</strong>: Nhiều người cùng online một lúc có thể làm nghẽn đường truyền của bạn với hàng đống yêu cầu xem cùng một tấm hình trên website. Gánh nặng dữ liệu có thể chuyển sang những website chuyên để lưu trữ và chia sẻ ảnh như <a href="http://imageshack.us">ImageShack</a>, <a href="http://www.photobucket.com">Photobucket</a> hay <a href="http://www.flickr.com">Flickr</a>. Bằng cách này, máy chủ web của bạn chỉ cần đảm bảo phần text và file ảnh cỡ nhỏ, giảm đáng kể băng thông đồng nghĩa với việc phục vụ được nhiều người một lúc hơn.
 Nếu muốn chia sẻ những file nhỏ, khoảng 2 – 5MB, với khách viếng thăm, bạn có thể sử dụng dịch vụ Google Pages như một máy chủ web phụ.</p></li>
 <li><p><strong>Tối ưu hóa mã CSS</strong>: Hiện nay, nhiều website bắt đầu sử dụng CSS (Cascade Style Sheet) để định dạng. Mặc dù bảng CSS nhìn bắt mắt và hiệu quả hơn định dạng bảng HTML, nhưng nó đòi hỏi bạn phải tối ưu hóa code của chúng mới mong đạt được tốc độ tối ưu. Đoạn mã CSS “sạch” sẽ giúp trình duyệt giải mã trang web nhanh hơn.
-Ví dụ: <em>Thay vì viết</em></p>
+Ví dụ: <em>Thay vì viết</em></p></li>
+</ul>
 
-<p>&#8220;` css</p>
 
-<p>margin-top: 20px;</p>
+<div>
+  <pre><code class='css'>margin-top: 20px;
 
-<p>margin-right: 10px;</p>
+    margin-right: 10px;
 
-<p>margin-bottom: 20px;</p>
+    margin-bottom: 20px;
 
-<p>margin-left: 10px;</p>
+    margin-left: 10px;</code></pre>
+</div>
 
-<p>&#8220;`</p>
 
-<p><em>Bạn nên viết</em></p>
+<pre><code>_Bạn nên viết_
 
-<p>&#8220;` css</p>
+``` css
 
-<p>margin: 20px 10px 20px 10px;</p>
+margin: 20px 10px 20px 10px;
 
-<p>&#8220;`</p>
+```
 
-<p>Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.</p>
+Theo các chuyên gia tối ưu hóa của Yahoo thì các mã CSS nên được đặt ở phần đầu của web. Điều này đặc biệt ý nghĩa nếu trang của bạn lớn và có nhiều đối tượng. Nếu bạn đặt CSS ở cuối hoặc giữa trang web, trình duyệt sẽ dùng định dạng mặc định để hiện thị, sau đó mới tái định dạng bằng CSS. Điều đó đòi hỏi thêm thời gian tính toán và tất nhiên người dùng sẽ khó chịu khi nhìn một website vỡ tung khi chưa định hình.Thậm chí, một số trình duyệt cũng cấm đặt CSS tại cuối website.
 
-<p>Nếu chưa thạo về code, công cụ trực tuyến nhỏ Clean CSS sẽ giúp bạn công đoạn tối ưu này, loại bỏ những khai báo thừa và khoảng trống vô nghĩa. Bạn có thể tham khảo <a href="http://www.cleancss.com/">tại đây</a>.</p></li>
+Nếu chưa thạo về code, công cụ trực tuyến nhỏ Clean CSS sẽ giúp bạn công đoạn tối ưu này, loại bỏ những khai báo thừa và khoảng trống vô nghĩa. Bạn có thể tham khảo [tại đây](http://www.cleancss.com/).
+</code></pre>
+
+<ul>
 <li><p><strong>Tối ưu hóa hình ảnh</strong>: Có 4 loại định dạng hình ảnh sử dụng phổ biến trên web: <strong>PNG, JPG, JPEG và GIF</strong>. Hầu hết các phần mềm xử lý ảnh như Adobe Photoshop đều có tính năng “Save for Web” để tối ưu tỉ lệ giữa chất lượng hình và kích thước file.</p>
 
 <p>Sử dụng tính năng Save for Web để loại bớt những thông tin không cần thiết và tối ưu kích thước ảnh.</p></li>

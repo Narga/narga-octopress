@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Cuộc sống | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/cuoc-song/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-04T22:53:25+07:00</updated>
+  <updated>2013-04-04T22:54:24+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -18,7 +18,7 @@
     <link href="http://Narga.github.com/narga-octopress/2008/12/doi-khi-su-that-la/"/>
     <updated>2008-12-09T22:59:34+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2008/12/doi-khi-su-that-la</id>
-    <content type="html"><![CDATA[<p>{% img center /images/2008/12/the_sales_office_home.gif 580 292 'Quảng cáo và sự thật' 'Quảng cáo và sự thật' %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/2008/12/the_sales_office_home.gif" width="580" height="292" title="Quảng cáo và sự thật" alt="Quảng cáo và sự thật"></p>
 
 <p>Có những sự thật của cuộc sống mà chúng ta phải chấp nhận nó dù đúng hay sai:</p>
 
@@ -50,7 +50,7 @@
     <id>http://Narga.github.com/narga-octopress/2006/12/lan-dau-lam-chuyen-ay</id>
     <content type="html"><![CDATA[<h4>Cảnh báo: Cấm người lớn trên 18 tuổi đọc B-)</h4>
 
-<p>{% img center /images/2008/12/the-first-time.jpg 550 366 'Lần đầu tiên làm chuyện ấy' 'Lần đầu tiên làm chuyện ấy' %}</p>
+<p><img class="center" src="/images/2008/12/the-first-time.jpg" width="550" height="366" title="Lần đầu tiên làm chuyện ấy" alt="Lần đầu tiên làm chuyện ấy"></p>
 
 <p>Chuyện ấy là chuyện gì? Đây là một việc tế nhị he he. Cũng có bạn đã đọc cái <a href="/2006/05/ngoan-khong-dau-ti-nao-dau-em/">'chuyện ấy'</a> lần đầu đầu tiên của tớ rùi nhưng vẫn chưa thấy hết cảm xúc của nó, cũng phải thôi vì lúc đây tớ lo lắng và căng thẳng quá. Có lẽ lần này sẽ diễn tả mạch lạc hơn chăng ;))</p>
 
@@ -74,7 +74,7 @@
     <link href="http://Narga.github.com/narga-octopress/2006/05/ngoan-khong-dau-ti-nao-dau-em/"/>
     <updated>2006-05-28T05:37:45+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2006/05/ngoan-khong-dau-ti-nao-dau-em</id>
-    <content type="html"><![CDATA[<p>{% img center /images/2006/05/Ngoan-khong-dau-dau-em-600x401.jpg 600 401 'Ngoan, không đau tí nào đâu' 'Ngoan, không đau tí nào đâu' %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/images/2006/05/Ngoan-khong-dau-dau-em-600x401.jpg" width="600" height="401" title="Ngoan, không đau tí nào đâu" alt="Ngoan, không đau tí nào đâu"></p>
 
 <h3>Đây là lần đầu tiên của bạn</h3>
 

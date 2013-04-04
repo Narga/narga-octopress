@@ -4,7 +4,7 @@
   <title><![CDATA[Category: CSS/Javascript | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/css-slash-javascript/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-04T22:53:25+07:00</updated>
+  <updated>2013-04-04T22:54:24+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -24,7 +24,7 @@ Vô tình trong lúc thiết kế giao diện của Website mình phát hiện t
 <!-- more -->
 
 
-<p>{% img left /images/2006/01/Javascript-Console.png 384 147 'Firefox JavaScript Console' 'Firefox JavaScript Console' %}
+<p><img class="left" src="/images/2006/01/Javascript-Console.png" width="384" height="147" title="Firefox JavaScript Console" alt="Firefox JavaScript Console">
 Để sử dụng tính năng này, rất đơn giản bạn chọn <strong>Tools > JavaScript Console</strong> sau đó đặt chế độ hiển thị lỗi là <strong>All</strong> hoặc <strong>Errors</strong> khi trình duyệt gặp một trang có chứa các đoạn mã css bị lỗi (có thể chứa trong các file style.css) nó sẽ hiển thị thông tin về lỗi đã xảy ra.
 Những thông tin này rất có ích cho người thiết kế tuy nhiên theo mình biết thì chỉ có <strong>W3C CSS Validator</strong> là có khả năng phát hiện được, tính năng này rất hữu ích, bạn có muốn thử không? Tải về phiên bản Firefox mới nhất tại đây</p>
 ]]></content>
