@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Công nghệ | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/cong-nghe/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-06T18:40:06+07:00</updated>
+  <updated>2013-04-06T18:54:48+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -20,15 +20,14 @@
     <id>http://Narga.github.com/narga-octopress/2006/03/free-to-send-sms</id>
     <content type="html"><![CDATA[<p>Trang Web <a href="http://www.romsms.com/?refid=WBA1p32q">ROMSMS</a>, tin nhắn có thể gửi đến các ĐTDĐ trên toàn thế giới, trong đó có Việt Nam.
 Đây là trang web của  Rumani nên giao diện mặc định của nó là tiếng Rumani, để chuyển sang tiếng Anh bạn chỉ cần bấm vào hình là cớ <a href="http://www.romsms.com/operator/login.php?back_page=/operator/quicksms.php&amp;set_lang=1">Liên hiệp Anh</a> ở phía trên bên phải gần logo <a href="http://www.romsms.com/?refid=WBA1p32q">ROMSMS</a> ở phía trên cùng của trang Web.
-Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gửi tin nhắn tới bất kỳ người thân nào của bạn. </p>
+Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gửi tin nhắn tới bất kỳ người thân nào của bạn.</p>
 
-<blockquote>
-<p><strong>Lưu ý</strong>:
+<blockquote><p><strong>Lưu ý</strong>:
   * Số điện thoại phải để ở dạng quốc tế, nghĩa là có mã vùng quốc gia đặt ở trước (của Việt Nam là 84), ví dụ 84912xxxxxxx.</p>
 
 <ul>
 <li><p>Sau khi đăng kí ROMSMS sẽ gửi mật khẩu đăng nhập cho bạn tới chính sô điện thoại bạn vừa đăng kí, từ đây bạn có thể gửi tin nhắn như trên điện thoại của bạn.</p></li>
-<li><p>Người nhận sẽ không nhận được các tin nhắn tiếng Việt đơn giản vì nó không phục vụ riêng cho người Việt </p></li>
+<li><p>Người nhận sẽ không nhận được các tin nhắn tiếng Việt đơn giản vì nó không phục vụ riêng cho người Việt</p></li>
 </ul>
 </blockquote>
 ]]></content>
@@ -44,9 +43,12 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
 
 <p><strong>Phần mềm tương thích với các hệ điều hành sau</strong></p>
 
-<p>Windows NT 4.0, Windows 2000, Windows 98, Windows 98 SE, Windows Me, Windows XP SP1-SP2 với CPU Intel Pentium 4, Intel Pentium III, Intel Pentium II, Intel Celeron, Intel Xeon, Intel Pentium III Xeon, hay Intel Pentium II Xeon. Đặc biệt, Mainboard có bộ chipset được hỗ trợ từ Intel 810 tới Intel 860.
-&lt;!-- more --&gt;
-<strong>Phần mềm của Intel có những khả năng ưu việt sau</strong>:
+<p>Windows NT 4.0, Windows 2000, Windows 98, Windows 98 SE, Windows Me, Windows XP SP1-SP2 với CPU Intel Pentium 4, Intel Pentium III, Intel Pentium II, Intel Celeron, Intel Xeon, Intel Pentium III Xeon, hay Intel Pentium II Xeon. Đặc biệt, Mainboard có bộ chipset được hỗ trợ từ Intel 810 tới Intel 860.</p>
+
+<!-- more -->
+
+
+<p><strong>Phần mềm của Intel có những khả năng ưu việt sau</strong>:
   * Boot máy nhanh hơn thông qua thời gian load hệ điều hành được gia tốc.</p>
 
 <ul>
@@ -55,13 +57,12 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
 <li><p>Hỗ trợ các ổ đĩa cứng có dung lượng tới hơn 137 GB.</p></li>
 </ul>
 
+
 <p>Hãy cài và cảm nhận sự thay đổi trong chiếc máy cà khổ của mình. Chắc chắn bạn sẽ thấy hệ thống chạy nhanh và mướt hơn rất nhiều.</p>
 
-<blockquote>
-<p><strong>Chú ý</strong>:</p>
+<blockquote><p><strong>Chú ý</strong>:</p>
 
-<p>Trong một số trường hợp, khi chạy phần mềm tăng tốc này trong Windows Me, khi khởi động máy sẽ báo mất file WININIT.EXE. Trong trường hợp này bạn cứ nhấn một phím bất kỳ nào đó để tiếp tục vào Windows Me, sau đó, bạn mở thư mục WINDOWS/SYSTEM/SRP/BACKUP và copy file WININIT.EXE trong đó vào thư mực WINDOWS.</p>
-</blockquote>
+<p>Trong một số trường hợp, khi chạy phần mềm tăng tốc này trong Windows Me, khi khởi động máy sẽ báo mất file WININIT.EXE. Trong trường hợp này bạn cứ nhấn một phím bất kỳ nào đó để tiếp tục vào Windows Me, sau đó, bạn mở thư mục WINDOWS/SYSTEM/SRP/BACKUP và copy file WININIT.EXE trong đó vào thư mực WINDOWS.</p></blockquote>
 ]]></content>
   </entry>
   
@@ -70,12 +71,14 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
     <link href="http://Narga.github.com/narga-octopress/2005/12/nhung-tro-lua-dao-cua-spyware-trong-nam-2005/"/>
     <updated>2005-12-19T01:42:39+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2005/12/nhung-tro-lua-dao-cua-spyware-trong-nam-2005</id>
-    <content type="html"><![CDATA[<p>Chín cách này cũng là những phương pháp gắn liền với những sự kiện khá nổi đình nổi đám trong năm nay liên quan tới những anh chàng &quot;gián điệp&quot; ảo này.
-&lt;!-- more --&gt;</p>
+    <content type="html"><![CDATA[<p>Chín cách này cũng là những phương pháp gắn liền với những sự kiện khá nổi đình nổi đám trong năm nay liên quan tới những anh chàng "gián điệp" ảo này.</p>
+
+<!-- more -->
+
 
 <ol>
 <li><p>Spyware lan tỏa dựa vào lỗ hổng tìm thấy được của các chương trình được nhiều người sử dụng ví dụ như Windows Media Players (xảy ra vào tháng 1 năm 2005, đã được Microsoft vá).</p></li>
-<li><p>Spyware che giấu việc nó được cài đặt bằng cách sử dụng Rootkit (là một công cụ do hacker viết ra nhằm mục đích thoát khỏi các công cụ kiểm định được cài đặt trên máy), đương nhiên, nếu bạn đã “vũ trang tận răng” và cẩn thận trong thao tác trên màn hình thì cũng không có gì đáng lo với nó. Có thể ví dụ là 2 chương trình Enternet Media&#39;s Elitetoolbar và ContextPlus&#39; Apropos và PeopleonPage.</p></li>
+<li><p>Spyware che giấu việc nó được cài đặt bằng cách sử dụng Rootkit (là một công cụ do hacker viết ra nhằm mục đích thoát khỏi các công cụ kiểm định được cài đặt trên máy), đương nhiên, nếu bạn đã “vũ trang tận răng” và cẩn thận trong thao tác trên màn hình thì cũng không có gì đáng lo với nó. Có thể ví dụ là 2 chương trình Enternet Media's Elitetoolbar và ContextPlus' Apropos và PeopleonPage.</p></li>
 <li><p>Một đoạn mã viết bằng Java có thể nhiễm vào IE nếu một máy xài cả hai hệ điều hành đồng thời là FireFox và IE. Lỗi này cũng đã được vá.</p></li>
 <li><p>Những chương trình Spam, Adware, Keyloggers, nối đến những website quảng cáo, những website có nội dung đồi trụy “hạng nặng”. Nếu bạn lỡ bị nhiễm chúng cũng rất phiền phức. Có thể lấy ví dụ như 180solutions, Direct Revenue, SurfSidekick, BullsEye Network và ShopAtHomeSelect.</p></li>
 <li><p>Các chương trình spyware lây nhiễm qua các chương trình “chat”. Bạn có thể tham khảo danh sách tại các trang web của SunbeltBLOG và Spyware Warrior. Đặc điểm của các chương trình này là phát tán quảng cáo liên tục, thông qua IRC.</p></li>
@@ -84,6 +87,7 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
 <li><p>Các sâu AIM mang theo những công cụ giúp cho việc đột nhập của các cuộc tấn công có nguồn gốc phần lớn từ Trung Đông.</p></li>
 <li><p>Và chuyện nổi đình đám nhất có lẽ là việc Sony phải thu hồi hơn 2.1 triệu đĩa nhạc của mình do đĩa nhạc có cài các DRM theo dõi khách hàng một cách không được phép. Cách lây nhiễm này có thể nói là tinh nhuệ và chính quy.</p></li>
 </ol>
+
 
 <p>Nói cho cùng, spyware không phải dễ bị nhiễm. Nếu bạn là một người thận trọng trong sử dụng máy tính, cẩn thận cài đặt các chương trình bảo vệ, trước khi bất kỳ spyware nào cài đặt đều có các dấu hiệu báo trước và bạn đều có thể phòng tránh được.</p>
 ]]></content>
@@ -94,11 +98,14 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
     <link href="http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak/"/>
     <updated>2005-10-22T14:54:48+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2005/10/thu-thuat-windows-xp-tips-tweak</id>
-    <content type="html"><![CDATA[<h3 id="toc_7">Bảo vệ và tăng tốc ổ cứng</h3>
+    <content type="html"><![CDATA[<h3>Bảo vệ và tăng tốc ổ cứng</h3>
 
 <p>Khi mà ổ cứng của ngày càng đầy lên, hệ điều hành sẽ “nhét” những tệp tin dữ liệu mới lên ổ cứng vào bất kỳ chỗ nào còn khoảng trống. Đôi khi khi có những tệp tin sẽ bị chia ra thành rất nhiều những phần nhỏ khác nhau để cho phù hợp với dung lượng khoảng trống còn lại trên ổ đĩa. Nếu có quá nhiều tệp tin bị chia nhỏ - hay còn gọi là phân mảnh – thì không những ổ cứng của bạn mà cả hệ điều hành của bạn đều sẽ bị chậm đi rất nhiều không những thế mà còn tăng nguy cơ bị mất dữ liệu.</p>
 
-<p>&lt;!-- more --&gt;Giải pháp ở đây là bạn có thể sử dụng công cụ dọn phân mảnh  của hệ điều hành <strong>Disk Defragmenter</strong> bằng cách vào <em>Start | All Programs |  Accessories | System Tools</em> rồi chọn ổ đĩa bạn muốn “dọn dẹp” nhấp Ok rồi ngồi  chờ.</p>
+<!-- more -->
+
+
+<p>Giải pháp ở đây là bạn có thể sử dụng công cụ dọn phân mảnh  của hệ điều hành <strong>Disk Defragmenter</strong> bằng cách vào <em>Start | All Programs |  Accessories | System Tools</em> rồi chọn ổ đĩa bạn muốn “dọn dẹp” nhấp Ok rồi ngồi  chờ.</p>
 
 <p>Tuy nhiên, có một số tệp tin mà bạn không thể di chuyển được trong quá trình thực hiện dọn dẹp phân mảnh ổ cứng. Những tệp tin này vẫn bị phân mảnh ngay cả sau khi bạn đã chạy <strong>Disk Defragmenter</strong>. Hầu hết các tệp tin dữ liệu này  là Master File Table (MFT) hoặc SWAP (RAM ảo).</p>
 
@@ -112,16 +119,16 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
 
 <p>Sau khi trình biên tập Registry khởi động bạn hãy tìm đến khoá <strong>HKEY_ LOCAL_MACHINESYSTEMCurrentControlSetControlFilesystem</strong> rồi nhắp đúp lên khoá NtfsMftZoneReservation bên phía tay phải và nhập giá trị trong khoả từ 2 đến 4 vào đó – giá trị mặc định là 1 tương đương với 12,5% dung lượng ổ cứng dành cho tệp tin MFT, giá trị 2-3 là là từ 25-37,5% và 4 là 50%. Đóng trình biên tập Registry rồi khởi động lại hệ thống của bạn.</p>
 
-<h3 id="toc_8">Cách truy xuất dữ liệu từ ổ CD nhanh hơn</h3>
+<h3>Cách truy xuất dữ liệu từ ổ CD nhanh hơn</h3>
 
 <p>Chỉ cần có chút tuỳ chỉnh trong registry thì ổ CD-ROM của bạn sẽ hoạt động nhanh hơn khá nhiều. Thủ thuật nhỏ sẽ giúp cho ổ CD của bạn đọc dữ liệu nhanh hơn; lưu đoạn mã sau dưới dạng file .reg của Windows sau đó chạy nó để thay đổi các thông tin trong Registry</p>
 
 <p><code>Windows Registry Editor Version 5.00
 ;Read CD-Room Faster
 [HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControl]
-&quot;CacheSize&quot;=hex:ff,ff,00,00
-&quot;Prefetch&quot;=dword:00004000
-&quot;PrefetchTail&quot;=dword:00004000
+"CacheSize"=hex:ff,ff,00,00
+"Prefetch"=dword:00004000
+"PrefetchTail"=dword:00004000
 </code></p>
 ]]></content>
   </entry>
@@ -131,19 +138,18 @@ Vậy bạn còn chờ gì nữa mà không đăng kí ngay để có thể gử
     <link href="http://Narga.github.com/narga-octopress/2005/10/opera-tips/"/>
     <updated>2005-10-10T08:08:45+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2005/10/opera-tips</id>
-    <content type="html"><![CDATA[<p>Here&#39;s some tips to speed up <a href="http://www.opera.com">Opera</a>:</p>
+    <content type="html"><![CDATA[<p>Here's some tips to speed up <a href="http://www.opera.com">Opera</a>:</p>
 
-<blockquote>
-<ol>
+<blockquote><ol>
 <li><p>Defrag HD. This will make Opera open up faster, and download pages to your computer all the faster.</p></li>
 <li><p>Set Disk and RAM cache to 10 megs each. If you know how to edit opera6.ini, you can set Disk and RAM cache to 12 megs. Do this if you have 128MB of RAM or more. If you have under 128MB, set it to automatic. When set to automatic, it uses 10% of the RAM, so if you have 64MB RAM, it uses 6.4MB.</p></li>
 <li><p>Go to Network under preferences, and go to Server name completion and uncheck Look for local network machine, and uncheck try name completion. This fixes a problem in Opera where the address bar becomes unresponsive, and speeds up things a bit.</p></li>
-<li><p>To speed up internet browsing in Opera, go to Network under preferences, and set Max connections to server to 16, and Max Total Connections to 20. This is recommended for Broadband users, such as cable or DSL. If you don&#39;t have broadband, set it to something smaller, like 8/16, or 16/32</p></li>
-<li><p>Uncheck Synchronous DNS under Preferences : Network Warning: Don&#39;t uncheck this if you have Win95 if you have Winsock 2 upgrade installed.</p></li>
-<li><p>Remove the progress bar, and other buttons and menus you dont use. Removing menubars requires some knowledge of standard_menu.ini This doesn&#39;t speed things up much, ut it helps you navigate a little quicker. If you don&#39;t know how to do this, then leaving it alone won&#39;t hurt anything.</p></li>
-<li><p>Go to History and Cache, and go to Check Images, and change it to never. Images rarely change on websites, so changing it to never will speed up page loading, since it won&#39;t have to spend time caching the images to the HD.</p></li>
-<li><p>Disable Java, and Javascript on pages that don&#39;t require it. This will greatly speed up Opera. This is one of the biggest slowdowns for webpage loading, since Java, and Javascript can be very complex, and take a long time to load.</p></li>
-<li><p>Use standard windows skin, and disable special effects. Even though this doesn&#39;t speed things up much if you have a fairly fast computer, every little thing counts.</p></li>
+<li><p>To speed up internet browsing in Opera, go to Network under preferences, and set Max connections to server to 16, and Max Total Connections to 20. This is recommended for Broadband users, such as cable or DSL. If you don't have broadband, set it to something smaller, like 8/16, or 16/32</p></li>
+<li><p>Uncheck Synchronous DNS under Preferences : Network Warning: Don't uncheck this if you have Win95 if you have Winsock 2 upgrade installed.</p></li>
+<li><p>Remove the progress bar, and other buttons and menus you dont use. Removing menubars requires some knowledge of standard_menu.ini This doesn't speed things up much, ut it helps you navigate a little quicker. If you don't know how to do this, then leaving it alone won't hurt anything.</p></li>
+<li><p>Go to History and Cache, and go to Check Images, and change it to never. Images rarely change on websites, so changing it to never will speed up page loading, since it won't have to spend time caching the images to the HD.</p></li>
+<li><p>Disable Java, and Javascript on pages that don't require it. This will greatly speed up Opera. This is one of the biggest slowdowns for webpage loading, since Java, and Javascript can be very complex, and take a long time to load.</p></li>
+<li><p>Use standard windows skin, and disable special effects. Even though this doesn't speed things up much if you have a fairly fast computer, every little thing counts.</p></li>
 </ol>
 </blockquote>
 ]]></content>

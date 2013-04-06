@@ -83,11 +83,14 @@
 	
 	<div id="content" class="inner"><article class="post">
 	<h2 class="title">Thủ Thuật Windows XP</h2>
-	<div class="entry-content"><h3 id="toc_29">Bảo vệ và tăng tốc ổ cứng</h3>
+	<div class="entry-content"><h3>Bảo vệ và tăng tốc ổ cứng</h3>
 
 <p>Khi mà ổ cứng của ngày càng đầy lên, hệ điều hành sẽ “nhét” những tệp tin dữ liệu mới lên ổ cứng vào bất kỳ chỗ nào còn khoảng trống. Đôi khi khi có những tệp tin sẽ bị chia ra thành rất nhiều những phần nhỏ khác nhau để cho phù hợp với dung lượng khoảng trống còn lại trên ổ đĩa. Nếu có quá nhiều tệp tin bị chia nhỏ - hay còn gọi là phân mảnh – thì không những ổ cứng của bạn mà cả hệ điều hành của bạn đều sẽ bị chậm đi rất nhiều không những thế mà còn tăng nguy cơ bị mất dữ liệu.</p>
 
-<p>&lt;!&#8211; more &#8211;&gt;Giải pháp ở đây là bạn có thể sử dụng công cụ dọn phân mảnh  của hệ điều hành <strong>Disk Defragmenter</strong> bằng cách vào <em>Start | All Programs |  Accessories | System Tools</em> rồi chọn ổ đĩa bạn muốn “dọn dẹp” nhấp Ok rồi ngồi  chờ.</p>
+<!-- more -->
+
+
+<p>Giải pháp ở đây là bạn có thể sử dụng công cụ dọn phân mảnh  của hệ điều hành <strong>Disk Defragmenter</strong> bằng cách vào <em>Start | All Programs |  Accessories | System Tools</em> rồi chọn ổ đĩa bạn muốn “dọn dẹp” nhấp Ok rồi ngồi  chờ.</p>
 
 <p>Tuy nhiên, có một số tệp tin mà bạn không thể di chuyển được trong quá trình thực hiện dọn dẹp phân mảnh ổ cứng. Những tệp tin này vẫn bị phân mảnh ngay cả sau khi bạn đã chạy <strong>Disk Defragmenter</strong>. Hầu hết các tệp tin dữ liệu này  là Master File Table (MFT) hoặc SWAP (RAM ảo).</p>
 
@@ -101,16 +104,16 @@
 
 <p>Sau khi trình biên tập Registry khởi động bạn hãy tìm đến khoá <strong>HKEY_ LOCAL_MACHINESYSTEMCurrentControlSetControlFilesystem</strong> rồi nhắp đúp lên khoá NtfsMftZoneReservation bên phía tay phải và nhập giá trị trong khoả từ 2 đến 4 vào đó – giá trị mặc định là 1 tương đương với 12,5% dung lượng ổ cứng dành cho tệp tin MFT, giá trị 2-3 là là từ 25-37,5% và 4 là 50%. Đóng trình biên tập Registry rồi khởi động lại hệ thống của bạn.</p>
 
-<h3 id="toc_30">Cách truy xuất dữ liệu từ ổ CD nhanh hơn</h3>
+<h3>Cách truy xuất dữ liệu từ ổ CD nhanh hơn</h3>
 
 <p>Chỉ cần có chút tuỳ chỉnh trong registry thì ổ CD-ROM của bạn sẽ hoạt động nhanh hơn khá nhiều. Thủ thuật nhỏ sẽ giúp cho ổ CD của bạn đọc dữ liệu nhanh hơn; lưu đoạn mã sau dưới dạng file .reg của Windows sau đó chạy nó để thay đổi các thông tin trong Registry</p>
 
 <p><code>Windows Registry Editor Version 5.00
 ;Read CD-Room Faster
 [HKEY_LOCAL_MACHINESYSTEMCurrentControlSetControl]
-&quot;CacheSize&quot;=hex:ff,ff,00,00
-&quot;Prefetch&quot;=dword:00004000
-&quot;PrefetchTail&quot;=dword:00004000
+"CacheSize"=hex:ff,ff,00,00
+"Prefetch"=dword:00004000
+"PrefetchTail"=dword:00004000
 </code></p>
 </div>
 
