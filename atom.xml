@@ -4,7 +4,7 @@
   <title><![CDATA[NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-04T22:54:24+07:00</updated>
+  <updated>2013-04-06T13:52:20+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -158,15 +158,21 @@ Ví dụ: <em>Thay vì viết</em></p></li>
 </ul>
 
 
-<div>
-  <pre><code class='css'>margin-top: 20px;
-
-    margin-right: 10px;
-
-    margin-bottom: 20px;
-
-    margin-left: 10px;</code></pre>
-</div>
+<figure class='code'><figcaption><span>css </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>margin-top: 20px;
+</span><span class='line'>
+</span><span class='line'>    margin-right: 10px;
+</span><span class='line'>
+</span><span class='line'>    margin-bottom: 20px;
+</span><span class='line'>
+</span><span class='line'>    margin-left: 10px;</span></code></pre></td></tr></table></div></figure>
 
 
 <pre><code>_Bạn nên viết_

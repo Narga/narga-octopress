@@ -4,7 +4,7 @@
   <title><![CDATA[Category: SEO/SEM | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/seo-slash-sem/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-06T13:44:17+07:00</updated>
+  <updated>2013-04-06T13:52:20+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -67,7 +67,7 @@ Một vài lầm tưởng của người dùng về cách thức tăng chỉ s�
     <link href="http://Narga.github.com/narga-octopress/2008/10/increase-website-render-speed/"/>
     <updated>2008-10-30T14:08:17+07:00</updated>
     <id>http://Narga.github.com/narga-octopress/2008/10/increase-website-render-speed</id>
-    <content type="html"><![CDATA[<p>{% img center /2008/10/Decrease-time-to-load-your-website.jpg 600 405 'Cải thiện tốc độ hiển thị Website' 'Cải thiện tốc độ hiển thị Website' %}</p>
+    <content type="html"><![CDATA[<p><img class="center" src="/2008/10/Decrease-time-to-load-your-website.jpg" width="600" height="405" title="Cải thiện tốc độ hiển thị Website" alt="Cải thiện tốc độ hiển thị Website"></p>
 
 <p>Nghiên cứu thói quen sử dụng máy tính cho thấy người dùng sẽ chuyển sang trang khác nếu website không có “động tĩnh” gì sau 4 giây. Vì thế, tốc độ là yếu tố quan trọng và cũng là ưu thế cạnh tranh để cung cấp thông tin. 7 thủ thuật dưới đây sẽ tăng đáng kể website của bạn.</p>
 
@@ -82,18 +82,31 @@ Ví dụ: <em>Thay vì viết</em></p></li>
 </ul>
 
 
-<p>{% highlight css %}</p>
-
-<pre><code>margin-top: 20px;
-
-margin-right: 10px;
-
-margin-bottom: 20px;
-
-margin-left: 10px;
-</code></pre>
-
-<p>{% endhighlight %}</p>
+<p><div class='bogus-wrapper'><notextile><figure class='code'><figcaption><span>css </span></figcaption>
+<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+<span class='line-number'>7</span>
+<span class='line-number'>8</span>
+<span class='line-number'>9</span>
+<span class='line-number'>10</span>
+<span class='line-number'>11</span>
+<span class='line-number'>12</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;/p>
+</span><span class='line'>
+</span><span class='line'>&lt;pre>&lt;code>margin-top: 20px;
+</span><span class='line'>
+</span><span class='line'>margin-right: 10px;
+</span><span class='line'>
+</span><span class='line'>margin-bottom: 20px;
+</span><span class='line'>
+</span><span class='line'>margin-left: 10px;
+</span><span class='line'>&lt;/code>&lt;/pre>
+</span><span class='line'>
+</span><span class='line'>&lt;p></span></code></pre></td></tr></table></div></figure></notextile></div></p>
 
 <pre><code>_Bạn nên viết_
 
