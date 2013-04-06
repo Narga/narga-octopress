@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Javascript | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/javascript/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-06T13:52:20+07:00</updated>
+  <updated>2013-04-06T18:36:37+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -23,70 +23,60 @@
 <p>Chào các bạn, Để theo yêu cầu của người tiêu dùng, tôi xin mạo muội thử  so sánh Vietuni, Viettyping và mViet . Việc so sánh này không tránh được  chủ quan và thiếu sót. Vì vậy mong các bạn phản bác hoặc góp í thêm. Cơ  sở của sự so sánh này là các chương trình viết bằng Javascript, mới  nhất thấy trên các website của các tác giả:</p>
 
 <ol>
-<li>Vietuni: w3.avys.de</li>
-<li>Vietdev: <a href="http://vietdev.sourceforge.net/">vietdev.sf.net</a></li>
-<li>mViet: <a href="http://www.csun.edu/~spham/support/">w3.mviet.org</a></li>
+<li> Vietuni: w3.avys.de</li>
+<li> Vietdev: <a href="http://vietdev.sourceforge.net/">vietdev.sf.net</a></li>
+<li> mViet: <a href="http://www.csun.edu/%7Espham/support/">w3.mviet.org</a></li>
 </ol>
 
-
-<p>Kiểu gõ khi test là <strong>telex</strong> vì mViet không cho chọn kiểu gõ. Ngày test: 12.08.2004</p>
-
-<!-- more -->
-
+<p>Kiểu gõ khi test là <strong>telex</strong> vì mViet không cho chọn kiểu gõ. Ngày test: 12.08.2004
+&lt;!-- more --&gt;</p>
 
 <ol>
-<li>Compatible (không giới hạn sử dụng loại trình duyệt):
+<li> Compatible (không giới hạn sử dụng loại trình duyệt): 
 
 <ul>
-<li>Vietuni: không thể xem là dùng được cho trình duyệt Mozilla vì chỉ bỏ dấu được ở cuối bài viết. Không thể viết bài dài mà nhanh và có không lỗi được.</li>
-<li>Việttyping: ok</li>
-<li>mViet: ok</li>
-</ul>
-</li>
-<li>Cách cài đặt
+<li> Vietuni: không thể xem là dùng được cho trình duyệt Mozilla vì chỉ bỏ dấu được ở cuối bài viết. Không thể viết bài dài mà nhanh và có không lỗi được. </li>
+<li> Việttyping: ok </li>
+<li> mViet: ok</li>
+</ul></li>
+<li> Cách cài đặt
 
 <ul>
-<li>Vietuni: cài đặt khó khăn</li>
-<li>Viettyping: cài đặt dễ dàng</li>
-<li>mViet: cài đặt dễ dàng</li>
-</ul>
-</li>
-<li>Độ lớn
+<li> Vietuni: cài đặt khó khăn</li>
+<li> Viettyping: cài đặt dễ dàng</li>
+<li> mViet: cài đặt dễ dàng</li>
+</ul></li>
+<li> Độ lớn
 
 <ul>
-<li>Vietuni: trung bình</li>
-<li>Viettyping: lớn nhất (~25kB cho mỗi trình duyệt)</li>
-<li>mViet: nhỏ nhất</li>
-</ul>
-</li>
-<li>Hỗ trợ cho Visual o­nline Editor. Càng ngày càng có xu hướng sử dụng  Visual posting trong các portal và forum. Việc copy/paste bài từ nơi  khác dễ dàng.
+<li> Vietuni: trung bình</li>
+<li> Viettyping: lớn nhất (~25kB cho mỗi trình duyệt)</li>
+<li> mViet: nhỏ nhất</li>
+</ul></li>
+<li> Hỗ trợ cho Visual o­nline Editor. Càng ngày càng có xu hướng sử dụng  Visual posting trong các portal và forum. Việc copy/paste bài từ nơi  khác dễ dàng.
 
 <ul>
-<li>Vietuni: hoàn toàn không</li>
-<li>Viettyping: ok</li>
-<li>mViet: ok</li>
-</ul>
-</li>
+<li> Vietuni: hoàn toàn không</li>
+<li> Viettyping: ok</li>
+<li> mViet: ok</li>
+</ul></li>
 <li>Đặc điểm riêng của các bộ gõ
 
 <ul>
-<li>Vietuni: Duyệt dấu toàn bài <strong>chưa chuẩn</strong> vì còn nhiều lỗi. Ví dụ:  sourceforge bị biến thành sỏucẻoge. Một đặc điểm cần bổ xung là Vietuni có một chức năng phục hồi các tiếng ngoại bị mất khi gõ theo kiểu TELEX. T.d. như "m+f+i+a+a" sẽ thành "mafia". Có thể nói đây là cách gõ lặp cuối từ để  phục hồi lại tiếng ngoại. Tuy nhiên vẫn còn một số điểm bất cập khiến  tính năng này đôi khi phải gõ nhiều lần hơn là kiểu gõ lặp thông dụng.  t.d: "h+o+s+t+t" +"back" (6 lần gõ) trong khi "h+o+s+s+t" (5 lần gõ). Ngay trong t.d. từ "mafia" cũng có thể bất xứng khi một người nào đó (không phải Người anh) cho rằng viết "mafiaa" mới đúng chính tả của họ. Những bất cập này kiến người gõ nhanh dễ bị vấp. Tính năng này không thể nói là kiểm chính tả t.v.</li>
-<li>Viettyping: Kiểm từ cấu tiếng việt. Nhận diện được một từ không phải  tiếng việt trước khi thêm dấu. Những từ viết sai sẽ không bỏ dấu được.  Người viết dễ dàng nhận biết lỗi chính tả. Vì vậy các bài viết bằng  Viettyping có lỗi chính tả ít nhất. Khuyết điểm: không kiểm được từ đã  có dấu một phần như khi "gõ điệp" theo kiểu telex. Viettping  không có tính năng phục hồi chữ ngoại như trên. Vietyping chỉ phục hồi  chữ ngoại bằng quy ước gõ lặp thông thường. "m+a+f+f+i+a"= "mafia"</li>
-<li>mViet: Kiểm cấu trúc từ theo âm tiết. Chưa hoàn thiện vì vẫn còn  nhiều lỗi, nhưng nếu hoàn toàn thành công sẽ giúp kiểu gõ telex tránh  được khuyết điểm gõ các từ không phải tiếng việt. T.d. "mafia" chỉ gõ "m+a+f+i+a" như bình thường.  Đây cũng là   tính năng phục hồi chữ ngoại giống như Vietuni.   Một đặc điểm khác là bỏ dấu theo kiểu xoay vòng: a+a= â ; a+a+a=ă. Dễ  học cho người mới tập viết nhưng phải gõ nhiều lần hơn t.d. gõ 3 lần "a"  mới ra chữ "ă". Việc sửa chữa rất khó khăn vì muốn đổi "ă" thành "â"  chỉ có cách xóa chữ cũ viết mới lại. Theo thiển í của tôi về 2 đặc điểm  này là tiết kiệm số lần gõ cho tiếng ngoại nhưng lại tăng cho tiếng  việt. Với bài tiếng việt nhiều rõ ràng là không có lợi. Có thể có "đất  dụng võ" trong điều kiện gõ một ngón như ở người khuyết tật hay khi viết  SMS-tiếng việt (bản thân người viết không biết có loại handy này chưa).  Tác giả mViet bảo vệ í của mình là gõ "điệp" rất nhanh. Nhưng tôi thì  cho gõ kiểu VNI và với nhiều ngón  thì có thể nhanh hơn nếu không muốn nói là đồng thời (t.d. "a"+"1" hay  "a"+"s" có thể gần như đồng thời). Nếu các bạn nào có học đàn (tây ban  cầm hay dương cầm) sẽ biết rõ là cùng một nốt mà gõ bằng 2 ngón sẽ nhanh  hơn 1 ngón gõ liên tiếp. (rung==tremolo)</li>
-</ul>
-</li>
+<li> Vietuni: Duyệt dấu toàn bài <strong>chưa chuẩn</strong> vì còn nhiều lỗi. Ví dụ:  sourceforge bị biến thành sỏucẻoge. Một đặc điểm cần bổ xung là Vietuni có một chức năng phục hồi các tiếng ngoại bị mất khi gõ theo kiểu TELEX. T.d. như &quot;m+f+i+a+a&quot; sẽ thành &quot;mafia&quot;. Có thể nói đây là cách gõ lặp cuối từ để  phục hồi lại tiếng ngoại. Tuy nhiên vẫn còn một số điểm bất cập khiến  tính năng này đôi khi phải gõ nhiều lần hơn là kiểu gõ lặp thông dụng.  t.d: &quot;h+o+s+t+t&quot; +&quot;back&quot; (6 lần gõ) trong khi &quot;h+o+s+s+t&quot; (5 lần gõ). Ngay trong t.d. từ &quot;mafia&quot; cũng có thể bất xứng khi một người nào đó (không phải Người anh) cho rằng viết &quot;mafiaa&quot; mới đúng chính tả của họ. Những bất cập này kiến người gõ nhanh dễ bị vấp. Tính năng này không thể nói là kiểm chính tả t.v.</li>
+<li> Viettyping: Kiểm từ cấu tiếng việt. Nhận diện được một từ không phải  tiếng việt trước khi thêm dấu. Những từ viết sai sẽ không bỏ dấu được.  Người viết dễ dàng nhận biết lỗi chính tả. Vì vậy các bài viết bằng  Viettyping có lỗi chính tả ít nhất. Khuyết điểm: không kiểm được từ đã  có dấu một phần như khi &quot;gõ điệp&quot; theo kiểu telex. Viettping  không có tính năng phục hồi chữ ngoại như trên. Vietyping chỉ phục hồi  chữ ngoại bằng quy ước gõ lặp thông thường. &quot;m+a+f+f+i+a&quot;= &quot;mafia&quot;</li>
+<li> mViet: Kiểm cấu trúc từ theo âm tiết. Chưa hoàn thiện vì vẫn còn  nhiều lỗi, nhưng nếu hoàn toàn thành công sẽ giúp kiểu gõ telex tránh  được khuyết điểm gõ các từ không phải tiếng việt. T.d. &quot;mafia&quot; chỉ gõ &quot;m+a+f+i+a&quot; như bình thường.  Đây cũng là   tính năng phục hồi chữ ngoại giống như Vietuni.   Một đặc điểm khác là bỏ dấu theo kiểu xoay vòng: a+a= â ; a+a+a=ă. Dễ  học cho người mới tập viết nhưng phải gõ nhiều lần hơn t.d. gõ 3 lần &quot;a&quot;  mới ra chữ &quot;ă&quot;. Việc sửa chữa rất khó khăn vì muốn đổi &quot;ă&quot; thành &quot;â&quot;  chỉ có cách xóa chữ cũ viết mới lại. Theo thiển í của tôi về 2 đặc điểm  này là tiết kiệm số lần gõ cho tiếng ngoại nhưng lại tăng cho tiếng  việt. Với bài tiếng việt nhiều rõ ràng là không có lợi. Có thể có &quot;đất  dụng võ&quot; trong điều kiện gõ một ngón như ở người khuyết tật hay khi viết  SMS-tiếng việt (bản thân người viết không biết có loại handy này chưa).  Tác giả mViet bảo vệ í của mình là gõ &quot;điệp&quot; rất nhanh. Nhưng tôi thì  cho gõ kiểu VNI và với nhiều ngón  thì có thể nhanh hơn nếu không muốn nói là đồng thời (t.d. &quot;a&quot;+&quot;1&quot; hay  &quot;a&quot;+&quot;s&quot; có thể gần như đồng thời). Nếu các bạn nào có học đàn (tây ban  cầm hay dương cầm) sẽ biết rõ là cùng một nốt mà gõ bằng 2 ngón sẽ nhanh  hơn 1 ngón gõ liên tiếp. (rung==tremolo) </li>
+</ul></li>
 <li>Các lỗi
 
 <ul>
-<li>Vietuni: tưa+a = tưâ neu+e+s nếu (hay y+e+u+e yêu) neu+s néu huou+w  hươu nou+w nơu nou+s nóu m+i+r+a+a miraa (lỗi phục hồi chữ ngoại)  m+a+r+y+y maryy</li>
-<li>Viettyping: hoán+w = hơán (không phải tiếng việt) hoân+w= hơân  ("hoân" không phải tiếng việt) nói chung, có vấn đề với dấu "w" ngoài ra  vì chủ quan nên không biết hết. Xin lỗi vì kê khai quá ít.</li>
-<li>mViet: nói chung là lỗi rất nhiều ở phiên bản mới, có lẽ chưa làm  xong. nou+w nơu huan+a huân hươu+s hướu neu+e+s nếu tăm+a tâm (không sửa  được nhanh) và các hệ quả khác như u, ư , o , ô,... t+e+x+t "text" (nếu  suy ra theo như chữ m+a+f+i+a) hoặc t+e+x+t+t+back = "text" (6 lần gõ)  huan+a huân tonh+s = tónh (không phải chính tả t.v.) ngho+o = nghô  (không phải chính tả t.v.) các điểm sai trên đây có thể đã được sửa vì  tác giả update daily. Ngoài ra bộ gõ mViet không cho phép chọn bộ gõ nên  có thể gặp khó khăn cho những Site đa ngôn ngữ như site VD này.</li>
-</ul>
-</li>
+<li> Vietuni: tưa+a = tưâ neu+e+s nếu (hay y+e+u+e yêu) neu+s néu huou+w  hươu nou+w nơu nou+s nóu m+i+r+a+a miraa (lỗi phục hồi chữ ngoại)  m+a+r+y+y maryy</li>
+<li> Viettyping: hoán+w = hơán (không phải tiếng việt) hoân+w= hơân  (&quot;hoân&quot; không phải tiếng việt) nói chung, có vấn đề với dấu &quot;w&quot; ngoài ra  vì chủ quan nên không biết hết. Xin lỗi vì kê khai quá ít.</li>
+<li> mViet: nói chung là lỗi rất nhiều ở phiên bản mới, có lẽ chưa làm  xong. nou+w nơu huan+a huân hươu+s hướu neu+e+s nếu tăm+a tâm (không sửa  được nhanh) và các hệ quả khác như u, ư , o , ô,... t+e+x+t &quot;text&quot; (nếu  suy ra theo như chữ m+a+f+i+a) hoặc t+e+x+t+t+back = &quot;text&quot; (6 lần gõ)  huan+a huân tonh+s = tónh (không phải chính tả t.v.) ngho+o = nghô  (không phải chính tả t.v.) các điểm sai trên đây có thể đã được sửa vì  tác giả update daily. Ngoài ra bộ gõ mViet không cho phép chọn bộ gõ nên  có thể gặp khó khăn cho những Site đa ngôn ngữ như site VD này.</li>
+</ul></li>
 </ol>
 
-
-<h3>Tóm lại</h3>
+<h3 id="toc_12">Tóm lại</h3>
 
 <p>Sau hết, có thể nói Vietuni và mViet không có tính năng kiểm chính tả  t.v. mà chỉ có tính năng phục hồi chữ ngoại bị biến dạng vì kiểu gõ  telex. Tuy nhiên tính năng này vẫn còn nhiều bất cập và còn đang trên đà  hoàn thiện. Về tính năng này, quả thực, Viettyping không thể đem so  sánh vì Viettyping chỉ có tính năng kiểm chính tả T.V. mà thôi. Cám ơn  các bạn đã đọc và sẵn sàng chờ đón các góp ý.</p>
 ]]></content>

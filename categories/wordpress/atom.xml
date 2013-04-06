@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Wordpress | NARGA]]></title>
   <link href="http://Narga.github.com/narga-octopress/categories/wordpress/atom.xml" rel="self"/>
   <link href="http://Narga.github.com/narga-octopress/"/>
-  <updated>2013-04-06T13:52:20+07:00</updated>
+  <updated>2013-04-06T18:36:37+07:00</updated>
   <id>http://Narga.github.com/narga-octopress/</id>
   <author>
     <name><![CDATA[Nguyễn Đình Quân]]></name>
@@ -28,7 +28,6 @@ Một số tính năng mới đáng chú ý:</p>
 <li><p>Hỗ trợ bài viết có tính chất thông báo, treo trên trang nhất (sticky).</p></li>
 <li><p>...</p></li>
 </ul>
-
 
 <p>Hiện tại tớ thấy một vấn đề duy nhất là hoạt động trong Quản lý hệ thống (Dashboard) hơi chậm do Wordpress quá lạm dụng <a href="http://www.jQuery.com">jQuery</a>.</p>
 
